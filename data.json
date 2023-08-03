@@ -1,0 +1,1583 @@
+{
+    "109": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-26-2001/0000000386r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T161635Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5c022f14f4679120d5791cb1f8b409e0c87119f7d9e72a1038552320bc10b4d3786ee1a987966a131537e825781a6a07c5728c3c5ff8bc6884196dfa8ab25131cc4009149b217207c691140808583403d6672976d85b54b2da3e9a7331d92a38d9bd20df284beef7564e873db2e92799a1ce747da598cd63ddd60a374eaf1bd53605062d80f74b785ab10e0c76692fdd3e0f41f895663cd1d837a040a09d8b97afaa8282796923c73c461e8a5c1fdb2a33e55d4d236198e9885cd6541aa52f499c93412a3b79ce03a6f487851453a4686a2c04d6981a0e3721849de6faf24ac33f27b86c1a5f6955078818ae5121c0c5e228d85bb627b95372dc23a2607c3266",
+            "classification": {
+                "Drusen": 95.05
+            },
+            "severity_score": "0.2890862",
+            "class": "None",
+            "date": "3-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-26-2001/0000000386r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162055Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=84b92af90ea1d410bba8a567af8b9169f8b98c2ef697fbd36de363817f218a3026e6517fd5eff4a8b1fe0f02f8387ba15fdee9c36fdb5ab37a1649c5a84a6c5294f5029f28c14d4e5c745a00c322dbaf6fb417b214a9cf1c232fe1cb76a021e881c11e9b7458de5b85350062ee088c53b4ef60eaa652f79af92df3c1856d1280b8490c8252971755b06099aed2cba5ba8da0ecf4fe778b3d2ea72da3b1dc9d945643cbafbefe39246c3e3886a5297ae9b3f6730894b8cb4c9a78dbb4b1316960aeef480c7893b35c302baa26b11f77785d29d2bebfdcc43d4f5d7b30bc179acdb43e8c4399e729977690aff445b143f6ee3b64d881fe4bfd8a876fb7dd69cf8c",
+            "classification": {
+                "Drusen": 95.05
+            },
+            "severity_score": "0.2890862",
+            "class": "None",
+            "date": "3-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-26-2001/0000000387r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162116Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2bf0457a959ffc5dd45569d12789c50b52f2b28c7ad5b200e6fa6a8ce63fc7fc974039aa6d78a01246ccb1e799d2b932d593e93bddfe99fe9ff31c439b8449f5b905830b16a353b2927a63e818fa3307c15e2544e63b3e5c8f686451d5e3d12a4522f3a24a1bb7f18a7817521fc54f0274c084c2fd50133d5750feec3d0a39cc471b42a8de59858b264c72e6a9ebe96f2d9a8d702b079bc6ee708e676a763c3c0e836312a70f65dc20d2bfdabb6f7e5297911996f6142432180e7bfd1e33b8b9d42ef9ba04934624751c2c77114c0c97ad9ecbfb54c91bc44217d299bed6fa2bd9333a6d46f223e3c0b2d0bb2ea5b7a3f323e4ea3c3412461b2d9a95ac742d9e",
+            "classification": {
+                "Optic disc cupping": 61.72
+            },
+            "severity_score": "0.4321045",
+            "class": "None",
+            "date": "3-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-26-2001/0000000386r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162322Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=34cb28cf052172c21d53de83a501d451ab60ba9b5215153ac67781e5131881105265c89bc641627ad984a80806a33d0fecc6563e96c7dc7dddc08798a4d57863e12a4f65f1f54dd44e395e99fd2341d62b8d8eda9a0c7476358cdf46bd06a867e127a3da7ed6c1e23a8cce6fed2822f13e869e45a868bac5e0440f0d17b37019abcb9bd33eaa15c94759fc74c7c47e92a3ae01f2dbab74a58569906f9981ed5074c8da467e5894d1cf1e81538d255cfd6e9905309e304d9a09321e071e4a3be07545e10e626143bced76b8899b728101c95ab00b3c1b01f1e1564b055f887ae624c35a805a9cc95b7be06547292b40a850ddcc73e35dc20dd219c04d55861790",
+            "classification": {
+                "Drusen": 95.05
+            },
+            "severity_score": "0.2890862",
+            "class": "None",
+            "date": "3-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-26-2001/0000000387r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162348Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3bc5df45e1cbf2c43ce0364aee6352cfbb1b440f49fe3b1bb5da1edfe3e8dad18a6fcc3525c50fee996e8b948347bbaa38ddf2402a75eb2092cf5a19d0b6497f1b53d1ca4e4f8cf3da71ea9beb576cf86021c2a1988e050d14a9403fe85f0cf542437ee51ea31ce67d5228921cd27d65dd24a017735aee529d28bff6ed6873664d31a3e93b61d19b7ecb17e19f6aa9f668745e59ac5887c47a83d599f689d58899f0d40a80fb21b9f527fb328bca369a3e983321f510bd0d04d6e1969b8dd1329a7f43753a7769b4a847226db3672663418bdfe2a1d6ee9565daf2d3bbd6ff3779497e3a748ef24bab34bfb439ab819250bfcf7d6866c10223a4b9d5745218e1",
+            "classification": {
+                "Optic disc cupping": 61.72
+            },
+            "severity_score": "0.4321045",
+            "class": "None",
+            "date": "3-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2002/0000006812r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163149Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=181eebdfb5dc260b92f3d3884e4a51eb2c49d0efca649200dcfa0438c5b4aa140112b5c79d39d5a061993d143fb698342d82c90455cd9eaddf6e86b134407261905f5db30be1b7a26623889e5ed12190fef7328a3360673b23c3eb5f560b5e36fa2a797cc377990100d9e9cf5e47fc20ff44571e6982f008e16bbf12c3a17f8fc4277deb334f6575dcefeb5e70e78f0012e3f0f97de3872b232a2a52f484bd87ed4d8291ae7be1128475531ab339483db8e8d7f4c81440225b47c26a8bdcc3dbf74a480c1203aeae5ba6adb4c56c4537eff3e6a0388a0e665a944ccff47ef9048fa1d535554b7eb01eb60b779b2e28fb8ad4dfda267cf63380ea0bc07c3ef239",
+            "classification": {
+                "Age-related macular degeneration": 18.98
+            },
+            "severity_score": "0.2519959",
+            "class": "None",
+            "date": "4-29-2002"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2002/0000006813r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163243Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=044acf115204dbf945510a0143bf24e3a57a6d5191eea167ae2520c31d6b8a4d5a221ebab9c0c346f223423a16516232a75c5ba33a60b8f7d2f7e43148e2e8a401b41c801c819057bc932b1b844c2bb5f9eba0ce18afbea55f9ca69c1644965f50641e988aa882a553d1fbd97782fb3696e7e222fd595063f07d32f7ddcb0cbb520db5ff09ef90563108d1ce9dd5f09789def1cf5ea8160a5656d96e8ee29cc7b24ffbba7cce510f672492a3980715370c50afcbf3fb03c35eb6e6df587f0427adce79efd253d8068258cc4747babedc0bf397fb949a207b093587c20a6f5bd87c21f2a83faf44de908b0feb9d31d204cc37f79daff0588cc50770457c129698",
+            "classification": {
+                "Media haze": 30.79,
+                "Drusen": 87.74
+            },
+            "severity_score": "0.024796648",
+            "class": "None",
+            "date": "4-29-2002"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2002/0000006814r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163339Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a01fabb01f80e89d31638e1eba241fd822d8067a4fc9794193b473345a115d5b49df90336f2b1d68e7d561e151dbec14373acd8b4493ee5dafd00d21b8a7f5843bf3be0bc0c38588b93cd1375147e38d70295dc3ecaed272bbf8b4ebf645965654f26b5134214b5b87fd338d6ae5b97f25b5cf927e3fcf6280200af2015cec6f6a5db40bbe4d456039b53b462eeb57d6d3479f535cbdfd4ab7439b3fbf79e29eff4483dc30bd6cf079b0ba86d01c8e1a6623e437cc73e114282001e002046a24f46bdebddde5b46196cb9269f768ab8e8e68efee02fb11a98a71a841b0958a0594321565e7502153599d370f864fd913be887f91d8de03506f7ecb0a0bba122a",
+            "classification": {
+                "Optic disc cupping": 92.04
+            },
+            "severity_score": "0.10298556",
+            "class": "None",
+            "date": "4-29-2002"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2002/0000006815r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163421Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8102f5ab15ac824fecd77cb99e9877a1cfce8f70a2febdc3a946a501d296f9bbebb57ba78d0a5a5af1c8e3fdb27c890c225be1d158012358c6466edc609bfe760d26009f8f6ae54aef680a0ce51ee2e7b94af0da3e743834bae6d7d89f5025f92252245355f2b267022e4aa9326f165a1ec743c04556b4880c6758c5903ae895c0f7a21cddcd3507300c51410e9d429403af2f27c712ab0a8111405a08fd46c83009f3dacb4c6f694cf671787749137fd213fd3b8830ce8fd5cd50870decc25dc569e4398e37bb3048d4444b72cb99dc84614cc3a2e2a149e1156adcf9f09e258ba28c1d16993f1d5c3e6b6981e0347dafdae05eff28b740d5b95f8141e8e6a4",
+            "classification": {
+                "Media haze": 19.37,
+                "Drusen": 73.45
+            },
+            "severity_score": "0.528255",
+            "class": "Mild",
+            "date": "4-29-2002"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/7-6-2011/0000271707r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163941Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5615c80f0511b83547ea02f85bf7e4ce1c86cb0e312b8cf0cb1c8eb92336be31d287d4593d249e95941036c1cfcfda96728a760551babaac62dea90cb846f60b9484ab892da983c9fa1193fe677a7eac73edf8e64b2fa43af1b71a16726faf64e471eddac87c5a0c68b7b4d3ce302d1fb459ef50812187e4d79a36b0faf2d5e41e0677792813893c9d12c30f4bfa9c3482e9418efba4c8c20e1861009f65ce11e7c4a206a9ab1a2a0f491e3bb2e4a94681cbcf2a0bcc68479306173c22b25e8a80a58e0b03c5360703e2c93401dbea4e9000b4aa04a01fef68737175da538fe04d0c9ebf184f337542a933dac9d6efa1b8fdb879dee2f46e86e11ad0ca15827e",
+            "classification": {
+                "Media haze": 92.49
+            },
+            "severity_score": "2.8249173",
+            "class": "Severe",
+            "date": "7-6-2011"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/7-6-2011/0000271708r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164010Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=482bf9ccdc87120643242552c170f8ed8f811005b685b48c8afc27857d3fcae4ee9611a628e1b540b6b75039d6c7c1344717fa2ba5fe52fe2f3a9d58b025ab5f79018f5e3ad6e7de31d2b1a1ae4f5fba7142086f68490af979fe362de7ca98c006ca7f32c74263c3a9ace27a4f64681791704b5fdb1ec10e951a3fa7712ab460d2346583c128f834d7e6a3d6c1e71ff18c185830d50c80e69e3c54219b454e9d3f177a01699ba95332fafce0e37625a0794bc14e58818e0623027cc6abd163d430826d1e095949cb66cdd22f465cd0477c4896515db157349dfb028f87776a515ddd5665a090bdf5dc75d287f28421510d3182ebb1eab3b7fa15f4dbefff1388",
+            "classification": {
+                "Media haze": 99.63
+            },
+            "severity_score": "2.7535927",
+            "class": "Severe",
+            "date": "7-6-2011"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/7-6-2011/0000271709r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164045Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6f569c2f999700feddf30074fd64f8f1231db6bcfe4420a47aeb92d8ae6b18364448099e75be457e80b11cdc27ab7671c30ffc35d6925cd0b6a0fe7d74c72e771b506e6dce7c3e389fa80cd42411f27d5c4595db3b468c2a4980dab6eb3a2243a9a2505b23d083a2c109936e95b40ee73e2c5841dbb81a9daa88f8ca5c32441f6858b372f90b3c08b387a58c38d839418843de1ad6a905f80342a5bacd7d2622cfbfb031567dab63829d03b2d98fb6111b07966de959c037a0538a58b62954d4d8ef3250015410f5bcef2c1cee721abe3f6a66c86ef2206a674b85ba883bb63c943f73471319c2267ccce4c9ccce6f9d2fcd3fb1eff39cd65dbb71bf708f42e3",
+            "classification": {
+                "Retinal pigment epithelium changes": 17.63,
+                "Media haze": 84.43,
+                "Myopia": 91.28,
+                "Age-related macular degeneration": 97.59
+            },
+            "severity_score": "2.746832",
+            "class": "Severe",
+            "date": "7-6-2011"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/11-8-2011/0000286675r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164118Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1674aa8a2e329b2fa5e67ea4052fa13f5d7b8f1573584842399ed8d0db4183aed3f616638acdb75472ab3969fed0ec1ddee500696f8ed3a54226f570532833409fe92c204af62b6aa095cf409bebf207e19f54ad8262c51381bcccabdba55a4403bc3c9594a71df8de10946842314ce41b5c628d2c576a715b0678f2b4ca6ef5cec9adc022927c09acddbb4726e4287ad8a200f681bea0fd7afc47a8ebc4ad3716da371bf19dfe93c6dbf0b5347813e6b521e70c10fbc518d044831c5acf80584299b17d38731bfc9e7726784e56ab2e4601584aed3dda568bf0702ebb1fad1b35df14fa87dc0d45ef9c924f812862ff9da5b07de7452f52684677a521744fbd",
+            "classification": {
+                "Retinal pigment epithelium changes": 15.22,
+                "Myopia": 51.5,
+                "Media haze": 96.66,
+                "Age-related macular degeneration": 97.34
+            },
+            "severity_score": "2.58406",
+            "class": "Severe",
+            "date": "11-8-2011"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2015/0000449801r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170624Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4d02c3438afc5f9b1b0640437f29d3b5d46e9a848432abfd8814b01cd70b27ca5fd6098e9af1464bbaec9174d0b7cd96477c8ef9085925d053edf487d7ec76087976fc5e3a3e8e2273596455394ea9d42f4bda4c6cfb3e4d7f6c9f2d906e9c70f8071bf5903c7dd1a36f6a969e8f6fdb00526caeef9204f90331d6fbd5d685bb3eea19b2794880384a0e328eb7119bbeccaf57f1bb1c771bf9fb423b112428b9270969273e9f007c2e4f24b2d82405f05641c29956f2e8b9b848fa1c7f779418fe5ef4de7b59241e009e9d4d68e7382009ac36f06f0c2d186b16623481c1a52c711b7ba324e93f9a27e75e57646c592822ad458b41ccf85751f9815fe64d1745",
+            "classification": {},
+            "severity_score": "2.5793214",
+            "class": "Severe",
+            "date": "4-29-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2015/0000449802r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170704Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=411c2cbb68147b0112ba9af86d85d16f118341257bb72d29a8a568a112bd5c84d3c0d1f46c621aece0f09b253637ca3a80947e2a948978f23179d53de67df794f963364b0ec3afcc5e7e43952b7180d4c05eda7fae1b0fec1fdb94fd2b767072d36ae73a3d0170957b4b3b1d0f572556f6b95e37e440300b05ff90f7582c7aaaa7f32d8dd535a1b5618e6ecc03a4dd705e1721ac7bdcb5d9eeefe0648eca2672f3139b2970d4b514e7811ad61f403ad2d32c310d8303d7865a4904a9e7722421854c392da8e5e5698c1aa9834bc7b83fd5fbfec46c31f8abe16e9d486e9af07e593cab20ef3bcd373c78ddd9e44b80b17e62e9d1a9c1bcf40ce583220ef72b3c",
+            "classification": {
+                "Media haze": 16.81
+            },
+            "severity_score": "2.6158583",
+            "class": "Severe",
+            "date": "4-29-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2015/0000449804r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170735Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7bd1a7f0179fb6d5e3ecd5590c3d46af8d693f297677e54b52798b572b2eae4f8e2e476ffc0425fd43dddf38968dac8bfb61a8d4a505595b3ccc61a0cb5d8ceb08f74a4f712ca947eca731b8d83ae5f3452239e69031cd4301c2dc2c5c14f131fe83d249be36933b2e42bffc4debc7f801226fbc92e3a379e3175d51b7916d8b4e153b914a64eff7cf50e4c3084a408f748bbc3ee23182a4887667d01d52892b3ccb71675b927351a8fe2f5b7cf267924a6c098827fe8e165b786bfe10e3d516e6bfda5cd3f468ff8f3373804dbfc6a84e7d3584645fc2211e3b14c828d98bda40e31e17de8415f5e454bd2f8951dab6965b5814bbcc967c0dce191356705e4d",
+            "classification": {
+                "Tessellation": 83.34,
+                "Age-related macular degeneration": 85.09
+            },
+            "severity_score": "2.3531096",
+            "class": "Moderate",
+            "date": "4-29-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/4-29-2015/0000449805r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170759Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8b5c45cc665a07d97f18c40cc15dfbfe6ff29f744f7cf0fb750d601b529df0ecce85ec19ee10288c59cc4e58127d9b904dc13324e4bb7a4faed11ee5e742eea8a48b1b71c742f6c858b30b0da7f30489089d5abef74f2c69270771ba88c0b419b811770ec70afb0c992011c7542ac330ddf0aeda4316b9c222d755350dc5c51332b1e7f0b808db195e85d01f9ffc2180d7cac20ee4bfa5c388a5df44a9b43bccf767f2ad1a399d37f137fe15718cde8fd38c3a1f4a110ba828e2f45809a2e02651e59a9e077fa6c92ab2b6077ed656d8af5f767b11eaa3a7dc5a50208e0eaa5b493d157c5f9d16a0724a86cbe4d1ee1b50dab105737e61faaa14b04a53dbeebb",
+            "classification": {
+                "Media haze": 10.91
+            },
+            "severity_score": "3.1121163",
+            "class": "Severe",
+            "date": "4-29-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/8-26-2015/0000470996r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171558Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=69259b0174c8071fa3ff0cdc4719c466a6982452a53966e8740e4718dba13ab60286ac131d162cff78a64ea3f9cabb314ade779f8a49a41772041d8a0c75fe93ddc26fc8399cbe5a7e8a43ad620a6f0d966e6fa8f92998b51ea72d6e13d0ff2505dde0a643fc445e6cd9666d22f7bbc7cf10dafa20b406618efd32351fe778d68bf7b4471aa076aada1d5680436df03726be99c397ffe3eba0b15334abb1ebbe94a0960f2e9cdddb721e2607e0527875462a8e6bfcd2808f1bc847bdfbecb7a1b997b8103dee5f9fe08317ff87034a106575662b1f9f4aa87acad0d67d3124e507bb10620e4a6a812e7ae7bcec4f47b5e59eddbd9fe9c882a16fcae41e8f224a",
+            "classification": {},
+            "severity_score": "2.5333147",
+            "class": "Severe",
+            "date": "8-26-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/8-26-2015/0000470998r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171632Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8d6d3b5a5ff097693f90f9825f65e57c508da84a35a6bbf62c3a5e25a5875aa02ec6f6d6fbd73207373b2771e00739077289fc0ab3ad741e5d4630178b052dac6f18bb2721c0a409f61b9d17fb50d33493abc0fbc6b2513cb8eb8ca59f13b49db0b6275e4dc5d51a38403b18d5122941fa379a341b575b89473948027cfd3ee87fa511ec1b9900ac756cdedc26448a5cd78f02223fd3e40fd2dbf4969fdc7984acd6459a4e7c7fd7d14f334fd26fc3518e7b727df24acdbf5595554a57caf90f8c60fa40bc219919bcedf71cdafa93e37b8bf6cce954818002d6a9a3ee5f21bd3e9ff932e59b740a0030bd44e693d472d8d69fa1edb6f5baa1223c79826e11fd",
+            "classification": {
+                "Media haze": 94.18
+            },
+            "severity_score": "2.7623444",
+            "class": "Severe",
+            "date": "8-26-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-2-2016/0000503252r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172247Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=557d584abaf261d5b63b705b2ff28e2ce5a6991dee8e650b71223e339bebb1285b64c52f5442364ad222066f0e6d51a62a2ebd1cc05d87b0033f8ac20cf2ce81529dfbbf0ba442374969a4743449dfd67ae36003ee0da41472053829c2af7499f539a0acb8ac7198dd753110299b3cdf6527d7664eb1306ac6ebb3f34a6f169d654c004da6ce764418244563bcbf8c4cc215a9b0a0e82ed9465f97a084486964e041df091dea69cf259f0ae09e2743dc4d049586bc94d0d867809c49432fe4c77ce53edea5ae399e8d56098ee721fcfef3e092727ffaeddcfe44c22b94c81ff3a5bd340ae0b88e0f00303425a26b14381c36d1156893d84fbc95ceacb0a1e454",
+            "classification": {},
+            "severity_score": "2.4663923",
+            "class": "Moderate",
+            "date": "3-2-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-2-2016/0000503254r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172319Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=603af69700b762c64c1a82edc1c6d5074706322890af5b8fa6bd427c94da8eac957afbc3d16b9d482f07e76e05e0be6b0b09eaacfb60f3fe8caedfe99782bdda067f36596065ee1fe6fb385ce4494d36210d6ed096543ad3b29a8fa5a5a09f6ee2f267c2a538e4c881e819ccf4e642e76471263e5b574a19ba47f8ac287ef7cd668356abe7afd3fc2258ea6441d2905d9d8e17cc9f2faf5cb428cb156d529be71f89b3a6114f9c7d78d997df2743ccbd6f887e39457e7db37dcf80af6f9107457330a0677eddef167e2bf5c4c785d568522412985ef4a3f9121c1e8fa66565e9b71171f5fa81c51252eb5fd86dd839456c83c7f7dfc9fc602a26b584a4b320c4",
+            "classification": {},
+            "severity_score": "2.6248648",
+            "class": "Severe",
+            "date": "3-2-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-2-2016/0000503255r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172349Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4fe8fff2451a7598e246166462465b521438f55e62189cbd2bf4055164bf90113fd8963fb6b25d4c23fa870642c9c108e26de84f0fd803c53af7edac3883497b3c9efbdcac4a717b1f1fa7b8edcff2e1ff7d3572eba2a95194875332ea270025f895f022df315075d006d7751cec470ebeb7fcf9a23d943108e826d9d005f0abd63fa441812c356491caea473b098620373b9ae54c47ddd44ebbb40c649a18903a61bbfca391c1899f163f4bf0aaec2e3e2a8faa9e3dbf11dc6eac6e90208741f8c06c9b5b42240a7a3a973afeb70d8b3eb700a28c0caa0de8bffcb9f89317b70c9488f1692dca4cbb64720780a7ad077dea597fd8ea2e2b739dcda6854891b9",
+            "classification": {},
+            "severity_score": "2.4744213",
+            "class": "Moderate",
+            "date": "3-2-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-2-2016/0000503263r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172416Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4f6d3ca3ec2795367bc58ac0b31ea890d1b0d980a6c6c097d30e6ebb0b0119156b6c34ed033b06e3a1414baa21009dbe98de4ec1ede1f43a4ff9419159144a2ddec89dc5afaa4ccca524b7b86f03be9935c7d7b54cf8bbf4eb3fd879f6518604370bc666e5a2720e7b6235660ef77e71736f2d998ff88a32bd4d68f7c85a19189cd2cb7c4856a5ec4a824f0707115d4ca3009917b374078fffa27c4e30585ff9fac3642c8cebe6e6e849d85e248665b15c7da9af550b856037f9f84d8383e5b6f98a00840e180a7c1b47a5930eccfed290547e4711ef011551686f1d6fbe3ba9865ab4cdbc7e2e9edb39c2f36f6295510d9ec8b323af50bc0b4a31cf2099b05b",
+            "classification": {
+                "Media haze": 84.65,
+                "Diabetic retinopathy": 98.63
+            },
+            "severity_score": "2.4819388",
+            "class": "Moderate",
+            "date": "3-2-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/6-1-2016/0000520124r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172748Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=406d1eab5ea2cf747c63eefdc4eddc6cbb9a84ec253c74ffb21a77059237c128cceb73cfec721081a0c4c4bd8fbbf72a88e210ceeb6c22a0c60dbe6a24e230b34d2fb6349ef2527bdbdb801bac624d3f2ed63202c1c8c73b6dfc5fd98c366d0748c17674d2f27db66a4c2db2ff4fca8208234a79600f8824631aa48eb7600758aa97a686e5aaf389e94fb72e700e0c0dfb3183195458ff45347981a5efed65630b1ddb10c6ffc323e507c1bdfc3487a3d785751877bb10de72bf87b09562d8c296e04767b05ee031ba1753b46ceef85717a46953b51886e4b10b309f33819bbfcd61795e47138543e574114979c90498566294941530d0336daf225d8048dd3c",
+            "classification": {
+                "Media haze": 92.15
+            },
+            "severity_score": "2.5569365",
+            "class": "Severe",
+            "date": "6-1-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/10-12-2016/0000545518r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173007Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=45c2cb35b368f1e08ac623efd1bf739d460356a5139da324d7240d2b7b7337718c8acd6f19b36bee39d59d373ce3c1fbf6339b634e341efe421d34dc9dd64f81763bf824addc257a58dd4ac771250c6ac943d64c21b5953859b85f5ca472cbcdba63ff817ed5e1240c58076b455defc9bea4499ffbc6d56f55b4039fadb4bc502533b4f4fb8953f8c02a5ce450771e59528023ac212c665880c0046f316509daef03c9e898d7fc57582f27337c1559ddc01d3c81e417928da76b1f0eb571c897b89c66118ad656cd99f682160b567e04a71f974e3494b1fdfdf7e1430e5a9296e14f251e695378eae1d7f54a0861f8103cf6cbd317d39d94d62fea86c196c787",
+            "classification": {
+                "Media haze": 89.68
+            },
+            "severity_score": "2.491078",
+            "class": "Moderate",
+            "date": "10-12-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/10-12-2016/0000545519r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173032Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7034c75c4902674fd69a43f7c7d9be6210c4e6241a22be84dc7c221bb61a34e81449dc9b0e9151321191044e01c1a556bb087603584f8f141a94678dd2eb83bd06bcdc7830c5d7464575c599a37d8fcb3fb25f3ea3ec874d557aa97b8f4b5278cdf91a98fb5fd86bc4f6a5d6a4611ec67bbc7455fb0dae046592b30241d46c6508bdc7e60e846b405750ce07df9f49fad5c319f21624e31440ed77d82b6435ea89cf15c27d6aea98cf95186e49cfdfe4eee32c061520ac19c8252d5cd4eafaa52ee05bd7686e81e10394d4223c4e6d5080cf7124574b0be98f5987294257b59f9da4dc672471e98944c11c761552df1906e2fb8fb38726e1ef5f70df3973e99e",
+            "classification": {
+                "Media haze": 43.23
+            },
+            "severity_score": "2.5240092",
+            "class": "Severe",
+            "date": "10-12-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/10-12-2016/0000545520r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173203Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=04641bc02d155e0d95b5c5b4f17602109e0df5340c37e0216d75d126a7ec214febaf989d704f993c869afeb566ce9e48625c6558ad4f1ee4bc9692ac393ed57427e6f8e60ca6d8e565782835adf8a6ec29d5da36987f517a90f3acae1bdc8a38740eb1015aeec55ce3d819805f019184bf8e257197eef7303faca3da29d98250abddee90a81d97ec1eb9f699e0e6e0785d3ed8b7393c22b0bce61e5fa8027246c4c7561fe2d0c7644b02f20c7e24df1d117cceafdabccdb1a21f11072b483a2015c01815c009b89d5ba9d7e904ea8980375a7c3d8737c3ea5b6bf87468b56f4c34f5c22f5ec45ad9ac85e63e591753e65fefea52bfbae6f6a4358c516f358244",
+            "classification": {
+                "Media haze": 89.72
+            },
+            "severity_score": "2.491078",
+            "class": "Moderate",
+            "date": "10-12-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/10-12-2016/0000545521r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173244Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=748808ef4335ab43f44abeb71e57539204839d36e360ed835ec08f32548d8173c92d1d39996a9a9d2f3b7a7b973e0b604034a084cdad30a86dc62711f032ac70ce24bcb7def6cfebf62b23218e7076985268ab58a5ccecee665596fb68693e819f6e014f525ebbaa3083744059b03e9bea95000b47e4d810094560f53df025ca2237312f6d6b395df7e956dcfe08823a5c6087ebb22aa66ece7d74f4cfd388ef9b460777c95875c64a6eb730af702a87602fcde5f1cf9edb245b46c1f51da2679e8ceddb1acd49fc87bd4ed24b3764258021c93b70af4da27540497e474b4833faf5f76823c5019d1b4e30089d00f43e187e594978314e7c78b84fe4ea2c0def",
+            "classification": {
+                "Media haze": 96.2
+            },
+            "severity_score": "2.719437",
+            "class": "Severe",
+            "date": "10-12-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/10-12-2016/0000545522r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173338Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0006c878ea537423930e3dc6e09f575ec674788422971199177d96b42241d7ebf664d27e5ea73506bab03523fd0986f2336250cf89f7f7c4eb5024bce3ab3415346bea4c56d6e34536824e31cf0c10d34ed4d827b8cb623ed8df7c22ad43fa07fa65595266f1230d3726b016724bd8b3a77c7d17ffb23c69545b65cf5d4a8e889f1ef751d7017009efe1be4575683d8343000c41d47f28beb0cf347cecd88dd4539f8e45905601083eb013c8049e77204e7854e546a8242a4d1d67c6dd43aeb4727694d3fcf2619e1e9ed393f9c384338d85fddd2b82f03bc3313a6dc88c708b84a12d690ece83d331fa0d29a0ebf8bd941aaae9f8bea5038d77ed68107887a5",
+            "classification": {
+                "Media haze": 96.18
+            },
+            "severity_score": "2.7182918",
+            "class": "Severe",
+            "date": "10-12-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-8-2018/0000646340r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174118Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5eb022686816900bfedd1bdf53c092ba92aeaa41ba4488114fedbbcca312a060accc38138cae458d7362c51ff62d31fb821e0068d1402f53c97cdbf8ed09d4b0fd7a0fc31391cef864f9648b64cdfc641de528926df512fbad5eb63d084d88c35f38dce0ef00ac16334fd7f4d9d51e690aad197af6540b5148f8dd86d6b8122fa24f103e869768ab563fb6b2f8d0c377fb50576015ad2148406ed79df8f2bec2f08bb71e17fdcf5abc48ab6de19971f2737b5898c2f36b7e0fcc2504f8251d4b6bb872b2bbf0adfc94c544f1b8b7b5488a5d1e3ecf1331c7e65ffa10bf61bf35272c4ba4cc8e00326291338532f15b234dda67cba9849cb19927facb2b8a8203",
+            "classification": {
+                "Media haze": 17.89,
+                "Drusen": 50.12,
+                "Retinal pigment epithelium changes": 59.99
+            },
+            "severity_score": "2.1921968",
+            "class": "Moderate",
+            "date": "3-8-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-8-2018/0000646341r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174157Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7f368c51076358d10eec405ce1737eb1a88fedb9f1daf4603569155465d4dd34da53dc04d3b07b09655a43e439b6b7a94eceff58ffaff1059ffc63c4637be3aa07f5b4891a8f8f45c65d71c9b7f660868910263351c009bc5f2cb0c0d4f2e2d46755cb3c0e084fa3e376fd76587f36dfea4f513a58d3409c6d3e6c1c238698611afabdc5a1164ee54723295037dfc97f2badbf438b729437eab05ab8fbe10abfcf81dff06d6d51de75d3fab29a855987818e2f9b07edd2104d619a2c86aad0cde42625867552b44298d2f669253c41598d4fc4e68b42dc211e94bff2cd438753e7e6ba23c352aa8286c05f93377f57b1b7365db805ce9bdf04087e1ad7370f9e",
+            "classification": {
+                "Drusen": 39.41,
+                "Retinal pigment epithelium changes": 96.65
+            },
+            "severity_score": "2.1722677",
+            "class": "Moderate",
+            "date": "3-8-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-8-2018/0000646342r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174226Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9d3380b52c2c0d369044248bcc8b72986e9e0688d2f3cba9808089e24dcf8283748556c1ffdfe32440c3d89ebac45caa1d09229a51f454b5d059cb38c0f90af31a76e36e043d72282263928f058219af2d9a454ff064ff1ee5f282c907279e60f05d64bda9be65e46940cde0e5a9a366cc6afbe9a97f973dec6eff0b5b7c013821108698a265497f85f9041b723a943239cff0e4beb97ddab78d96d886bd5e843e7cba69b49d33c9aa602c0f226c268142d2493a580bd5c080cfc01ea03449fac094bb69c30c24c57f918a33c20eb0eae21ab4106669179b93cb8d69b574c3ed39632ddbca0d8deeb3d0d27e9c9e56f80a6b7618c9596405ea4118088bf59171",
+            "classification": {
+                "Media haze": 18.39,
+                "Drusen": 60.65,
+                "Retinal pigment epithelium changes": 76.59
+            },
+            "severity_score": "2.2215087",
+            "class": "Moderate",
+            "date": "3-8-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-8-2018/0000646343r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174252Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=955dce10e4a282dd825b6fe0be4f1a9b0654088681cde555495852b161b3e990f0cadbe498d2252ad29409559c977df1fa6badf469c084c44daf8af6b7cb7a997658d624933af39c147cfc841ef52af09ceea8b181a9f322a9e6196e22320fc063f544d72660c91733e026474b074388218527d0589ae31e410b348c370d284e3439ea2cccd0632af9385f555def70e4dd8d0b3c4ca16229c1d7384754fa76d05cfa1a4e05a715e87401f6003d40f3f246bcd35e0ca698154abd90242f3fea048f0ef18c688b9f4ddc6b9902aa5b629badf97b76f872350505e6a102511329b400d5786c502a6243adb65714b40e620839a72db41eed21df60b6cf8a22257851",
+            "classification": {
+                "Retinal pigment epithelium changes": 29.1
+            },
+            "severity_score": "2.0265973",
+            "class": "Moderate",
+            "date": "3-8-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-8-2018/0000646344r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174320Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b59c11c3ca439b2a755054ca03ed5792425891b060503c8d29315b51fc8a94a4737488f99b3d12b5fd78009934181cc75c7c17a81d80197980a6bd14047e50266eedc9a47bb1be7ab9d1690a63e945855d50ad41df2dabe304010d32e873d70af3e8151a62edcd2293543a99d568115a40f0f88090000f44bad67e0fa7c7f505af5d60eeddd726459669cef98e8276350a29906e6e826b77aea6cc1f6d8e3ae795086f6eae37b8434fbc55ad651ea65f5d10476d8e0ebc019896c3b6fb4481b9305d9f5a9f9210b7cde512fbf1ed82517290ad3aa9afe6b348939b7ed5421b882638e69d01903b5c4de15e5a3438506b069211f44315ecc6370b988ddc07f91f",
+            "classification": {
+                "Retinal pigment epithelium changes": 98.71
+            },
+            "severity_score": "2.089968",
+            "class": "Moderate",
+            "date": "3-8-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/3-8-2018/0000646366r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174422Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=658a3b588a39e0d8b2f65439a93408a1672dfe32feeebcd7cb21a97cf349fa25ec11f8719e81b32d72978f6f1cf2ff17a3dc014984e9fc50b2df2854c07eddf15da9580ab3dabf9ffa55803fd80da18c1adc77783fed1214263639853e5c8f5bbb61dbd8a429f4e341417b29c3e81f341ec0e6ca04e604a9b72901431594748c0422e51c96c4feaa25f8f8563c32f874705e867bd6df02f5e529d55ec78a26bca0db78157740fe56fb113b7510a9e7f9d9a807823990cbb1b59d6882150e2a1527c352b7892db772cd0dacaabd0615bf41cbba18c3c5f84360da8308410fca43082a894523c191e0bd1242b9e50ecec3360af44baa1f9fe6634968f7f0428411",
+            "classification": {
+                "Media haze": 11.42,
+                "Retinal pigment epithelium changes": 98.53
+            },
+            "severity_score": "1.7809423",
+            "class": "Moderate",
+            "date": "3-8-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/9-5-2018/0000681360r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174843Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=073b3d352f538a7f9282ba20e2b256cb697f8e92644acde6a1b6bc56ca1f5061e50b5fa26ceee0b8a3818ad396a2da8e34ca195d0d39e560b2bbd8c74f9cb0d4c5a50381ac0ef3e7b1ea5eb8d3944a5378e7c53f2520b1e3f288117c9b030ce8bcf671903d9c3617de166263fd8d4762f01fe76f3de70f15a293ea8c58df0f0bda698c1dcf31c089febd008627e9bf4c6c59cec2afc3ba23f3e3dddaee24f5dcfb840afaeea2347b53a945b3817b9cd97b0a898e96f70a4f1d183b12b059655bece3a8ce4537e0e33be649688789ac0603cc4f135e168be9a663c4724ee711ff04bc3e4d4340a31f8fcb14061e8cff73d6bf15b1f6ab1c4e92d905271239243d",
+            "classification": {
+                "Media haze": 81.36,
+                "Retinal pigment epithelium changes": 91.26
+            },
+            "severity_score": "2.1149862",
+            "class": "Moderate",
+            "date": "9-5-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/9-5-2018/0000681362r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174909Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2cace293b3de36e5aada27006eb5ff966b284fd53290dc415e82e1a07db960755bd5ceaaea5046c778234d4b4c1292d0d6721fb7dbd83156958d74471f6583ca725e23781dc233c04b8b1a7ee823e5d410d52ca1018603646265480ca94b9f534c0b62f476e79e67338045ca77403ffae79dc1fc56cfd09509aaca682fa45daa5c98b77f2df29c1e08ee8f577a480af4b1110979aca98b22bca1616403620b594b74892cd5ad6d55da356760c73028f8562d5a81ea42842985c00be3715e1865feff5a5f110095c92cbdbbc9319141b8627ef2e51e6bbd2dc2c0ddbd9023f1534b6912cd03d1a94959c6b896fdfb279aca865ed4a4587fc15713cf690b0c39ea",
+            "classification": {
+                "Drusen": 11.12,
+                "Media haze": 29.34,
+                "Retinal pigment epithelium changes": 96.26
+            },
+            "severity_score": "2.12083",
+            "class": "Moderate",
+            "date": "9-5-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/7-17-2019/0000746577r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175243Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=44665ef0d1995e0273cabf41596f5bbfe45c722dc39d396746a6f5a39877465b70977427c7b0d1a5de4dc7133a4bc0ef327da6259316a8dc3f8f9d2125f32f7069652f99ba6f0b7a0cb158bada30d6e75168eaefb67035e12937fe4e1d9958024720b50e4d2ca5fbef0dee962eee4de9a5c967e8b6aba6e75e7e81e0760225e48346a3c9032407b816096750cb201f76ddbdbb581420b33fc46afeb4d91a6814a0c26b606f1151d1e11e246e5dde970b7537f7a1bba0662d6c4fc5a7ff77bf6f985ebdef3b4fb67b796490ee90a305c164f9f6dacab81337f5699499a62fca08e238b66e5520bafef8121d3519864a1c53427b5842e754d3d423b92d3b465313",
+            "classification": {},
+            "severity_score": "2.2819946",
+            "class": "Moderate",
+            "date": "7-17-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/7-17-2019/0000746578r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175309Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3f69081eaf64b60f7dee7ac0a3298ba4be68737c12d5e472e00241fb8779418e1203853093c361852bb7d1894d8d4877a48b1f275b3b1fac0ec7837177659aafa785cb5d92c601dfca9d229a1932e8f4cc2df64c787fa934fe7843ebc570426dffc59ce5384c6817504a1eb7e95bd9f4b0c061d9189def2c0b1cb06ae7027ec5da36efcfe921035b1075aa61d476049feece067d78388952db2d0801c8b1603bbb7f7043f1f4dde2bfa21c99e57886736e5c3662b93ed1c33521718ab804679c2a4e70db72f8186123591d5179971aa4820425a0533fa0efa51d93d2aeb3ede0be04fd6ffa8fce581befacd6c546eff6e9dcc1c94b968ce3f0026de48bcdb38a",
+            "classification": {
+                "Retinal pigment epithelium changes": 21.04
+            },
+            "severity_score": "2.1040266",
+            "class": "Moderate",
+            "date": "7-17-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/7-17-2019/0000746579r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175335Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=34c009adce3a9a9f232abd23bfd404083b58051d8deae9d7c6df3fc9d602bd834941eaf96a6370ed16f98d95724252586e06ba45c4c3eef0252002d371757bb89f6fec02e2fcce84421992854ddd55757650b420d980cdb56833c142d2d5745d026ff561bac42705bd5b9d9d8341447559d844c79c30786641e0ab6ba893a1324205e0a64ae1130f29993f2fa552b2a2e6c5ba154ae3f73274d2497b8c23e0b9c65f9d2f72b2aaa5c045b2b1fa816420b4a702daeaffc07781a4aae9b8d68d132ba4801974cc1b165f63ac10fc24cbe8b1074d28cbb6c3b091505fdca088279b124cf62a85ea468865beaaa0db6b45e6a813c0ef005a01cd86ce034ab9ac4f2f",
+            "classification": {
+                "Media haze": 11.84,
+                "Age-related macular degeneration": 99.81
+            },
+            "severity_score": "2.5816267",
+            "class": "Severe",
+            "date": "7-17-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/7-17-2019/0000746580r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175505Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8ab8a17cd3d4f70760a5f65f52cb84f6325831c0757acba2c710417eb74ee563b984ee22603371017a1bd111802b1f5730827d0e763b2068a2485b0d6be9c75687e9ad417baa252118f7eebefdd74adeadf1050ff72f2fbef2f23c409f96b9b3fbc31ac7cb92babef31bbbb04a55abf3bd4fa4bc477ae851cf9bdf052256c7540cab46ca9df19b18204992d7fa3bb25c964cda2eb8b8eaab7d402fc54aba66216061623643fdab121fa9ff2ac73f91bda5b321e0b1d8c4771da1c3323cb26a3599c6832980c7db01017810ca88f20967dc08b72fe3fb5dbda18a4cbac235df9f5c28194283bf80d6c8239afe405641f3e0c17b49263f473aa6557ff8278e9df2",
+            "classification": {
+                "Media haze": 77.44,
+                "Age-related macular degeneration": 100.0
+            },
+            "severity_score": "2.9516494",
+            "class": "Severe",
+            "date": "7-17-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/8-10-2020/0000809712r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175816Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2a3e1f3a149b8271cb7293eb940f2af99bf12de647953099febc4a24817c85dd153978628261212c10ffacac414981368cee3175a4571e814b722ddadd07360fd1ee5d6c67c9ec8a2337347d9bd022262afd13ef3df9891139767116619c884a9e33a7cd6e8038b9b253aae9e1001fafcf2603fabe3f852a2f5bcd20249b43b40033d585faad2da735a8a0927739ff373436eaba72a726623be7b9506183aedca21f86237930f4d130d77e9ef2e15fb920792e0f685e513d757504c85c9d0c608addf2da61a171b249acb1589259a4548b24a78ddb77da3f405440daa9ac0e3e14dd9dd7ba22c07099eb88a80271706e3232d1d645326899854574d61298c15b",
+            "classification": {
+                "Media haze": 86.73,
+                "Retinal pigment epithelium changes": 96.62
+            },
+            "severity_score": "2.2739801",
+            "class": "Moderate",
+            "date": "8-10-2020"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/8-10-2020/0000809719r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175841Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1a64488eb88b243d2b0991d7f42af1b6864f7a7b0d72deb8b950b965db2bf8698452a66261ce88039cf2c7517e9c0fef997967d19dae881b14f84fac10407cccecc1024828595a2626ed918621d888c744b7f944175323df53e00ea0e63bdb494385fc1d735e53fc0a62cbf6f207a88f2f5e989ed8ce39d1dafc9cf4f6ef2fc9b5b7b2ff38762b6281711055b4abeec2cb3864e375b198fe110c4836e1b18fe4a8d54a4e7600fcee2f760107bd309b2aba5a7fa1750b0d6ee341b07cf95c2d1249a8de7666c44bef3d8971474401d287c0c20b262da0bdfeb90c51a84a9d23f19d5a94efdbfdd62ed49df205adca4a1eb3a6171baa0206705df0f7db9241fba5",
+            "classification": {
+                "Retinal pigment epithelium changes": 98.14
+            },
+            "severity_score": "2.2551737",
+            "class": "Moderate",
+            "date": "8-10-2020"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/2-16-2021/0000835035r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180153Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a652981c53c41ed0158d103e8be87fb5abb014f0b18374e50d8b8ff31cbc0f983b14bf3f9cd54af7b8f86602493384aabd22d6cf0ca585c276babd0f704bf83a917d548282198d7965604d955ea6bddeb66fe0154ec28584ef5d97bf7d492fe7bd4a729becd0880f233980edefec110381d9c5267c9684b8bcb2903a20be040f3b252eb658ed8409d01724e21a603544858733bd24e7bfcb78ce0ed8352da6c29ba52e4e1b27684b27625685293f8e646469595c7b63066b90c332bc1d4003889a27b481f72ead00847da2d3503409f09494f8d9b81072160560d1493068a7cc6ce6a25803817d5ac77b5d29794fc2e390318a89ca7b1e3d950f70f043cc62a0",
+            "classification": {
+                "Media haze": 21.61,
+                "Retinal pigment epithelium changes": 93.04
+            },
+            "severity_score": "2.0936847",
+            "class": "Moderate",
+            "date": "2-16-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/2-16-2021/0000835036r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180227Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=abed2378aece3c9b7c71459135115aeb0083705f25994f760a216b9093a35908514233e9a4057afe862c4d4ada75375513cdbfc1b69be3d49c6ef8e7c9f3b7146fd1defbb603a0f8fc14e6f4b65f029b57989212ea9c403fb011001eb4ce193a3c29e7006ea1f77f1a5802687dc2617e532129d87e13339999fcbf12a9b6db830a284ee870d337be90095203576fb10d4cfff07289b1404bec44b3dc3d3b1d1ed46034538f532dd4cb4184dfdc72aabec5f8da5812ae4c93519395c3d461820e6483fef44c4726c8ef26a9fa47a6cff8d6504bfa08864db7199a8a1d83bc6e53e939710c25953829b6886fb0153bd06e61f40d20ea227bf71b249ae454bfe6ba",
+            "classification": {
+                "Media haze": 86.11,
+                "Retinal pigment epithelium changes": 92.78
+            },
+            "severity_score": "2.1807644",
+            "class": "Moderate",
+            "date": "2-16-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/8-3-2021/0000857534r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180514Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5f46b8c3a4edc39dc4ccba0445a55c04197409c6d74caed4848b16219447f0f3e1195569c7bee204875a19b8af0cadb2559935f6cf0c9c5d34d9cd2c11271aff2e78174cc119ae5731197981fb6b2b76611126e813c72705d634dc9b774690b75b877c87581575fae30c63a5c8776ba267cfc41267af9c729a782fe5533c668e99cf5519ea695aaf626c177612061b7882649332dc6553dbd6b15c65c5fb986fb49f6d7625871ad72dcb8a9c0cd1ec579e148ba2faed0056798df448ba830fbbfe17a0df846b0c2deeaae8a2aec368db287aac6f431bd6b014953107a6450f435382765c8d4d9033d7deb447fb564a7fc8168653f0146fcf171ab11e35563990",
+            "classification": {},
+            "severity_score": "2.2709017",
+            "class": "Moderate",
+            "date": "8-3-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./109/8-3-2021/0000857535r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180545Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=05ff5192d165188c04c08034073314c25472f2390dff3ac6dcd15045a9ea23b66264af22dcdeb9f479c23018981e076b58aba02d79e85656a7d1d69107e0c4c0fff538663acf232fcb0b1ff84e1113ff8f6e2aa225a1e8ca7a901fe9ff86a29b880aaa25bf3a212c49de153a06b1a831b98b563d5fbabf3184861bbe713395da6747710a1ef4631636997bd6de78a10ab2c108208a94cb3e94693916c49ab1b21620841db805ee0ba3d2da507379e7365b492daa92218bc8f1b42bc8e12d228e6a2281972ccf3f44cefdd6accb7a16e11ecbf06c1d9584e66b41008a1cd548b90c609f2de1ae8dae90372e6c969e66dd134e43ecd7b6814e95b6f91cef0e5690",
+            "classification": {
+                "Retinal pigment epithelium changes": 15.47
+            },
+            "severity_score": "2.2849076",
+            "class": "Moderate",
+            "date": "8-3-2021"
+        }
+    ],
+    "321": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/6-15-2001/0000001017r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162830Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a7b0b83e5fc66843072c12ac418d59ef5d85eafbfc4216fc5e4bc8103ba08fdcd2ecacb2e3a9d2462c82ca5ef57df1fd0ea5a382b59548d3477e6cd28a78f5e15d88e7c6773759d2c94b79c46117f3f34bf8cedbc146a6b04dd318b98864381853fe1234f31f19a8d30309716afd2e4a715aa287b999a5e058e779f15cc57d6dc2a2810bad47bd103278d6c5eba1bb6685f05d18cabaa20ce6b9312deff7df67105bb3d7226276a36d9f0260c1159b1bf54bbe98e9e2bc60a3e08d6aee900c9f160e7387f622fe92388886a371445733c2cb101405e39c2c20c24be02b8c66b2dbf08d97bb7480405912de399ef6bb6cb19ea937dc4cd7495e3ee1debf599b1b",
+            "classification": {
+                "Chorioretinitis": 27.02,
+                "Optic disc edema": 29.11,
+                "Retinitis": 40.28
+            },
+            "severity_score": "0.015623133",
+            "class": "None",
+            "date": "6-15-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/6-15-2001/0000001018r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162858Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=42360d269512303e2c9e46f97f90d5609aeda07ed6e2909cec6b08bc8f5e0cc2e5a1578ef55674f1df789a394224955b9ac146e9785ad294b663a97c8278dffb1651b1b38276eea7f90da3603722dedcdeda6032c1e378f0d95a4fdbd4fe3f773c070a9c353e490956422a8fc1da91380601ab52a77bcfa0be868a2de945e9ea0599e9ef1197c4577ac234025f777ab5dd0455a662f63be1f4038fc29006e138abf6d12b27a095b3d9f83e01dd49f62da7508aca56769d5705952fc100b0c64de76ba3c75f87017d8b8e10be6a2b126cc080a56b706d61d5220d6046bf461ae8aff67a8c6cf41958898e32f7f7fcd6d8f7dac7f6ba2fb9a7c0ef73be5be2c1f2",
+            "classification": {},
+            "severity_score": "0.045692533",
+            "class": "None",
+            "date": "6-15-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/6-15-2001/0000001019r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162924Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=30b2bc030b7984ccc31d407993c705c4e6fd91a66f83b83dd8a1992ee6f41f936975680543a2f223f8e55cad11e3e1307061cd190a646c16f10032e2bbd4d87eddbb4c52ac57de5137e87bd2c5fcbf3c4110008d8251cb7c3e3252628b06cb85a226bcec692140ed13821114e528a5929816e2332a24b88246815a375789f75c986a284488bc95899c5ea73a7c96f5d3638486e17a8ec9770cc362b3d090a33fce7b06cf460b91cc1efe4a381b2ce7f7b176aef085477c8eff10249ac762dd27880a63a9c7b2ad164af9ce726bc09237447136d39f70ecc68b439a6d1c30a1facc49e9c8784dcb71d62d2572e1530cdf04e19300526bbaed64641817d20b553f",
+            "classification": {
+                "Retinitis": 31.13,
+                "Optic disc cupping": 31.39,
+                "Optic disc edema": 35.5,
+                "Chorioretinitis": 43.91
+            },
+            "severity_score": "0.025872316",
+            "class": "None",
+            "date": "6-15-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296754r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164158Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=23c8e82164839ecd1d2842210dcdb7f8aa927edd04d7124a92ba071516c2010eb3d8e6d1fdc49a650e2911180af29816dfe3c3481a06f086e42af44d9dc5c1334a270af9e67dcfcd1afb44e6e320566b8c987f93a3d7f7fdc3093e9adec0ce09bb3e38bfd95583a5646d32f241758c73a089d8271ae8184ba39c105aa8ac624f70a680ed0320c88993a0c744b6169434fb791153da252140256f7921fc6600b72d94fbf713d88f00fb911d0f9bf4a5fef4b4b4a28f10b54f6b4b01e12fe8482b39f46783c4162eaf1b69add93d4158345033557d2bca0f8814ea0d6ebb0a24c29fbd8f2bfb423e95c0cc33e610ce8d414aa8f078754adca94b738f4043aaab04",
+            "classification": {
+                "Myopia": 11.07,
+                "Age-related macular degeneration": 13.92
+            },
+            "severity_score": "3.6194494",
+            "class": "Proliferative",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296755r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164226Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=734558f6b5d73a5c5de6f7917f86893575ec76a54a203f6c01fb7cc88a3080af1094e4cf33e2b0de11de4d17ce2946f3decee30590c1863157ba317ba1202244b58583d464aa4047ccc89010e278cbed594adc0c2e83b5756cb676bb1b7fa765563800f251bf54d016d7986871b3db8ca8a8237510167f0ce30cb507e667e36281beae25d38e291766f2770ee0fb6f41fe43878a920cd3f78ed58a6796b4d969ce0db1c1037ae32be89e9d831370abf9bffc89c8dd44a3d637bc7ccf6f956dda83204279c67fc5746e8750747f824cf174850c1879457e56f35068dbef14e919094777f1f7796b2cd676479a6dd6fdaca5dd023699637f7febca7e8e5042e937",
+            "classification": {
+                "Tessellation": 16.45,
+                "Myopia": 23.39,
+                "Age-related macular degeneration": 52.45
+            },
+            "severity_score": "2.8693628",
+            "class": "Severe",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296764r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164249Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b590fccd28553594f479a809c22d0f19b32b95dd49ed9e19d052a51c59f6e35bdcae79e2f6d89955f676c6cf38c382f4d772cc21ba7b163f603a62b4487a09ac66e86ffa63d0c5a90bce645be713e423918ca4ac68d56fd6a386e9d11f3ee2037f8ca5bac305bf0f3d43c2debad75749b21dffe198c1765681d0243d7e1ffe76ea28cb02b7cc4c8ed55c5d5ca3ce96d4d53b8b16cddf811bc0781a2f70e2af7157415608d33b933eb2491c25ffa7d4865cb997b15623c766d91e5a58fe60f974a108f9284f04ff8b9949ed33ec784b1a1dabb2307cee4f44da496492c17dc55e68b0cea3f136a6b05a42faac141e84d952a34d0eeca72ef56a354a2884044854",
+            "classification": {
+                "Myopia": 11.92
+            },
+            "severity_score": "1.7848327",
+            "class": "Moderate",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296765r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164316Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=49d2e4ced573348db8b3d7fa87869a6123bf9cc3f389dc629339493c801871efa93b928bd8c35a8ea69536e5fe5bed2df8165a406fe5970eb72f38bec64e1ab0b65f3fd6331b11485041563adc4ce320c0da5325f168885b9344405eeb7f9b32a4ed26738a10654dd9316005af0f0893b7248dd9aa013650c32f089d34251934d369fbb05a9e55ad25c685c5f4ffd80e8780ebdcae63a9805a3e6fd46c6609db193d6cd6d161fa41060f24bd8762b216f684673e3f5d5cbe961b472386fd931486497daff9c13cb7642f5ac29726bdfc5eb536ec5ba4afacd4bbd722104c8d998c309b2734fa91fed0f8afb241a228231940d78fc72770e7cd48b7e4def466d4",
+            "classification": {
+                "Optic disc cupping": 98.08
+            },
+            "severity_score": "1.3204641",
+            "class": "Mild",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296766r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164338Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=04a0d2c9e9cd580c251c33810ae38a15185412ed863ed709416f9a8fe94000c0a8f678e0ca7c681fb3f70267f52cb696be5d22a3dd577ac34fd0ea45e06dba35f98d0b90944257ec8025957ee76dec0b9ecefd1f2f1b1a338b968f23b51bfc4a3114f55428dc5ec9d10e9cd934aa7f60d339a9398170ef79244c1a107e908c47d870e76cbd619ede8dd1f76755701b08daf9ae46a61330aeab5b4538d163dc5517d462f07d86e22e8bbdd140c08e8d4be6059bd5144a8e7033df47aff34ccb53af9cd5e00f0074eb4e97c7523ca37b463da892c135734dfabe55dddefcf2f7f6b58a207584e9d33b2a2c8065db800c4cc55cadc080375d9ca151223338badd85",
+            "classification": {
+                "Media haze": 100.0
+            },
+            "severity_score": "2.2870147",
+            "class": "Moderate",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296767r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164413Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9c01c42f80b0c8827a2be51f6d8bf7a88e5a31f4e17781fae3ae04063906ba5ff741ef11a55e833b165c595d6f218821b194ace5e0dccda22cfc30dfef722ac7d7d6ac08e7f7015881d15703528640d35b26a243c3b8cec70280abf5ccd8611e6d1eab5fc4997b275c282559488abad51d648c926eff455c6c59bae42d9fd41fbfb9cec4d5a983c2840b6f392545e8b01d193bf1cd8d4f61d16aa81d8ba34cc9340a927a1182fb8671be5469e26e4cac6f5b44c3813b2423a11897068becfa12a82d8851463b9647d3a40e1c65f129229659e16f55d14a146f3ce0fac1b8fc692f86882ae045f5205a6f175b592ff9361596c29650323fe967d0292d5d860716",
+            "classification": {
+                "Media haze": 100.0
+            },
+            "severity_score": "2.1675122",
+            "class": "Moderate",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296768r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164437Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1a1018b945cebfb794657ed82294c40ad954c10c850cc1133667a19691b1eab205926b39a9d97e220b8287478aa136d4f8df96e23b459b1c263d893d17fa58beb7d4115482659ad29e7f447b11acfe11f771e8562b75074b896192d9f62fb7b68333bd6ab69d25c4ea9523ee93f79df23d008cf9fc4dac60052009f16cb169b6767bd3452c37bc87fe87cf42c2c36afad0ebc7435d8b46fa3902c381eb5568b9fc49d3532b1eebfc13795f68b5f98ba3f835e62ab32aa0c1742e517dbc8178b38647e1fa5cdafae65cab8bcf937a3d074ce5c5c4e9646d18d2e4b3dc35c83e68e7359ed9d53c2e32bd4941f89dfcf5aa854b18208253866c030300d301e471d4",
+            "classification": {
+                "Media haze": 94.15,
+                "Optic disc cupping": 96.91
+            },
+            "severity_score": "3.115985",
+            "class": "Severe",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296769r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164502Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=87e7f65fdd6c7f0c98e66f59e5f70cf151af296bb41d1977cb3b503d02311c4aa0c941c47495ed185b19549d0cbc0cab192c8cf952b10ddffe081a90b47b1250377a6f3192d5d1f77ec9139b9e5e630114a07c13bddf4987b0294dd176b72b18b5dbc430d65d1db03445224f0d5fb04e33496446914e95f2242200f30145aae7572e0c1db8a5d3f2247afc84740b1a8441fd3a2e285d7b5620f8b3e91814bc1ffe5971407bbf6cc2eddd9dcc1d6790cd1ad959ef0f67efcd9e2c6b74aaf1730d9c897293905bb56d343ada67d37dd4bd3d09283aa91f7a3267319b4a06de847c8799c9927a01f604d8b24c1004abccd88531bd2f9f2123c035895a299e2a9b24",
+            "classification": {
+                "Optic disc cupping": 94.23,
+                "Media haze": 100.0
+            },
+            "severity_score": "2.7370398",
+            "class": "Severe",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296773r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164527Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=adae719f5430dc1b9b6c22ee3370c41254d5e158bf2a90a25f5a8578293704db8d6efc28fbed82072733c37867af0ccd6c79e457e5090aa0fc8002ce160ff7a77f0d8026199dc059ba5b5437070c618fb6f9f027dffa7d9969d21c75761dbbeb380aa3a65afa36ea79da52915e9ac8c522f9d9d8c985c21a5f71b086efa4ccfb7df593842280350b5f996923298cfd12637328cce6f15ecb7fbaa4489eca465bb7866a976f4ac231847ae6168a245b830846d633862399e77d3a3aefe0b52945f07a0e75b18f3963bc6403a537739615f994d2e5cad72c32b26b8c9721462b84505f43e7df95fc08ed820d76f9641fefe1b12e3361c79ef0a792c1640fb3d441",
+            "classification": {
+                "Age-related macular degeneration": 43.67,
+                "Myopia": 72.6
+            },
+            "severity_score": "2.637106",
+            "class": "Severe",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/1-25-2012/0000296774r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164552Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=21979eef2295ca15649e853d3e1d938cc2ac9d5d696384a3f88a40da4c9910b6a5b6c779c33717e897281f413268e1e4ec155df079964bab6f606f82bd204f98811f54ca6e305d0281a7afe3af21ffa651fe2ba33984ad4188379eab239b9df7480cd2c882879f94a954930d395a186ad961499575c4f1e2c97bb414b5a426038f47a2d1624d489f84ff62beddf0e886720e1c21fbc06e6da4fd6d1bc50a2569e0d5774bdc2840b64eabdce34c2a042eb8dea9467aaa88e8f84c359aa1d07182c8cfb678e4e05bbdb2641d83bd17458d4a904e456586821929cea6c1913b6a01c44f4a714824d6eb917621654017dcbd6746a28ff88cb6e3f168adbcd7b29cbf",
+            "classification": {},
+            "severity_score": "2.7772527",
+            "class": "Severe",
+            "date": "1-25-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/8-13-2014/0000402479r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165626Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=63473b9bf24e662bd6e1cf4dc3bdb19de5f9bad100363c3098245e2ccb5af3811a961dfc6bcfe13cf50139b15caa0d3c46019561a50bd7ecc9d8fac89ef5617f1f8e427dbb79c43e1a910a408e9dc40b4b6d7de5171ea60b5699fbb0a9fcde177c0fe09139323a22b1bc3fa1d0a9f8826bc0745dc919959894001c0efec902215b93eacfc6e4de64c43d5b652fdcc988355006e6e8b97f8c58047624bed4f8f5aa6cb15037ff625b07c2cc3090baf0de39028889599d78935fe99e9f4007984a9888ed116edc661da0166e3f43544b810bd61486111053785e512367d7d86b1d683789202608a7aada9bb954f6578d04475ce56d77a688cf41da4b5525b51a60",
+            "classification": {
+                "Media haze": 18.3
+            },
+            "severity_score": "2.707481",
+            "class": "Severe",
+            "date": "8-13-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/8-13-2014/0000402480r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165649Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=178e5a89ee4df008d4e29c9ced5a11c9371a070df3a4abee3ba3ba8c73da0466ee8aa563ed42c093ab911f990dad45841a169639a15ab89dfb8fdc414cf54f339562c3610ebc397e7882cb94e339a5be8080dbae2bcd78659e97ec66ecd670a07e129971f2a1b94df38f059cf478deff137926799094e01c438c151f89ca4abc72e24a37ef480838bf06d76eeb672dbc076e97c432a6960ab982ed904fe2c3c01c99bef900a177323a3e58d97d5ee1568cad642c4fbfa3fb81b41f154c1c3fd826ee902ee6012048dd8aaf609bd60eabad44b3e5b817bc9aa4a14454985cd917bc14caf4c6d4b4a42ef1a76b70255131eaf0e8e78abf4e7c8f7cf5dab632cc70",
+            "classification": {},
+            "severity_score": "2.6666238",
+            "class": "Severe",
+            "date": "8-13-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/2-11-2015/0000435665r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170218Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9c9fb7d0f768a51ca38e7077ac94b1e57a1a8f1908f3c1144a1b1b4016b3d3f8157b1a2e8d53c5b6229722948070087a5a887c7c5437bd3e97083bb791abd3099c26636db4837a7f2582979e9c48172702b9791797100c9783f1f1e2f3288720a2f8bbc959e1345087fed98059e43b7cea218e7e4135e92944df68f2634983b0332052f9e0c2b6919f5edd5e97287ebb4d05c90670ffeba1ad0c97e9fea8c4c677102467335c2827ab4c7dbe814ae564241e57762680a8927a139ffb4acd25094d15a3a106f0d9d423d54038ef73cd069d3be478a4c2d41ef8be4f0cc7ff50830f144fb4a46c210fe39966ea215726694059fbfb364242b93f160c73a844a739",
+            "classification": {
+                "Myopia": 94.02
+            },
+            "severity_score": "2.8535686",
+            "class": "Severe",
+            "date": "2-11-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/2-11-2015/0000435666r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170300Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a7497443f8683d9e6a80fb22228cbdfc3247e113be279a2819d9b088e5e9ff9e5ea1f358216fb59b12f6947ecc06b193c807f125a5b864d4905e9eeec3dc350176eea79c8ae03f77e8ccf34f71aa8bee5331c40d6fd4ce4cdebb305d80f8fa19c4c00b089b091e33da73dae1bae9d1f0ec567b47a4fac41844a97e074addaf149fe631953e2858ec83299a4a20f0729ad8572148c3e85b30b4878bfc840fdf22956fde3be05ab918a09e3b4a91619c5e7c2df308202325d4c46c241c6935412998a542e9fa703614e12c287d54743ab3b31d011ca58e2cf8eea7f594775213fd3cbe49967427d7bb19c3c03f7ad181abb7d070a6cb7f640418364c66673d433b",
+            "classification": {
+                "Myopia": 97.9,
+                "Branch retinal vein occlusion": 97.92
+            },
+            "severity_score": "3.5146391",
+            "class": "Proliferative",
+            "date": "2-11-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/2-11-2015/0000435671r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170332Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5d1d4cd53fd00a7e1b7529a6615169f377918ec1bab4d7ebabca24ed9c50cbfd5125453d8fa7ebca42a551450e94a9ab2eb45266c373957a8376586f694da5d722b08041a83c01088be156ddf7fec19cb546adc16d5f622ecfe81334c399b6dd45495388a5ef545d809980a01aaff93592ae6fbe62790ef91146e2a9a748882772b6bd353fadfce87e821dfa4ec9de68777a009703e77372835f0f9b931dbc3de8dec1119b25e257a839209b9c7bcdc4155ad1224bbe1aa2cf3dab7f5c185f0407a3bc12070d7aea98599a54fb638bb64c4832d5b6b7a94521dc99aa68cf5698203821a3ba2a9bc361620b2a0de572a9b7ff3acdc4d86b3100a5df5d5a73c73c",
+            "classification": {
+                "Age-related macular degeneration": 99.98,
+                "Media haze": 100.0
+            },
+            "severity_score": "2.7747352",
+            "class": "Severe",
+            "date": "2-11-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/2-11-2015/0000435672r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170415Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5c9ea8ac1b7508e9ac99bd013990d4b693d26736cb3ef7ac92ec1e06c69f9fc9e326fec843be5e42d42dc373c06b1bb53c81056dace44163f1a151289bb80ece34acf27fd1909c172cd384bcc37e188e73f619e9c645d36dcf463095669a2419f65caf656781d0f3ccafdb1deda3aec5dca67c26623cd4bf4a29650070756e7ca6c4a034a52ba8c9d6947a4204045c60e515b3eb79dc13e584c3f8b4b50d668d690ec177dfb43ce14792c6daf4858fcaf4371e0f485a30e7dba00de7183b3d48e932a563b202e92899214a99edf10af6eee0470cc2c053ddee73214895d100fd68d915378d8cf0a442e486751003a29ef7a786e33f991dcf4f46c43750fd7318",
+            "classification": {
+                "Media haze": 99.97,
+                "Age-related macular degeneration": 100.0
+            },
+            "severity_score": "2.9466858",
+            "class": "Severe",
+            "date": "2-11-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/2-11-2015/0000435698r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170504Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0c844a3e922818ed16cc24c0580de5c6691ebfa5e5a1449ca8124c8252f40d65924d7c494a36f9d25f0488302064a1c2b162f62f77677fe2655032d1eccc82ef2a17265f93240235649d67c48fb6dd6befcdd57a3a38f45746a03c2208ac2b18f6aea5b676b0f580559923cd7fc518d070d3ef00f7a3c9dc7f17760e9d19fecdcf9de7a5f1c9cbda71aa50c6c1436e56c49ab9c2be0c3d979e59397a9e368e610138cfda8cca6724a620d14b64ce25233e4fc3b489f79568d52eabc3da70911522761aa34a36ea497fc43009e573fd553f88eb0348168cbb9e3c8f9ce0ae997488d8ac8393bfa01ef7c0fd24207010676ca59377260647e46eba340d16164864",
+            "classification": {
+                "Media haze": 43.6
+            },
+            "severity_score": "2.5617337",
+            "class": "Severe",
+            "date": "2-11-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/2-11-2015/0000435699r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170545Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4cab78b019b119c876e852469a31fb8dfc3ac15ddab5458136ab7db6bc0cd5e66b1957b1338ec441ba62d09752c28bb353154fbbb41d56590c5f4b03814c3100c7aa2a321c2e44c77f9b9655f65c36fda5aa8bb8c7b3f0572ec7e43838ee1a77204c5039ac5d487bfe17607955fbe0199cd58f4d75842cadf215454c2e896980f7ade8553b10db6f42639a48927594d2ed58f88c47b649d7c93f725a449ae04575503de9ff64c5e449cda08c05f17570545eaadb297951b159c0dccc2f7b0fda5785fd8cebf974f3ab47acfc2cc23218ea223e19335a205985ed93792913b4fb63090990d7144d34920750f1dc7340a91d06e8e808baff4c41d2f924d2bc6421",
+            "classification": {},
+            "severity_score": "2.7062716",
+            "class": "Severe",
+            "date": "2-11-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/11-20-2019/0000768867r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175643Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1fe7a22f49a73e590bafd5a7aa2687bccb0ff8e606460d790787a990e1c24536d5f639afc4102ec4fbe4be20651b4aa8ac4e853c1bbc44acf413f10a47d7919580f6adc20f4ed7e6ab881bdeb3f1284c459653d232cf7315d51ff28ff4368905abcb617094a13f0821cb2d1b16d4b027a9f519839fe3a9bc7ba040ad5d8d4879cfae4327b0b0f9326fb655b65caaac6d43d02112981bfdfb94e4f6b6ab92e8ab3e08c6ee5776bd476daa60b1b3ef9b5f76ba02555d23de4fda764ccd6e40c880379a42a01e69f40b79718f6abceb0e7c27e21a6d0f468fc80e5a15084ab35c0145265478bed3e3617cf5710166616634f277777e3bcea1525f1dc3492d357c84",
+            "classification": {
+                "Media haze": 88.65,
+                "Retinal pigment epithelium changes": 99.2
+            },
+            "severity_score": "2.2381122",
+            "class": "Moderate",
+            "date": "11-20-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/11-20-2019/0000768868r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175741Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1b73c7ed27e199947c6bc6245702677b37787424a8c6e1de128f34f0ddf09b4677add7b5d978a14265318f2191e61e2062b3d6bf4ed955c758f199239261939b249fb068e7bdcc80d23da04c8df6dd98a2896c1ad8f58fcf7916a2340907f951522c8f1b4d5b458918e653fb2920f1ed3966185e5ac05bfa776e74e0a1ea6c6ca9b7d1f4c5eaeddf793df088bf8b2ab05f377b5648146ffe2da63e3d32260aed0be753c82592043041386600a745eb07718929e419112f2674ebb7a44ccfde38e925a36e0ee90c1fc480c58f9c9cc92a4ed9f98d706ad5c92617db349aae10134525a0a0b3459ce66fe649bbcd2513cef6d1caae6c303cdca18c78c471297f9e",
+            "classification": {
+                "Media haze": 47.75,
+                "Retinal pigment epithelium changes": 99.09
+            },
+            "severity_score": "2.1535082",
+            "class": "Moderate",
+            "date": "11-20-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/11-20-2020/0000821961r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175921Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=92994a0123848f52cceb47dd6a342ac6860016073056ec2e5c991a2b570ab68e5b864374af355f5d9777ee61b2f2fa62f31b1cb612c2e3092021c30ebebef677f95ba9711a73d788da204af09472d091873dbaedbd0f706be598d81543715ea0e0b8a04ca5d52a8a0d1b238b9aad48a8966f99b81a758f265a3434db787ebbc7ce807389207eeaf866c197b4e5397c9ff23c0b1d96ed0ba63f5b70011dfa99a460a3887479829a2c8605c44797bd439c52b4a87637dc6d752930138bf3f9a569c3d6f9a4e7182d488f374169a9cb44b92f0aacf4d0a98c1288a300583c5a8942430332b2cb9f9b4661ad01e276ac39f562597444aa793dd7b06b5ce845a84825",
+            "classification": {},
+            "severity_score": "2.337578",
+            "class": "Moderate",
+            "date": "11-20-2020"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/11-20-2020/0000821962r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180031Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7bfba483e6f27d7fba765baa65c6bb542298a9a5f676099637f5245a0e200b3b8fbde1b906d631c96ac5fe764ed0481dd4b93a018cf7d39ef2d259508bd30ca5f66a5833ed0d0c6f360e9b63ca67227c2c8cfd4f8715f9b4d52e7e555e2027a79a8a8b4bc9a60b5e1090e50de03bd3d9f1a61b40f509a4aa0215a4e465cfe50be82b7a337a271494e812303d9bb48019eb176fc89d1acdf0e4e9fe45d2f166b52b3183608e6e066b51805f2d9fbaf186d5f99964de81fc69084f0f6bcf6f6687c20a0dd6c25d115a7bad67d7d912fbaefc6aac9306aae2f7f99bf51a7024fa7bbb3b32d9cb6f7125930e8a62c88cd79f8e7667733cde2ce090330e855820ab17",
+            "classification": {
+                "Retinal pigment epithelium changes": 92.21,
+                "Media haze": 98.0
+            },
+            "severity_score": "2.2882905",
+            "class": "Moderate",
+            "date": "11-20-2020"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/8-19-2021/0000859658r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180628Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=ad74f2c78b7c4e4f23995e326d51e220f370d517887a0c9c2a8793dd8601ed1b076ac3107197f01af6dde75ea7b3b50022d3d5a3100c50b974031562137936bfd70ec3429cb0745dfd8902cbdaa5fee0d5e49500e15d86a6925729b6530b1482ee3c76619dbf576adc289144d3f7f5efa6607834374b464331acf898a23dacb5eabba4361592f8dfc78370d6b85d990c9a7a75fb442fdfb6493d2d73fc5a7ab32fc6cf7b0e6b2a2b67901c1469f10f1b76064b2f90a7b0a9fe4c66a96206f56e6e36f2b302442f23ff602785eb5fa2fc7ec4f26b81e36467d4c7efb8ede60d3c2475046c54530e27e1a3408feea233315535d9cc92572098607a3785816691f1",
+            "classification": {
+                "Media haze": 98.5,
+                "Retinal pigment epithelium changes": 99.61
+            },
+            "severity_score": "2.2481174",
+            "class": "Moderate",
+            "date": "8-19-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/8-19-2021/0000859659r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180706Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=550d0f21f8c7e918e282af1f87ed563ef8666351b7983e12bcac887708b3709af15bec01760bbf5c198970fba33a5d80bbac7eb9705d5804aeb30552b4e0cddea776c32f9263bfab80a8de7e550829b0f8c7c01230c2873e8ae4e26f2ba08dad64367bb975176dac2e61062988977560481a790cd80126b21489735ee4feef75d581c8f8b7a9d3f08c113feca30276a921425bc187721d574c5334639d08c6981d99dc9d52b77f8ecbae6ae6f90cfe874d30a7e7cb166608cce61463618d4b3568995c0c678ab2d9a3aa158833a2478e157b770134df34a91dd2d927ade232322e5e74652bd25e309d15d894b2bdeafd8c7c26e5777039469b3cef5b589a2cc4",
+            "classification": {
+                "Retinal pigment epithelium changes": 94.04
+            },
+            "severity_score": "2.207832",
+            "class": "Moderate",
+            "date": "8-19-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/11-22-2021/0000870698r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180832Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8f5f9610700f0b8d0a64b70e0fa619bde8eb1881ac5bf03716d7036aad498fd16e0f027eba0cde79c930738586692b424b877b29cff1118a7e52d17f3aa87a62f47894c04bcb25ef8a7accc909e4e3511bf45fe26c9a94eb127d71dcb426e8444040334402397c74d98ae9659f635a10c5def5e952a75f9311f138a35f2d50acdf2feadaf4979e22fac5a7b979730ebbc60cbd652f59fc35f49fe9aedd339e806c4d344b272854b70b364f1ba2bf0ae5127a9ab96fd1713d8fe565b8eb6fca5dfefdd276ab08118f1fbe779c6578950a86069929e729331327dfe92804369cc298e1e8fdadd6a1ac1c77e4dd6aee376e8107720d84ccea5775c2efe3ca506c08",
+            "classification": {
+                "Media haze": 77.72,
+                "Retinal pigment epithelium changes": 98.51
+            },
+            "severity_score": "2.3253016",
+            "class": "Moderate",
+            "date": "11-22-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./321/11-22-2021/0000870699r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180858Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=828539d46170b98f4eb2f488ab05083589e047e02287dc2c46382996e1857906bc4e0c8c7bf0054b498ed60c283f7b6230f177e7c7fda69154c8f3705a9d25238c8e43e4082b77fd91534ac3655db0186cf13c8065cc2b3f23eda364a32185ee375211a012c502a0a464d445782925b5e6c9738ee4da3646a35b8d5a94d867c1422b145dc93da69e679dd3e1630f3f3910a93d55f54ff8a1d6f9d12de47343d0dba365483cf614e94a01e16651492a5f28270d8c7dff4dff0a20072cbdd0d0d22905858cb961e744605eae4237b1deb917100ca420d42032cba2813798e546733424ee2165f0025b7063b61fa7f9c7a65a60de5f96ec86253be415e0b8a4c293",
+            "classification": {
+                "Media haze": 72.88,
+                "Retinal pigment epithelium changes": 83.85
+            },
+            "severity_score": "2.2273605",
+            "class": "Moderate",
+            "date": "11-22-2021"
+        }
+    ],
+    "1501": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/11-26-2001/0000004054r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T162944Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4e677a5302261b7b4c906cb005b02c7fc94530f00856cd58a98d8884b5aa0818328e419d3dc68c58b211801fc47edd6132dccda16c45fd7be0411f8821b6bddf590731c878ee35f09477c82c232160875ab20455d493c42dfaadf6675453e5c85681566ace810cab0dc38633085d57886ee2cee2e1a2f09d4254525c16bd26d8cc06bf7f206927c88c626cd59eb490819752ad3e58e06bdf30c1b96ad5020915c102f35af6208a1ea6d12d08c2b16d00bc767cb1c2ada32eba8ac54c09dd330c68caf832adefd16bc850fa9b8cfd2eeed19767bc824db4365194e8ffc50a8a59c091dcc8f079d2e2fa01a93470bd6ba40a9bf7382614a54604ef6d43028d79c0",
+            "classification": {},
+            "severity_score": "0.011864537",
+            "class": "None",
+            "date": "11-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/11-26-2001/0000004055r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163013Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2237f52430be66806f8382a9b12ef2093f9bb2208f6c25891ed77934e83479ee566dee0a86c582aa1f94a46da103ecb19e11076d4ff604957070ce76abe0751e1611d4163c216a9a258ed7652f13595baeeac1286d134346172e6c214d5aed0bc61e883de8192099e5c10ffeb26bb88ad8a937033ea10e9911e1128377da15e4d6b97dea0129c4d802e6df4070e36700d07f92c1f80078759b95410f1ceb7c5a26b8b4bd796b34778e5e90b2521482d97868ee30f0f0f879ea4752fb6bc6620bfcd237b6ee2cab5b570b8dd3d75055fecd068a3116e76fba392e265ee8062f5ed621ec8d25c8de3de8395923fea0e248e8b041de51ffbb556e5bd6ac1fd4ec74",
+            "classification": {
+                "Drusen": 30.94
+            },
+            "severity_score": "0.14666256",
+            "class": "None",
+            "date": "11-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/11-26-2001/0000004056r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163035Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1f39c37ebbec9fc9134f60cf355df83057e3f1a099f23e0be4fd8b9688bac86416d2481dc112396c9a6989bff2f38630905af4d46bf8f9602cecb646e26bc92ff8980f49ae6bfaec58afd38602e068a4d0d9f2002ddfe19dbbe67a495941d475bc01d66194a45db0ff57eda476eea0e63a3b9f71f02920a8cb32b4013084a5f77d7a4c0a5afd44134b2c3f357716caf023e98db0cdf93701ec565d3917ee9c779bf3f0bc46d7354bc977e6520bee2423ab71b256322876b1df70ba6dd29fc1874878aaceb953cf5f2daaa18b7c833043957e41c2cb1f86f8bfab60ef2a933745593c17f8c50f9a8f5891a0be78f8e08e5cf076ecd5f22d67f8abe602b0ffa79f",
+            "classification": {
+                "Optic disc cupping": 99.82
+            },
+            "severity_score": "0.6583568",
+            "class": "Mild",
+            "date": "11-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/11-26-2001/0000004057r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163058Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=88752f3c29ae719e638be2878aa75b55b195d5ffd8624ecced48b792e01c387ff023550ff4157e217f89687ed00ad4174e9794135e1cceaabb51dcb17ddb5b050000d5e08ad3c6457ad15255ae9f91aa1146922bf6e9126b384072566067836736500302dd54554db30336ef30a29770212e2202f4fb9d4a35557ef1f9e19c9eca532ccf6dd6e7e006321a58d42a10764ab25166a348738b44613f7908ccdd0b5552182c4006773cb5d9bf063da54f88f542d2b95c24f469b608faf52357fc1449ddcaa359d456d29217d88d85172dcb5ac814cf2d5d6429feb91f1d822b1cc02ac10e5828068b7013801408994807046846517f8358eaf99d7de30fb3a9bd82",
+            "classification": {},
+            "severity_score": "0.31432632",
+            "class": "None",
+            "date": "11-26-2001"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/3-14-2012/0000301847r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164858Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2ab110201e545c9d0f858f435ab739cee27fc265a5908b3caeb6ddb327abdb540c29da40eec852f377efb7de6d9fc9e03feb590d5aa02c3ac89c34a6df0a776ca1a3637951ba9dbc18bf73b2d2261fb568dee873232eded602e46cc90fe6e5b1b838a0c347a46c2a3d01185bfc4d741f090cb4cd0864502418be23e18e1f70268ef0e59eb1914a8ec483f22e36258a70c1d889c57f50bfbd4a7a5f74cd8e87bdbdae07d8d91ec538226833764640a22ffb897b724406df7ea75af7bb70fbeaa30157ff48998f01239fd9e00836432d7f4ceabeab1d7211690ba18038040ebc81f7d0a9ba207f7e0e25001af205142a51f310674c3c0c1bfc323483d424dca937",
+            "classification": {
+                "Drusen": 96.47,
+                "Media haze": 99.16
+            },
+            "severity_score": "2.533557",
+            "class": "Severe",
+            "date": "3-14-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/3-14-2012/0000301858r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164951Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7b554868e3057e2f2e60c6d73e65b27ae896f57975e949e94d6c560531d35cf11533dd0ab361e238b0ff2ac8ce742cc32644864a35fc11b573de697c590b628304ec493774af6813875f2e80282ecb675ea5f15f1b4f1b134dd1b9b322d464f6784cbb84f255b9814857420455d54bd71ff1f347278aa2849f781374c6635b18f88fa49a63ca4874ba69aa4847a4c9d916c57468ad70d9e83a65028abbd596d2a5ff6b46e9407959de190d494e71de8271b801a0d31db516b95074883c136fc2c618a248c6e4c4be19f04d0a1ab15e497ae5c3660f9c9cfa76dd2056f128f31286eb43f9b90c4fc307b03dec5b7b46b04ab15f7076eca98a1f720cd32b279600",
+            "classification": {
+                "Media haze": 18.77,
+                "Myopia": 59.99
+            },
+            "severity_score": "2.649327",
+            "class": "Severe",
+            "date": "3-14-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/3-14-2012/0000301859r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165021Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=af609c35b20a85b7ac7df4659c93f978bd453be043d4a00ca73bad77d8c2fd4b403a953fd9d75b4e71f8757a5e67222dfb9812eb480f776ebe3d8a6fe57e2ad2284fe0d92e8b4a547297d77399c1a3aa3db846ec013feb61bd90a63b48112336117aa2ee3141238650e9f13be9df5e9690dd2ec4b53578096eff857256d05a032434fc0d68f982a3a61dfa6165d0c4c8d4f862b4886ca48df8714be4af93e68b9a96cf952c4b754a87776689a392ed4f77d237b6734cf06eafb69865c89d0b01757b46242bdcb066ff46561723461a7f994dff538a9fb74cd1f161355447cb0810069b333a25ff318e7a27535aa75f7195ddd6ada09ed9df3e2111759f85ebb3",
+            "classification": {
+                "Media haze": 25.79
+            },
+            "severity_score": "2.6528053",
+            "class": "Severe",
+            "date": "3-14-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/5-20-2015/0000453010r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171147Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a26d5aaf004045dbb5572883f68c8a7a151b10799e8b11dccfb621a0bf307f29aa96cead89fbd75dcc4d0325ecdd617bc6c2e4eacc33dab75bd0e9ea5c3cd0068e3cefb6c595a6c85e2fc274bd26442545c080eac1d7c804c2bdb9e9c26b447307a133b99a30ea510dd3e33e483a2ad9bd4d31b8e618abe1f4d1b3d8b0482608b797f3428b7acac9376f6878afad9671e1efbf9460a3758a9f1fe6f7aaf62b8f3674da375633ef905b69c93f03e1be4baab92301fe4c2ce27721b261525d2c7af1b59225b144c551efe60e6946dac6f524bea299bad0c39272f653dadfd0f5b6ece1512490790b9035bb8da0d2700dd0922e1f201c2a4aa354f7c5094f1cf8ce",
+            "classification": {
+                "Media haze": 99.86
+            },
+            "severity_score": "3.0113957",
+            "class": "Severe",
+            "date": "5-20-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/5-20-2015/0000453011r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171228Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=02632b4a87c5e625d91017a594f9e4cb2ce2f5c57b7543e3f59eb51bde94eefa49b7e7aa948114bad5169e889b8e937bcaadcbd6a60f74dc7eeb0d1b78359691ade787851d82505532b308f1d0fe274acc3b937b5bd69d9216f73406eba04c99d02ae410f367b989721e57b93a1a9fa3a44ff6e533dc3e32ef1c87d782b3def59ac198923a511f7e2546228f54894ca712316cad1c5b605156a32cf5882f487e7b653c2c2e4b647b2fef58d06e17f017ccd50225869d25d72e82ab3bc9e2a35f194bd12019e97d978c0f7c20973887ed642e6eedbfe2643f5f5cbbf8f67f87d37b6b551d9ea142095c6daf4a52cf24c385d023b5dc63fd2e41a2ba701836bee6",
+            "classification": {},
+            "severity_score": "2.0064595",
+            "class": "Moderate",
+            "date": "5-20-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/5-20-2015/0000453026r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171253Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a477d46d4045a7db6b2348865906eac6344403d1c58fced290c6cc76cceceb845752395fcee9872686487e7efc858bebda547b844fce86121e2ef8ce0681584b5c10aa93f361dba7520fd19ed6fac893f6856d6a3be1dd43aa9534e08682e3d54497a98d8ff825981fe2e2617eaf89cf73d5188a737cfa3f3593a4cffb9469097c371f74abe462cb681e948bd01b144f3a7073ff4fe4a4143d15a33cb5ce13411eadda3cf8558f53206d9f1cfb5b6587acf9d2c35167b00da1445da3b74c90b6cb487d98606b01853776ec671aed1f796093f6a1023e7e9c7457ab16e3fcd053dd445a1e6615a334b555cd9ef2ea16e7b648e2ad97dfae46086c14081f79383d",
+            "classification": {
+                "Media haze": 15.6,
+                "Myopia": 17.89
+            },
+            "severity_score": "2.4999282",
+            "class": "Moderate",
+            "date": "5-20-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/5-20-2015/0000453028r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171331Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1e6aaf4fefabcfed647daea520ed535a5a019c75299d2280538bd421a2133d0cbcfb507eb6906e2df8ca02350ca8e3c7c94b014a37963e4cb5b5262fe0aef60b8b7667df6d2e8a8b86833ea4eb0cebd65f5c4943aeaae1efd840532cc99f46abb29df1efc204f129f462266fd0361c31bd1124d42636dc937c6b4420583860ea995314f6083711525a605e8ddab4fdd50743a462815b12152ef24abec578a4d6fbf9d9192a10898c7891383ee4d7a5cd19e40333662df3e2c0c0859b5cc8421918f918be3e0d485042a06c7461ebc3883dcf7752d6930dfb72cf7814beb1a98b75693e97cf670bb93e490ba0fe7d7afd85f14d439670552d6eb35b3365720779",
+            "classification": {
+                "Media haze": 75.23
+            },
+            "severity_score": "2.5874164",
+            "class": "Severe",
+            "date": "5-20-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/4-4-2018/0000651396r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174454Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=220bb704431676c815bfb6787fd067492f3ac8cc22ce674c49c90a334f8964734c06f9adc992823a0ccdfadd53e790395974bbf3d517ba34c7b417c304fd672f13476b1fc9d57b361aafa0d9b6c61c98c87538d2238e72581215b85c20c5290c789f6da4ab1f4320684267a3add5833d9f8cd4883256c352c58e3b51b635a6433ea5e01e66c459e9e09da324ba3e64bba73e2806285ac6e19f963522a4490ea6f36a8b2bd065902185452587bd246d92336221a4e95e8316ee58f48424660d6ec953eb2b8afd367649ef6865af4f6a1d08b4fc0294514540aefbd11e4ca8e0a66ced94c615e99d0c73af5bb21e477b9aff92b09ab062121d8a35c28f805bde83",
+            "classification": {
+                "Retinal pigment epithelium changes": 96.79
+            },
+            "severity_score": "2.214246",
+            "class": "Moderate",
+            "date": "4-4-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./1501/4-4-2018/0000651397r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174522Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=19aed89b9088cd0606d9e7e3e81cefb3310458377a618f9a90897a9540db3310fdfaa0d1dd668850579e744a01b07bb2386dd4423d0091fa2074072abaecbdffd6d955a3b1a0ef3d2b8edd5b9f16580a0e9a3317cf3667fb7693647adc8b5e3c9cac6e045b76075933b4718dc95099270b1582a89dcc93d2bfeb7658eb4cdb6a558987cfde8bdb18c860caf9a7ede17fec45cb8ee1d897318c565d95bafbd80eaeda05b798574830093509c20d7e2ba59df8e4cfb57dde955a8743776b6b4c210e4f85ecd858e91bc983fb7a2c81ad7eb46d1cf0ffa17a208fb279e19282cd1d4d635184b10300c528006476ed324d2601d2bfb86a9e7f18ee8977bbcabee49c",
+            "classification": {
+                "Drusen": 55.22,
+                "Retinal pigment epithelium changes": 94.26
+            },
+            "severity_score": "2.1684117",
+            "class": "Moderate",
+            "date": "4-4-2018"
+        }
+    ],
+    "2687": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/5-16-2002/0000007275r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163454Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0feb3cea3acd7d23d8a749804dd1d10b3e304b08a52226baff04d2677241d1c1341c814e0eb307bacea71d07de6f697a8386ff44b7a622bd7d4efed28722eb813a3b6cede2a9a662b9583dcfea08b41106bfc625ca7d5dd2b225d80a3186712ee6f7dd19ad82294199d5606cf1fd32851fd1774ed93597cde2349cfefdbe00a0aa98cf7fcc83ee9bfdb3a738bf06b9c496c6ea9d7007f910b7f474065528c96d07c25c34dd4620cfdd89f123e73478b9842268e8ceb2f2d67b5e185f866bf82907b803a56f83b7f826bfd56b91a361d34db21be4c9d7e65ac4886cc57641b1f84f9f18c1abd7c3817f22fdd35db8bb16f1ed0edfb3f8e63f251c263d3cdbc9b5",
+            "classification": {},
+            "severity_score": "0.164852",
+            "class": "None",
+            "date": "5-16-2002"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/5-16-2002/0000007276r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163520Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9aa4456de2edb1b342bb84e6102c319293ac87d03dd179610a1103e8530045c115bf22c20eef933b82b346a051b58a16bc52d37364dec795fabb9bc3047c7a46d8150181ecc01831987a9552a108da1d1415135cdea6cd56ddf42e630a9a063b65041922d9763ce969dde4acefc2898551fbd801ee9d2413def40cd7f4095101c8e29297f1004414c64c39bfa9ee6ce93fc4c4cdc5e9bad8258ddb3e4738e003e34d616f7b1e2d0d490ca22b24dcf910f9052951915d16438d7fa7e527b1a7f6b44fe57ba78a6be57f30155a6b9e96df8def8fb0f0c1ee4e7ee87aa1f43232fb8e9f97b38975656982a319d4baa722cd0a8229001637d4ceab91224033bf2f4d",
+            "classification": {},
+            "severity_score": "0.23944986",
+            "class": "None",
+            "date": "5-16-2002"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/2-24-2012/0000300043r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164637Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=69a96c33580565b6941a071fe5cda5405fe994283f98fac2f1863f3955b94020db286d08cc29a47bf0a631f7570117e8a893eea9e26636cec30adb758566169d458119760d8afa588b1977b5b4632343849df56ec24f72b0f9dd72ebe8eca693d750a4d232cd6a1340cddcddaaea9919bc39c0c1a90cff0390e048447877301961c8611e457ecc531a42549cbb57acf5d6f58cbd2873683cfe2950fe08ad8c29e1f4af4a6f6aa1895ed52439e837c3e972cac7882c831f3bf3c4ab04348262ecd878ec6dbf0c93b48f66183349c17696830ce688d00353f189c6b3361f81f05b622722ebfedd52db05b421d40345600a9da95683922d39eefaede384929baae8",
+            "classification": {
+                "Age-related macular degeneration": 11.5
+            },
+            "severity_score": "2.1520207",
+            "class": "Moderate",
+            "date": "2-24-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/2-24-2012/0000300048r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164702Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=454d03b51cfc78d17460a6b9f60d8c4168795f012ad11c18831e948b6e91a8a34bac9550dfd599b3320e002258f25eac681d41f80057f66d8046303e5ecb80947090d5b3d9c1fb31155324c2d61657c04144d427858a311fba10edd2104992ca27792cf59d10f1ace4028161741550b6bf70c9ea14da183754e1025dda4d55852d9e7a20960969de7603a5d419d79930c58bea46692c1717fc3c16dcd2b92630452668db519c968022940389a47052a26b1cd75cd99fb1e21e875cf676a05e12049d07d04ecbcedfddac9ee6773bbd016be74f4952f67936a7c6a52c0eafbd5c170e7e347d9f3be7eecde58a73ea8921d94522639ef0df6c3bbe71b812067774",
+            "classification": {
+                "Age-related macular degeneration": 11.07,
+                "Media haze": 23.66,
+                "Tessellation": 60.8
+            },
+            "severity_score": "2.234598",
+            "class": "Moderate",
+            "date": "2-24-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/2-24-2012/0000300067r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164729Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=393a7287c404186646cbea5299b4ee2be81ae77d330265e28b54cde32b82f413f6387efe32d754045379182e67a74d536dec76d95003162833a66e659fb31b8402d90742d94f9532be27391ce75115e0fda3433095f8930d53fd9ea3423aaa56b835c0d0ac390b4dfef0cc35d1a7313113b1abd65be1c7438d146b941970bfc8c970eb8f98b4d63ab8df7c9397652902945d9c7354ed04c0f723f095a9e369f4ff1604a4f87bc53c26f5e82a286617aa021834518277e0574d0523942370753b18362442ef2192e02ee721858a5c179ecf8e23eb109716a635a75b6215a067ba377ae584a7bb774ef949b4d311e69ec7f4bec9ae6f694ba318ac8ef3c74614db",
+            "classification": {
+                "Myopia": 31.3
+            },
+            "severity_score": "2.8618145",
+            "class": "Severe",
+            "date": "2-24-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/2-24-2012/0000300068r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T164806Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b80778d546886634301a112b9509d255d9ce88b3aaa0c86e24345124e107e31388b29052c9c3fea0b65e92dc3d3ceaa4b6c20d4e60661a6241d39bf73f5174f65548947d6f9b1fb8317d303c8fbb1c2fc55652da1bee54f5ab1d898370bf06b6c05d003243e7700a500c8bdc499c8e224605fc1d0f7fce1b3d3d1386890c55badc608786bde02719a763093101122db3582ee9ebed5c9e34236676c103b3cea965904f7abe223e6f7af0ffdb6a22484dd4edc406ae981c61592ce8028e7fc26a76ca825738acfd40054d65c6ef2e629f329bb86958bf6ea544f2c8adbde32b227c9e509b7ddffa6db4dfb1ffad5c2a3246ca2540585e76e26094fa95fdf98136",
+            "classification": {},
+            "severity_score": "2.7533162",
+            "class": "Severe",
+            "date": "2-24-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/3-11-2016/0000505685r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172440Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7d3321eb3ad78e592176d5875f1c7762cf812750911b5364501342eb2ae6dbe9e5aa70b5caa7ccb4a33a9301c841b1a956e7288c34669f9a91e9b83d1210c099a7518db34d4dc7d64a4cbb48ad08453733e91c4d76d7bf91e09eadac1db655a759599009eee51a99cdd04f1bea62a72582ade23b1c0a67cd0806306e98ea1a9a31eed724e05907212d228ddbb8e6d818d90ee9e426142bace938a729510b3036b48c3a8317c935e3e1b7a24ef95df3fd58de478b77db7f00e0daeca8e88e659a0d156250a5760edc8a19fd736eaa0e15cf68439650800ff3e754eba7c49fa34e244d8880510667091f85d9759589c8c8370dce3bf3237a2c9afab1eab96a82c0",
+            "classification": {
+                "Myopia": 76.07
+            },
+            "severity_score": "2.1380937",
+            "class": "Moderate",
+            "date": "3-11-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/3-11-2016/0000505686r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172507Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1307f1e7fcd95efc9fdd82707474f678e2b463173e1b5ce699831fccb5597371ae8d25b1df4ba1c8b7aeefd897ebb241879189ae5203bc442acd54e6542aaaf092a33290cf60e055085accad9603d6d95671a7f383055f7879e789421ecf2ddc80df15a1cd3200d4452954c38529adedc3d5f743eca79869101c7583bbf05d8a55fb31c069a7bb028b2c9d9cf0ebccd3fc8e9fd4cba23537162fbd3c5852979cec36827607f95a897846998212d6994ab01c72b3d8eac144b56c46fc5701dffee5112c08a79a0bb13ad1ca2b46a30b3296a95cb3c50d798dc44786b22deeeeeca899d26e5fba6a8b0e6982d018efe6fa02bf0a8de85057f301cd67923d8f1a45",
+            "classification": {
+                "Myopia": 69.75,
+                "Media haze": 78.37
+            },
+            "severity_score": "1.9741753",
+            "class": "Moderate",
+            "date": "3-11-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/8-13-2018/0000676917r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174746Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5c1b8e0b3880ade3e5036220c8ac8498cae2d4783a8cf72d8920c5eb7f67f9a67f88325d1338ddeee7243f9f87995ea1993abb04b9e4378f1c6be86383ba4ac185cd96f89501e82e5eb03428a56b28244327bc51be89eac3539a8b58c98151a37941122219bf774d8ed69d2d42bfd789fc542cc166bfd2dcc2ada527db35c37099f3dd15775f336bd5a99e4c682fd6c164e5f3f5f60749faea2418769bf0f9067d5c205d2e56bbc12753c1bbdcd71f2d67d9f37c4fed7bd168c6e991e5e911bc2f5219d358f7e680cb7438d3280098a6632980c8957aff3d3ce5ce77c2b0c1894e1544addceca1ef9d9c8adac01f7fadd5dff28f7dcef7771004edf746b9dc84",
+            "classification": {
+                "Retinal pigment epithelium changes": 85.37,
+                "Media haze": 96.46
+            },
+            "severity_score": "2.0098367",
+            "class": "Moderate",
+            "date": "8-13-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./2687/8-13-2018/0000676919r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174817Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=07c894cb8af82b2b0144976f68ecdb417561e9e0946b6110d0a9207144c9a41d8e725c98e764db5f45921e6457308c4b6c2506e8f818ccfdb4960cdf5aed62c97a23ccff36119a6567779af6f0a3782a69b8aceea7662215e35eb4c221d2da6b0abac706c17e43a9a26be51466fe3c534169fb332f25444f39c38708c5d88b15fa055fdb5083b86e5181b39eee85da8bf2cb0739058ade89b0146f1aba6add031f67bc2589fdedfb9eade76671fa3a78407645c3bfa3fe71e653f8f02d9a38b49cc4af1267c667acb801ac5270c30df835b35f7b931e5fb21d858146b025514d3f01c4f0bef285a74bbd72d5994c34960566858deb27979c7cf4716332324349",
+            "classification": {
+                "Retinal pigment epithelium changes": 98.83
+            },
+            "severity_score": "2.133305",
+            "class": "Moderate",
+            "date": "8-13-2018"
+        }
+    ],
+    "7024": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/11-28-2012/0000330933r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165304Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a83c4b4848411897561d0864b05cb25f5ab07c585aab121869377b51860e3d667b2103a0ad481946a5e9cc9cb64cc3d8e4aa69889ced300848937d7f8197dfd0aa975a9e6abcdd91c19d3dac7a878502002c6f06e51bb1df827deb0f371b89f74d45aa50d0ebd2dfa7a037affc59695327700f3b8a70a713b4ca9c5b30106f1979c8ef1c10270b2469d798211b72e5ebb73b244aca02e24565ab4496170571e2387d2ff9713aa0a763d1f521733defd307132d3702261d4a79ccf10b6b31f040be82f25deb40e5bb569b1309f472599af87b1b52a4da991b8f2bfbc102443dc5ce4fa94260d4dcf266201adf14e9b37b92a85111a0daf05348d11ff8b5f7814c",
+            "classification": {},
+            "severity_score": "2.7126603",
+            "class": "Severe",
+            "date": "11-28-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/11-28-2012/0000331003r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165338Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9e094e008ef9561cdc39dbe8c7bc2c0180fe4f8f607a94da41d6c67e02bf32560e6095e8f0aa124a0e85cb84482a046cc5c7108b471efc2ab6c3ed7e46c01b3f94e064837f52e8b4855f1f969e5d108b885eeda9450c223a06bb64e187eb710553ff9944e938594104f722b49f40230f71179a4864a81895c00158b05ca494dacb04003eaa4d648726f266431f1929f69e572ea6dcf9407f31735053885e362a4728b0af2bb4df6a92ff3f5ccb6a1db825658e66b1efbb05830367e377a81f6a80f7d0dbd23d4547ac0070eec5dd774e2bb0107fb50e76c1f6c8e3d0f8d3411da39c1e2aa959c2c73c9c7cd8eb07e54207d9ffe0a0a57d73c51dcdde48fbb098",
+            "classification": {},
+            "severity_score": "2.5368745",
+            "class": "Severe",
+            "date": "11-28-2012"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/10-5-2016/0000544621r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172917Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=22defbe6db846f0b26284554b0315a1f6a67d8eecf8a9efe36d573a19b6b69b26cc47a06647b823fee928f0afb60366f414860e714b9259296dbade865834f514795df6945420e8387ee04416018b05a9084f87d2fa1a71c6cbf8f49688868df03dac6e93dfe300c85d8bafbc9f1f7a59f8389f9d3ce89289dbf6e0dd67d51482eab926b92e2d843f3c1c035fbf2ab583121684a23fbec4afb92d3cce4246fd6816e6b42499b7470b92201c2da0f1d53750b9e42703c12f0eb9f0932fda7933d91f380d1ac4930ba4c2272ac613adc1f3b7d8d9dff1d99a00cb32915b362badd02683f9e249a1f3f007b7fc834b0c783303b142d929ec090db31e7463a6fb77f",
+            "classification": {},
+            "severity_score": "2.6925693",
+            "class": "Severe",
+            "date": "10-5-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/10-5-2016/0000544631r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172941Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=684ffa1dbbadb4f8562d4772bfa6ada66d1415dd681187bb8b0f56dcb3e5fff8ceb852ec93bd6203762067c680afcb74fc4a635099ca73db21f3bb694e4f5da95e40bb4eaefc80984f1aeb6dbe3022204225efc2db54ce9ceffdbd93687eb4eb3ff1cdf6e13c8c6d08f73373304098e01709e32392fb7a70ebdca11f0ac867e47a8f2b7c1b1969b2ce253c45c0412f53d8cef5606b0e1273dac556e4ac9b8e380d571771dd124355b6a11d813136ec87651f7b0a5306978489a5567eb7b38683e58d15721f1044c2ae2b6025e9e29ed295076090bb79a3603dfe3bf551787ed58a76e0c0430a7764f43fe078eaeba93a7c0f219a505b6ec57e3ee5c7a8241ac3",
+            "classification": {},
+            "severity_score": "2.6087465",
+            "class": "Severe",
+            "date": "10-5-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/5-7-2018/0000656560r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174545Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=636f120bd87f5f088466a8b97d5f7df2b8dffb58522efe180a6d8f922780450a719686d4d8143e05c35577920a241a74fd96423e8703c0a885d10902869303fad9852716804f1fe7e325dfa2f4d11995ae6222ee4d0742353161d648540dd29664edb02fb494680fd2acd8c18ce6366e9b00b8450711e8b39f494cf5d537b3dffdbe86cf5c5e8cb4151f07a3ae1f144855f030c978a87b31f515cde5a11f129c5437fc52fe2bffae81a72eb1438c0c1b63880f64167b8121acab38b6a961a2f8992b590f6cba2d4602c2aa1bcaed2a78e47e6a30416daa19d8b278125982493a7ea7c0b1c51dce8b14a391d0d82ef68b75bb84756694ddd3484f8954d7a831ec",
+            "classification": {
+                "Retinal pigment epithelium changes": 99.55
+            },
+            "severity_score": "2.1546519",
+            "class": "Moderate",
+            "date": "5-7-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/5-7-2018/0000656561r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174627Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=186fccbb4091c6c809b43c47c3916757981b930812ef278317ec05926d20ba32e28b735572ee0f01623fdd8c6299d6d994a6e9019e4fd528be6c67d95181d7ec1cea312ad25f4216083f49df73cb019f3540fc0267485b0a984609b463abc22ed2a2733db7f7b563854a4505e1d55a3d1cd3b9429a7f9bc6dc26b2dc6f6a2d40fbda76bfe061ff1002447f806037ebf1a934fe79c189f6fc1f5814ade8f05b5c1d1e30fb839483eabd1bd6db153314041ac32be2cb892bc03372b1a07a1abbdaa968ad29ad104b1abeb03f99ab3e6178866a0ebfbc8d4758b7bfda37edcce69e54b18fb89a6973edfab1a1eddee5cd780bfc79d70069142ca2d85f1ad648a743",
+            "classification": {
+                "Drusen": 14.24,
+                "Retinal pigment epithelium changes": 97.66
+            },
+            "severity_score": "2.2720976",
+            "class": "Moderate",
+            "date": "5-7-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/11-20-2020/0000821977r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180102Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7213eb9270c637c76e0b0426177f1a2254a74632dfccb0c081a1a50fc32c3ff2ec45f2a921d7bb473276f16d099cd24b516bf69c93a1ab3299d6317107f0386344304b889e3214f7bc5c3c30fdc71cf2cc466564674dda49ba9e9b8d44bf6f425a31896029f33e5c30edfa219b44bd82be0115930e59d5d87f4cc6a58d7c365d8f525ed350fefbbc7ab1433c1467c98abe63331a0d3d821b3fe7b86dfd93124ba6b352bef0cdcf825234cafc97d7f170b6970546e66125082048841510abc3a28e5f59b92457c5571e2714ddf45da870298ef3cff4a835f5c1f5ab27954eb3b183d00ba6b9c9541922b549a087d62dae6ccc1ec6623f2c59d00622dd5ea8cd28",
+            "classification": {
+                "Media haze": 20.98,
+                "Retinal pigment epithelium changes": 96.86
+            },
+            "severity_score": "2.1245906",
+            "class": "Moderate",
+            "date": "11-20-2020"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./7024/11-20-2020/0000821978r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180129Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=02021f27065c0f0daa0aafa57f81e2bc8a819a52d9d81d2aa5d867cfc47ed79556310361cb96933893819d23dd5c18b2b1e2f1484d7e34af6282ad6da36bafbd93b361e15d2947be5f09975b261822752462fbb9ac9df61c1f173df9ce5513136553f3606f9704cb5429679a8133039f73cf189276c30c82a46999eea837aad0708a240ed2b3ffd46e2d54cab047f6b6676728f32861cd6cfae9f3b2ae3878fd8522449cdbb9daa2e55ddfa2fdd761e3d10ef1b1fc19f104c9273f22cd37bdf64e91530035fcb35d294ab588a349b4b2967cce6206e3ddabf5e1f2bfec4fbdc64f97f76b597af970648001e646d044f69c0a463d4e0a210a57d3ace715f0b1db",
+            "classification": {
+                "Media haze": 71.94,
+                "Retinal pigment epithelium changes": 88.14
+            },
+            "severity_score": "2.0640903",
+            "class": "Moderate",
+            "date": "11-20-2020"
+        }
+    ],
+    "10728": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/6-28-2011/0000270613r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163540Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9cb0ab153b56592af9247d12945e14fc3f25ad18032892ddc0615ac5faf9b0f5082a37dde1f2a34efd7c728ded772e578abaae2b61a075d2e278dd848e1166fd3a2dcbbcdca26691299c08fb753fdac0ace154efd99b0d671a6d2ba54dcd9363059a777302b6df5f8a34f1167ddf36f3069104b74ce14cf10ea1dbef0593111e5d354a01bcc1397225e7e82110a2eb85866430de118c0129047e5c33e6c86d4cc7c95a7a878c25e4489f7bb611a8d2658b3c499a339584a6d394c8da4d349c08f9148c06c131b00f1f64d8e62681d19909730f9c2b12941a29d364aae80c81b3f7d5df20622b99e8141709e12d0a13ab3d004d265c10a14fa3975c984b7367cc",
+            "classification": {},
+            "severity_score": "2.1186693",
+            "class": "Moderate",
+            "date": "6-28-2011"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/6-28-2011/0000270614r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T163607Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a15e50c890afef2595aed1860fd8b87464c47dd7226be6c621c208ad7a5cf35be8023fb6f726501c457e40200143826a166887ee6a2bad76a557e29478e497cf0d4db754f775d353ce457502350b4793e22708249c7099e8283ce04a006c076f96af0ab12950cf78ad7cde403b130db91f37ebca00fdfcedf5177b47eb6ed1819863252c69e5fd1ec8d80dbdc44b97dc9570d472a0d4ed601983c4b64626e301af4375b71c48702ef39d5474684e45059d2906967aac6927798e92cecfae7153e38c42ec3b26e447dbe8b9f95efbc4b755cf477b28ab54cffeb45c04d5e668667b4b809c6f9d475b19cf3f4adaae0ac96d5b22ad10ef729409869d0f0e79dec8",
+            "classification": {},
+            "severity_score": "2.2016969",
+            "class": "Moderate",
+            "date": "6-28-2011"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/10-13-2014/0000413477r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165828Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8640946363b33c24218d0337c4a688f88889dab61d075d503b171f04d5c478e44dc4a84a7eb5b3506ad251126089e2577363f9ac927cfeab9504e909200797b92143f47c6b5a01e636ea6abb32883c0e7d1ad7ed4b13e25375ea6128f57ed8e5c99135acb414eb830b8606d3fde084353f8d3f4a7828fbe77b739ed631675a3b35b17be0c5530fcd801e9b003035defd06c1847e8132e102fdf8223b1d67e7b50e2e0b92f2c8d43c6541a48c89595dea8d2a910a88d621d1e6ff52bbeecb927f1cd3fa920b150d5599ace96d8c018b0862885e2dfefb8d80889be91bbafcd5bf85701add538f67d1f63bc0582dc4ffa2a775d9826020673b3f7d9164a3ded663",
+            "classification": {},
+            "severity_score": "1.9709575",
+            "class": "Moderate",
+            "date": "10-13-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/10-13-2014/0000413478r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165855Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=19951bcd3c9285844bc82d9da336027d4e6aa56996209b0e5c4046465f19849aa9b32d915acf4a4eed9913fedce1dc4656c7f6d1080f18cb991e7c0e3aced43ed18345bad6afcc61606076675c5ad2c10f868765437dc6db8cb86f8f3612e4df84dea29406541f54408266ba6bed24054f1d8c66ffffea795b69da5623f35fed9eea07da634a9ff5feb9da05e012bd0750acb4831dc9591e5ef59c1b13d448c910e1a0a0b1a4169f1a54240cd641489e8aa7fc4db58760c4f8a3f99482a283e2f5c82d8050110b09145535a0858f6d09823b9f873911e0d5618b91dca60ba4dd060826bef72b40aa56a354fd28043206a5dbaad0530a98c95dfac2ef0e530de0",
+            "classification": {},
+            "severity_score": "2.199966",
+            "class": "Moderate",
+            "date": "10-13-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/10-13-2014/0000413481r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165934Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6a3c907cd047c47aaeb0d5b7ea8e32695e65f276f3d78f776ba29ba384d67f32511ec89ab4100a372d1d615c89541f5ce7e492a3a7b72159d7ac52de0fa4ec1f22ac178903bf1ab1a9960ce2f26a3e81c6c58d2eeb8fe07ad3990e3f8321d36e6b7b6b72c9b3ba2394dbcda1512719df653e0daaf1a59554d42074ca45bc639dd60cdad1486e1fdacc8d336f3f9b7ebf0e6101b4944dc71435ef00b836543543ff8c8cb0160787c4cfff655108bc0431e784cca7954f82a2a6bfe4b3d57e4aabbad7e32611ebd64e19d2c67d010a64eeac1d69087da77738d7e9265857475cb138cbb5b4d95f518f6f281097df48f2b3f1563f85c9d53fe998f1471bdefa7e74",
+            "classification": {
+                "Media haze": 99.72,
+                "Age-related macular degeneration": 100.0
+            },
+            "severity_score": "2.9469342",
+            "class": "Severe",
+            "date": "10-13-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/10-13-2014/0000413482r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170010Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=27d150c382f53c01265932e67dcd587076f140411ebd12ddbb782770fb42fafb407328a5ca39ac618f15d52221f3e6ce6a707766dd786e36b8aa606169b3b69eb072bbb51d9737a5e3579987bec06b335ef15415c36e9c851382a0a44bd44743250b635fde39b62d6aca729eb50b679ea6a3db8c52dca015dba90d6ce63680727ed1fd599cb92d83b03e8fb9f79374457a90429a02b079f1e54240f696a1695224665ee7bacd3cadb6a919bc28f910e1e32ca5d6e3d7c52c3660fe1a4c9da5af9cf80fb35df99afe79fb5cf266cb821c0c43d3c6af5ff0e76c6a779023f92f9b47d631ea80b0ac308e5ef6bfa664e3f24cda0651e35ea58a61a99877237679f0",
+            "classification": {
+                "Media haze": 99.84,
+                "Age-related macular degeneration": 100.0
+            },
+            "severity_score": "2.962459",
+            "class": "Severe",
+            "date": "10-13-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/10-11-2021/0000865787r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180743Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=55df8747be6744dcd9f30b76cb0affb5f2b2262fea1ace0d68e266c9fe03b027b2958b1b0b950368d13b59c4baa0794ce7f5848c0a91bb87d5c594eeb2db7d5445b61fdd1449a7a3d77d6f75f417e8e652628b9479fa7cfbe13755993621a301b46d55533a68f606857c1b8899bba58468195ce64532568f4e36c2643b04044245aa355a61fe6967c85dcd81778e65a9a078e2c58f9380b77d815f9fd1a03e148b70e0ec5d8113e6f9577ba1c17715335e9b29d308323bd6f8cb1c59c018f70f7fda9d3989913413a558431ba859a4107b52f4c34c7d5582523881ab2c112f1fede216712559d8f2604a9bf7e147a3bc5daf860a08b034e94d4a2fe305ab7a1a",
+            "classification": {},
+            "severity_score": "1.8877676",
+            "class": "Moderate",
+            "date": "10-11-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./10728/10-11-2021/0000865788r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180808Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7177af56f62c1b1a30b56bf0a7bd199bedae1c1280d14ff5f0ea7b7abdd5e330759b5fb9435d040eed095cab763f46976457cf52ae996b0e6ae847a3b2f4a829badd6f2cff3db300b6cfd8ec5d367e57a4d34ebae58b1c1c61a39adb848ea519bcd678777fd7d852be4c8c9e107ca5b7d53683bf5411a27ad6dffa8a975669a14c9a72da146da76a88cc786f931132ee62c691365b4c9ee1df25215e173a217b74ad587ccb84f3e3cd77d2880e962b70b35ab63ec72307a9abdedf72c8f2fd325ac67571d845e2beba04f31f0f1063ee6641530edfbeaf6f10882ad9bb6ff034691a00f223c5d278f375cfff9c947b4fbca835494726fe4a12ad9ba9a76591a7",
+            "classification": {
+                "Retinal pigment epithelium changes": 79.38
+            },
+            "severity_score": "2.0768988",
+            "class": "Moderate",
+            "date": "10-11-2021"
+        }
+    ],
+    "11282": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-3-2014/0000422727r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170034Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=52a3fc71362d97fb19f3a7d5ce1be411cae68ade881361ba98ea8ab17d6821c8f42e6dc43ae42a36136f967352ec2885f3d36872bc735338781281552268dd045c4543e1a2622fbae479302d446661dff6b28779f65003a566d415ad8b8e21a3cf34654d9ea8c73e45b4c7d50e3aedb461427261241f6a3857e4d0af8f87f6db2010dea99ce81a2563a50ee55ca07bb647134d61146c712befe9e59124598fc915c5ab6c4d0a4fee7c9fe63088663349c1fb6ef3b7a9210fd870c954b355607486ac6b5bf22e5a36c84f87c8c68b24965bbc82a94fde8eb286c7e9944e35be6c23014ebd9bbcc8a1e072f037012beb29567b63b1d519b33f5184f7812c2c7b6c",
+            "classification": {
+                "Media haze": 25.35,
+                "Myopia": 64.95
+            },
+            "severity_score": "1.9022279",
+            "class": "Moderate",
+            "date": "12-3-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-3-2014/0000422728r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170101Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2abeea9bdec066cf48486bcefd9b26d67f86fa99af1386a6fc977a5eee502a265481b010280c26c5cccd3b7f66eacb1c9955793a6bcd8295f7a214e44a5de7a1e2d5f4619b4651d70030056ec50e8e0608b7f57ee3bc90040d37213d313a61d9afda30adf03de4250300935db4bde0f837b4cd67b5d9212798013fb7aa5e5dc60dcbc3addd99ddb53366d6bca9d715f5b4eca3bbaec1a11422c045dbe3721426ba38e7a67f2b48c39021dab79cefe9d82ea659b050e0623ee3a15dd311dec3e8d8682b9c45c6ced82cc10af9272b6801cc3e7a7b7772e8d373efaaa6a282fb048931a7743fdb3ab0056dfb8ca34137fec51ce95398c3c7b9211d62c4531b7709",
+            "classification": {
+                "Myopia": 95.76,
+                "Media haze": 98.43,
+                "Optic disc cupping": 99.99
+            },
+            "severity_score": "2.1739326",
+            "class": "Moderate",
+            "date": "12-3-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-3-2014/0000422737r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170128Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0b9573a7b2549c183ae3ad7506193f0b2885eed1dcf27596988e628d40f136ea5904915339c48cdb8d727937ec040f32ab769d300da6cd0f7cf34db973483ddeb1ef1bda41f41586e6a6901c8a90165510dca8b56fdc90cfd041dc96a44a9e83c186f3e7a51bb49a9d7019798878185ddd9a02b63557ac09427a92ea9ce4cf8f65a6dc5803c578449db2eb2e05e06399a04c18362454015023f16e0ea802acc533f1ae372277a4c5d5bc533349b21c7da25a9858ab10b3cc801c553a0cc9d8f60d60f4b5c68eb60d580e0471a2817d92b348251e27dbf747c31b9340db6aec3582f11ad015e097033e78163ee03ed78af1a7c0cc62c76e3b9b2faf58385f5041",
+            "classification": {
+                "Media haze": 100.0,
+                "Age-related macular degeneration": 100.0
+            },
+            "severity_score": "2.9160452",
+            "class": "Severe",
+            "date": "12-3-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-3-2014/0000422738r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170152Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=78895db82ff7483ee1f71027297141a208883a076eac43c7c4838b430e6db2be6ff5bd659d3518d4a38dc42e8e7b9752d4571b42b36e42c822783075c5e79449304f80b852ed20e9d3f8997bc9ff065ecaa69d00b4e0d194d010ba3cac01b2609ec8bef514389288550e76999ff7d4add0ea2f1d3f382fbd11934ebfd6c46ae5c149246be36fa719c98c54549dafa1093fbfe5558f16bb31e786c2f6173dcbb2da8e90f83cd30895920ba93794def4a35e13486ef83d4a88e2ed8b11a848362f11521ac5a8696e174a4a6c31bb5b1abaccfb404d3296d00ed0794071bbb0fcdcbc0280c34e28a18eeb28868989fe50e53519d9517a99baca82c25d9e831f65e3",
+            "classification": {
+                "Age-related macular degeneration": 99.99,
+                "Media haze": 100.0
+            },
+            "severity_score": "3.1648428",
+            "class": "Severe",
+            "date": "12-3-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/5-13-2015/0000451971r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170824Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3b62a1229e3fe8c30df6dbb3043d64444070292129c63032dd4c573b84450b3ffff655d190aafdb14f5788e286946d2af6eaba12110a84b82317e1fabe3e72bd8b8e1eb3e86d53954dbcb4055ee68c7aa372a24ea6d9cc52481bd866f7e877337172f28cc3524e7b8e053167f5497c25f86e39f231071ce0d9a6f8153dfc8034eb83a150cdaa26e867b785e0b83634dee05b1af7c58784a61d64f5d717c3ecf952e0d28fd7c8deccffa32b6b13fed94efbaaf1f2e9f1191ec8eb7cd8c599b848884887f3e2de98df7414ac8665321c6ea6ec903fc0c60aed0df3c4ceef052040296240b65f2e7b5130bb9a6448d84f56f7ca555021603c0a2de840b0aadf8243",
+            "classification": {},
+            "severity_score": "2.4480991",
+            "class": "Moderate",
+            "date": "5-13-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/5-13-2015/0000451972r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170900Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b7cb7ebd3b83ff66c904bae22f3597d33bb27b51f55bf12527561904a7e1cc0a9d982094146888e7a587e2d7858412c81c1f36bc926d020acf674d15ef2044f9c7447a905342a2b0c8b9fc128dcd8525e6ed8a0ef36e53c47c9ab29c23d048119e21db48d2ea57bd828c7458eaa2edfdac0420b9d2fbcad50cf9785f950d90e2082068e23ea1fd236daaf34569146f53392ab48d729544007a2b62122ab99b0d4de0a5927dc6611d1503900e7333e67a0187d00cc0ccaa1c426e6ad680f910a61f494774c89e5986e285542881d531411495f3d5d102cf3690f268511c7d55989dadfbbe51bc88ed1ce52a2d8f40ea2c7df2cdc5edc954f2539bc05b6fd1f852",
+            "classification": {
+                "Myopia": 13.96,
+                "Optic disc cupping": 100.0
+            },
+            "severity_score": "2.4854398",
+            "class": "Moderate",
+            "date": "5-13-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-16-2015/0000490777r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172002Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=058990fd77d919ed3fcadffc48ad8d6bc000f04276a85cc8421018b1a8623d26454f8b3e772d6e23bfc3d5a07314ad48719e34337ba079318b750728da9bb8a4f0a1187b4c3c51a12f9af42458c6716933172c411745f8bcc128d318a0a9c70154eeb924247d6f716561f3cf2b396a92ddb3bbce7aeb14de5251eea1b7370b89b47e1a493c23d6ac01e478b942a0ef854fba2fd16a95cecf3d357a5ebf41e39b21b3dec8e189fc4675af64775996b751b5dc5f9c9df09a10c427804b07a5f2543c9dac284c301dc3f4c6a8c4b9cf58a087886942526290b92b9194471f2b5fc2efae7489472f9e3b4e243ac38e92f5dd38dd5009c7f91b35634a55c8ba271df2",
+            "classification": {
+                "Myopia": 93.93
+            },
+            "severity_score": "2.0969584",
+            "class": "Moderate",
+            "date": "12-16-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-16-2015/0000490778r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172044Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3de83bb0f2fc8d3e5b362108d730833f08706083e3f0ed52528a21bc39179b88863bb21d6249a1edb171fc4dfdf68cfb5d18a47e587d10e66bf0abd481038096c4c6a7662472f9e8d4cb6bab18e5933ab56a11df12e574cf516f08759561c0b31871d2caac3c7963397f18a06763ab46edfa832ca770b622385740cc91ea5f72b3ce6b2a13303e00b7b41666e4f2f6aacbab5e6b752a74d3f77d0e9fd2ae62c9a83ada40d88267d39ff6c5247d517a80ab79acfa4c370a3d6422d818d0077b5cc8e1cfc710d4f393dbfb1817e4a8c941d47d0ccab4a4a8e37a76f91000c583b0f0ee6e467af7ab6ca144b2ad2dc7db35a3466fb4d538e822c7eaf106e0f0ae25",
+            "classification": {
+                "Optic disc cupping": 97.58
+            },
+            "severity_score": "2.733833",
+            "class": "Severe",
+            "date": "12-16-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-16-2015/0000490793r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172128Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=64d337787d43d0162080d5ad62a781411a0334a9988572e9167f960096c860d4cd71a8a74f057cb7b3a2a4802c3652f04f131703db2f775262301dd79e59ee2686a740a5ee4d1e8fd378ae18d34df0eba1f95f280beb24ab639e05210320202676bfba50b50638696872fd7b6662b3fd42e2b4c4aad735a88768d960aa9c8dde9b2e40600897efe7e670e2fe5e7653e865580a2e1231d7e958721ba0a2e62440c8c54cd31ffcffe82dceec2ac1b5abc3b1acbc1d4663d4e5915974d6e61174b841dafadb39c040e4d2b4a69fc5af02d8731bf4b4b6cd5132311b5b4f3a378dc357379cc81cb64a888f70a8916e2641bf77b7254e3c679a190ed1dfbf4d0729a5",
+            "classification": {},
+            "severity_score": "2.6107914",
+            "class": "Severe",
+            "date": "12-16-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/12-16-2015/0000490794r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172208Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=23d8e3ee42e115dab38fa1fd683ad6581b0f84fc6cb1087069bda0d6f486bca95d282c23bf388b200fae3a8a32f91c3f45db83ff2cab21ffab2ff5752395bc7dcb884fa40dedf7e17ed9198c00ef34718f6405fe92d4a6560c4087628c1649b6123e15eda4bb4d0a7cd5c0e20c162254055532253596e9c64ee20655ae99faa6c2bfb53617dae22354eadbab271cc07b9aa867a20a45b02ed5990cdddfb96f4d84d59eaea511f18608aee23734023d916dd85a41ac69b16a64f0a15b76a2b906a6c892bfce42f109320ce51ddab2efddc93784ee4077572c65d0fbf6c58b5a2c61d85714522bfed4882231757df95e01aae11157e045173572204237dac83d8f",
+            "classification": {},
+            "severity_score": "2.614854",
+            "class": "Severe",
+            "date": "12-16-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/5-9-2018/0000657591r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174658Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2e235cd62b5782ec302961df02050e608dc888c7d33fcd477a3c553fec9d41da5935e7edf37330130fa3b55ecb3220e2c649d418df36feb50bb8f1c2236503087a1841ba21e1deb56d5772538d8fb30e5d9c0f76a7bfa750764a7eefe44a732441b09210a91c8d83e3ace94f728764bff101401b763e52c6ccb77b0edf8b3c40ec6295d95f1df8cdf9f98467b62fc011bdd1f97f5064acca3a022aa57c5ec433b383ac4985563e53e639df8dca76deb36ec53b56d5016bd7fa79a9155666c9a2bf70f12fc8b595f02ecdf801b547d112e702fe43cb8b0af64996c2cf15e1d9427143b5b792b6346cf5094b05c265b0bbcc86b01fdcbe43b76bcf38c3cc04cc54",
+            "classification": {
+                "Media haze": 89.42,
+                "Retinal pigment epithelium changes": 96.6
+            },
+            "severity_score": "2.3162096",
+            "class": "Moderate",
+            "date": "5-9-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/5-9-2018/0000657592r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174722Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=202ebc77d456d9ce8ac41305855708e960acb0eac93014c811252df9a2fc176109da9b431eaf9c4fae3874e5213b2f1c0672870f776785283c23cdd5e994a3a6b80ef7f866061cb7d6d87158b10a5574de840e51f22afb39fb1b8628b7bdc5972c29a1276e46457a088721148f235a03d09bd6ef5b4000b728c55838b20f98fcbd583f4cf0ceca475302100623e93d064343850bde1d3016485ec68656ec587c0b833e182994fb9b92853f58d84d7a77b0fc817c3e9cd87dc6c18d07e10dc15df074640204fb28463ecc3fd8e36159e3b8db78a866f95ad5852304fc34dc500a7dd08c0b66b9d951d5b970ecffcc4955fa5d5c622a579a416267595b3543cab9",
+            "classification": {
+                "Media haze": 73.06,
+                "Retinal pigment epithelium changes": 98.83
+            },
+            "severity_score": "2.062502",
+            "class": "Moderate",
+            "date": "5-9-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/8-14-2019/0000753248r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175534Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3a43b1b32e0e7a865e12a11d98356cbc762fe9cd6e5da1d5cd4cbf6f1cff17a99ce44c9b503c09f59bfe3aec334a03dc5b0573138a36542192de8962279b9cf5919b0c837b3024253ac3bb961e7dbc0303e7ff3cafdf1f83e627f8d17af1249c0a1e408fd5958d11b7b7c4ca37227f020efa8f6677f05f0d2e7f97981cf0c10862cf4f5eb688939e0cb0c58c0cd36059dd6f7b81ec99f21cb690b5bdec66fee196bbd86799f9fcb86fc027303f4d2e8cd6f060b18f2445004eaad126914494e4355bce47104268a1907e2d9dd3682e99c3889064b340d63433e30a8485c967e91c0d77fcae6068307f2439624343acc2900b90ec8d3c19f1775ec7afdddc8515",
+            "classification": {
+                "Media haze": 46.76,
+                "Retinal pigment epithelium changes": 96.41
+            },
+            "severity_score": "2.0844214",
+            "class": "Moderate",
+            "date": "8-14-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./11282/8-14-2019/0000753249r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175614Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=16746ed36fe60f32c1864342c52c73bf4e8b5f59dcec4e9cec5db0b7361d2944e004e05242eadae9f687f5097ffe0dd568cf32b54b9a11e70e908707deb3d33909d74cc21c8a43f61f1461765dd7349df80e3579853dce905e20a73f2892e74b64d1b612de3b32862a029416df87e3cbb72b9ebe7754d8dd9f591aec9df4add7a4d8613c841c188c8a1a35863e545b598f50b9b5f9dd3f2e823f3065a4c3fe9cd153ac376a0636c6df4c8be5418a408e970ff3c95c1c5e3c0b1894957ab67e162424b80f71c326b672001c4b0b9a3c2669d3097e2c90e37aad093fa7f95b596be3696fb93de2e5d2228ab821f9ecf9b4eb22ab10996d0ee5a69ab236643ed537",
+            "classification": {
+                "Retinal pigment epithelium changes": 95.69
+            },
+            "severity_score": "2.1708765",
+            "class": "Moderate",
+            "date": "8-14-2019"
+        }
+    ],
+    "14641": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/6-16-2014/0000390634r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165428Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=48b0143cb8bd6a76b4c188ce257f6c576b7227b4f7d7a64674c28ef0497742c57dc2c87d0f0277018fff00da3ae6f4e8bebcba494e1fcff9498916606b4e4eda1ef75dcd8404f7650662637096477a73167b0085692fefa8741d832900d194250dd46e4d8924e603f09ff9168801acdd73968865dfb252ad7641050d7ec7cc62704b5e2b101299577bce35df8a4ac9e890a9702de7a9fb682e6aa2c3891cce148a71674de98b80bd21e95ec9aa7b3613fc43a9a44dc4cac67f0b69a3567339e9d86b6bc74343131ddd8049f50c94bf87f9b5d89161629a994b8ec4b47fe55cde09c7f13461fd9e78c3264d5fcebdf784318d2a9ed6f7c88f53249d00e85908d7",
+            "classification": {
+                "Media haze": 30.43
+            },
+            "severity_score": "2.623214",
+            "class": "Severe",
+            "date": "6-16-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/6-16-2014/0000390635r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165451Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9d74411ffed8588a921df9a64cec643bffdb57f71ea6ef97ccf2924989a3e65d88ed03e9cba95a66a204e050daba5e86ae07bf5075eb3c2a76125a94ff2d3150201dd320eccf5a0377f6f81b1cb3175d35ecbd74c817ce3abddb303236c1472796161bb08fd36ab8d2b24f912d4e26bae00c3b55bbe663036bd3174e824beef81edd5d8b136e664d399f434b3771dff5fa3419303f2d64112137604ae27c7ff0acc6c0a83c70e97ca32ed75fedc7154d8706813ad2338efdfb59b0c44fa37f415fc4882d0dd1a8544047e46a62bb59d5607ac570b30add66f3c027d12460c611b07f2405f5c56ad66e42c8dfcba767e7f6e7111f8b960dea02d0687237e5bc2e",
+            "classification": {},
+            "severity_score": "2.4448152",
+            "class": "Moderate",
+            "date": "6-16-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/6-16-2014/0000390636r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165521Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=90f12751b26b2818ce724f7e246b554439ca169d0dd502d7ff27db9f846722a99ae0f62315870329c565793e9bd84b3ab696d3418d7d1a385e283dba4fea485211f09664f6dceb26e19542474653e5a2aca887e85b7e5bf796fa0ba4742d92e32c91c0b76787cfcfb64dbf5fc93976fa467680f222fa2ca00ebf8aa57374c8d3d3d002e75eb6dca83b5ee284cfea406d963b906b0d73874f22b662aa0f0f69cb846b60ab80233ff46f5166cfecc55859951b2ed03e0154b63c4ddc34bb65f0ef6feeda2c191d22418d53e3b4b543b8d8f9e63582aaf4c2ab45d32c246e74ab1aa98815d8c4276558dcdd8434c5f5d0619304cad4289acd7020a2b950f2f18cec",
+            "classification": {
+                "Media haze": 12.27
+            },
+            "severity_score": "3.2084055",
+            "class": "Severe",
+            "date": "6-16-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/6-16-2014/0000390637r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T165549Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=adb5e1815022b8173c8017a6b89ac82e7b2b176619b349faa4f16a61cb71bcebb097b5f37b61fb933214c0a18be71ee1ed5d88945ee295b37478c7956c538a83bf9e1c2ec23bf7f81b67bee0ab219ebff43dcdb494a3c4804242d98d01f597c2e7c3f74bf91be42ee622173cf1ebf38b80257f01d8d1c4ac99403c9c0c13740952105a41cbc3b9f6202bc892c0024a59ac001f63a52357fcc040897e2c11fd495e38b3477a5b5019a4e4b762d1b2fcb5689e5cd8ff488e2217d1a539d21724cf8568ba141993b7d82837dc0541d0e755487d9af5224fe65034aa186464766c75bab168afce77ed43b342da6818d4ae3b614709f2c5e9f6a5aa2429b956d0b53c",
+            "classification": {
+                "Myopia": 17.35,
+                "Optic disc cupping": 98.49
+            },
+            "severity_score": "2.9986892",
+            "class": "Severe",
+            "date": "6-16-2014"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/5-20-2015/0000452928r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T170928Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=af58596b2d101cabf2fc0a36a2e64e2bc29b4ddb2f6cd70b5914d4fa9910940ff8d5ceefc9bd4655ac8108658ef5a2ac89fe4cffd594c1b76f597dac9b692dfea5bc1e3769e40411d8701e9d0152f667008ae10779d49a8694458c6600c97fde5e7629ab96a299dacf039d57baef25a1c08f1256be8d05801c0d233b43e562eaa92aa3a5f5a00081999600c46388c37e68cb9327e0c89a14594b96e4d1b385dfa4226d1b7906027c8247c259d9c0c561ae67748f84b667dc4abee30d71bdacb65065a8c6903e8cf0e92fc7b23f6acca03cac8dd350b991e874775a48fc1ac9805566ac15c1e96e032c71fcacb713df168ff581a85c4be4f478cc5bb612b838d6",
+            "classification": {
+                "Drusen": 30.58,
+                "Optic disc cupping": 100.0,
+                "Media haze": 100.0
+            },
+            "severity_score": "2.7195837",
+            "class": "Severe",
+            "date": "5-20-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/5-20-2015/0000452929r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171113Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=25451e62b48ee983c89a4ce9b98d27c7bfed32be2d6987cae8b3bdedb587573b6a557c98bc50c9983b2076bfd3372841b706c919a3671dfd8b3e3de376c35a9655511c682b30def076c3fe26d8d83d7850ca5cb69134f1f44e71f5e1001c36a11a8a9729f95fc0a3a9c2faaf964a595b77362fe87568381e00183e9f7ed6ee8eaa9fcfd53cf3c82016834ecee8287b6f6fde8cd5c7ca127536f2e2d152587d6de195733e3f2703e01c616747cc85a4d355ddcbb1da017f3360a61d79799fbfe88b44e829cafbdc8f460608ca25806863e9365e8c8e2509be5ec798e7f507cd2e9b6d555ddae109fe4fe407a4e52c8fd04aaba5889e764fde980029ca3588ca11",
+            "classification": {
+                "Media haze": 93.42
+            },
+            "severity_score": "2.476828",
+            "class": "Moderate",
+            "date": "5-20-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/10-7-2015/0000478118r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171812Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=901dd1af632ee99b0aa1e2d5e1e1f0160d1787cff1a4a80958e4683c487b472b990ec8e7a5eec8105e70a4856281205563e91c9bf621e901fd07c7c2a14995727e47d51f850757905fb3f79266d1a650aaf462d3ea58725e1c300e81d46f1e5393d3211ca02c3035a53665a445d640c5ca23b4121f223b994050dc9ecae42d8e4aa1f059ab94384840458b49692262a8b836da2d2f9727acfc4c401a0ff73d4563a5fc600ad5ba6b703da71d7a694272d18c07019af374cebeb725250eccf93e8c4d748e32b8c9c2f0e68a49ec4e96859da376ce91f736d92ec837f980c136ebd74c5a0c43e97a632e7f89aacc58ee04a4b7c46ff0038541791254fbdf78ac42",
+            "classification": {},
+            "severity_score": "2.772956",
+            "class": "Severe",
+            "date": "10-7-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/10-7-2015/0000478120r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171913Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0c0e12b7939baca5e4049e7093f16d419be2a4af092f7b2096ec24e119b37f3d998769fa483473fbffd8cc19a7fbf3fa9f4cc6ea4398366cdb134b4fdc433ff3ac1afa976f3956cf7e9e730e783e37d2fe2cefb0e4c84303699c54e50fba8ddcd41b309ab18a90159b3d993080d7f01a711a75c0845b4bf737eff1eb02a7b3066a52634b8d0ef876d79486e007befa7243ba53c064eaea6e49cdb5bd3a025d969f010f857e3c721de99245fcf0ed19fdb42d5295e55a0ea9c907a69f978a9608f00b5317c56412e106a418470c81614a5414d5b3fd1aab0122bc466beb8e0c08da8040f5ca91de3037da2ed2fdbfff6c7f21ac7c9d0d3c2ef4002eeebf3e73f3",
+            "classification": {},
+            "severity_score": "2.554324",
+            "class": "Severe",
+            "date": "10-7-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/4-13-2016/0000511921r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172535Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=310dd1651a756e03c9ce1a2f8dbfb65fa2b1d16c4ad70c3b10391aa4fd705d941a10b8f7f1b362d655d108308517f97299cfe598cb646c8482bfcb05894acb49bdb370bfbd71e894e3ae4cfa29b6c9f81076c272972214441928424602ff3fabd8631e899210c37f17f417839e4963d940cde8d16c9a3746b1638d4aa4ae8a4ada413a5f8c51d1a4c2136796db331a2c12dad178bd35cf67f16256e2c0c45ba37d8df9fac3f92201cf4b1432a8cd49fa0cc36003fd50111ef0287d66184cc3f2fab7e0ee3715a70dd3cd76b654feb22c0d5ada3bea6b535fcd35e0dc86a085e4853434af37751c690edecf62de0f8ac4a4592587e3fcb9526e2b2c8d88500cdc",
+            "classification": {
+                "Myopia": 59.14
+            },
+            "severity_score": "2.9200802",
+            "class": "Severe",
+            "date": "4-13-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/4-13-2016/0000511922r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172622Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=783eb7d67aec6e701ef7c6278b4af1ca2d3bc4e1bf94f5f6617f79ba6a7c325caef296b4c96c5abd476fb2d331241a603e16849e360f75ddc72a2f287af7a0df33c863ef1ac2be80d2306adaa9a4c8ae6384e8a5950b9bd67a635b3a856c580623f4c0417d08afac1540f55f71f17220d66fc1c318960af22046a7e48afbce4e678ecc1b9547b2d2f7a97d73680cb280d82d7046421727633ac230cdc0e889e582c16c2f2d62a410e10229f914b97a4dedf4a0c892703636c9932b6d1fbd7de59e7037add541b4fe8b2dc620e1c3955bebc46a5450d2c6f0a42c084a5409a78498cb69ea7e6870d65a546e7cf0c6767ed4a949b5571d6a86e22faa649de68e86",
+            "classification": {
+                "Drusen": 25.58,
+                "Myopia": 85.2
+            },
+            "severity_score": "2.506345",
+            "class": "Severe",
+            "date": "4-13-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/4-13-2016/0000511936r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172649Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=08e13cf1b07785ddd1a4eab7760e2848038c71122cd38b418e13aa107414f8f4bed5943caab82a662e3abab6e1109edb2485ef5a4ab3875c0a503ff254653f56aa899d20ad0b142c5b418c7e033c36f95e0d2d85238dade05d88cd94f97fbd2a28b399aac05dbd8d36430294a4c5fbb2230658d4262a414ad9ea26d399597cbcda78ff7972c4304725549d6a33ad44fb1ef4ebf9211e9f8a21a21b412236f01f9ca21627c3dc3d5e0fecde9da7bae3edf646e6326ba48147bebe8c9fb42819184c9fe4bbb85d5895cf083d68445b6d5439aa5c6fdef1ea4a623e17a199a8b50832277add76b979ef776ecfe80cd47189486a3477f7835b8075428f23ee03e24c",
+            "classification": {},
+            "severity_score": "2.6409266",
+            "class": "Severe",
+            "date": "4-13-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/4-13-2016/0000511937r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172717Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4de9f0cd5f1b9bdb864f9e8d284858302a617f66ca230480348e626229d9512927838649a13602e9ef2ae275a28c6fd805fdada06383095b722b143567765367c67a33ece8b2afefaebc0f20c2f85d07a50f8540aa9a597bb9fa5bb06c65e89f385892573c1b1c5e844edb92de209319999d1907dd324d3635359ee94b51cc773b27aaf0ac8466d5eaa0ff204ad228e9f73b4e288edfe160c8c1db24ce563c386cf7f8c1c0fd9d2a310b607850fdfff72dbc5d0cc5eb71fd88cc64069938e0039ce7fce01f48104760ec064d7069ff3201cd777f7245459630ca4d3c4889b34835a23e81d3861d3c442436c84895f356012a1a461583e35c82a2db7192947641",
+            "classification": {},
+            "severity_score": "2.6147153",
+            "class": "Severe",
+            "date": "4-13-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/1-4-2019/0000701085r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175037Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5f1ea94f71dbab818e5eb136b9efc7514f67576d912a7ca474b0a8fb6f8633311d6dfae20aa4b86ef2b4605288749611beba2f1219fa04610edecdfda79462c76fa813d896d073f5f7c13230e683488c72a2c80cc573d1e3790cab7ec599498a9a81cf1bfabae8992b2e18dde01ea74d188fe4ca4918ceb16bea30dcab6961bfbacd843482e58cd1c5d1f7e2973e0112a228b744bd04cadf95d3f0d712bce4470943f84a49c04b6ad945f56978919342ad24da82d9f3dc3ae0ee5a2368f00b3ac2adfab78b0ecf53175a14419475606e707a741987a61a4ff40b3ba002363f603dcbd15004cea4b8d1ffa138bf8185afc1cb146d538f9a23895d89affd180ba3",
+            "classification": {
+                "Media haze": 20.71,
+                "Retinal pigment epithelium changes": 99.26
+            },
+            "severity_score": "2.204671",
+            "class": "Moderate",
+            "date": "1-4-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/1-4-2019/0000701086r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175120Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5d9db798062b1d1020596280fc0289cc8cbf03cc22408d6ddcb1a19da8e1c39adb9c89e59e4f2b5eb9aac012ba2017ab37babf3e92ec6a59bd41b98f152d233cdaa22c9613298b7d08b242de9af2aff383d340e85005efaa93204cad8f08580714bafc03f3794e27baa05aada3fee931ecbdaf4d9161e2b929957763c576f877ffe5483a6e9ae4c11a15f294706b4ec58bdcf5d18036f2e260d5bdda8e48a04ae784ebb75373c9da9dcc7d2c416e663e975af6c406b2637ba8d05e394edaa33be01be2964da211847b58c40f2b5623dbb9f45719607487f968a0e9edc3140ee958ddbd661fcf32a7d31249b8722a1f19575deee521d13bcc81ce3245f34a4d97",
+            "classification": {
+                "Media haze": 78.86,
+                "Retinal pigment epithelium changes": 98.57
+            },
+            "severity_score": "2.2410288",
+            "class": "Moderate",
+            "date": "1-4-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/7-21-2021/0000856013r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180350Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=79f8aea2aea08232b49d2b1ffa729d18686625bc6e641f8f16cef477010ed39e5868f7b7eedf6e462e820b2032561516aa553555b5ca2756a850e00b70106dfd5ced8f3a40f43df15509066bd3dc659b4856b55cd9f439fda04f1b6835b43cf9fe6359a67d6fae37df1b76d22848b6524e3d9900af4b8ed8ef4c916af452a67cfb3a43cd4164b3852cf9edfa2b9d410d3d20848210ec4733256b08f5747f3fc22d5cef5cc223555c420bfcf27b4acc735e3dbf4daba354beeccaeb898f147afc758d0c97572ff202e0d3a9129a532eff917f2d0876d6052078f4d64ee22647028c0ac7153489dda82bf689d117b13a8bcd1171b92be8b33e45b3e4ae1a3167f1",
+            "classification": {
+                "Media haze": 91.92,
+                "Retinal pigment epithelium changes": 92.83
+            },
+            "severity_score": "2.187967",
+            "class": "Moderate",
+            "date": "7-21-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./14641/7-21-2021/0000856014r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180434Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=837053977522b811b4e108854cc25117239b31f39a062ef4f60b284219cc4927a41847d41fca584abc635b43ebc6bbcbe959edc6927770c4c4ceeb373e4f84ee5b67781aac5d375d03da66de355842446752e3ed7115952d1f63bb0093b9e1f56830add833d85387444cba4631d736491fb79486faaa0dd6f8e2990a800591392ca5d0d4193a04c525c92c48d6a8e1e05759de3ba81dc583c4900f7adc86ba1836846b31e1d14f6ff9b8c1ed791898f011859c1ad9ea15b623b61b1fba5a9cf8fa6aba7144a336d1d2022f920366b43c7c91731924ed67a84ab1947ac9f9c0875076ca323213eb192cf9122640f820f09f300a8944d19916624cf5cd641d555f",
+            "classification": {
+                "Optic disc cupping": 13.43,
+                "Media haze": 70.54,
+                "Retinal pigment epithelium changes": 95.04
+            },
+            "severity_score": "2.1079915",
+            "class": "Moderate",
+            "date": "7-21-2021"
+        }
+    ],
+    "15485": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/6-8-2015/0000456025r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171357Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=347c81b18c441a003ec39d2674303d27d4ebdc71c371aca9ddc7dd45a41fff4b0a9f4ecd70af39ac4dad1539fa194408886ffe0551a35ed0f9890bbb39926ef070aba10a9d676f39c14c08e6a6709f622e432251e69a5b98e630b33686a012fb26bf4e64a74af0f8d20e0be1f4608053e2527572fcb431486ea3c48b4618354053fa816085bff637aba050f3d7a0c16199e4951b942d5c1bbbeef1e9cc7bd6c00d726cf7ee5fec9cb7311182e7b7e03288468fb1f000e26281b319eea3d872c0fe5e39b63705df259477d98e09d2d082aac6cf2061ad3d1c2690212fc508735daae532ff3842b5de93c733e1df900b6506eed55a9797ad1c494d887960e48548",
+            "classification": {},
+            "severity_score": "2.46874",
+            "class": "Moderate",
+            "date": "6-8-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/6-8-2015/0000456026r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171424Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1c7f3d4932937502c2895e956855811b5895b0b0f1e4ab99303b607c46c8f0ec813b7cf7ee55760c9592f1f294611e1f4d5dc3d59b5796d334e54528b7ec4b88580101e506be95ebd74310f8e044a77187c2bc7892292e589bcd9ebde2a383dab1b8c13acc874c4930c45d2197bfe43ae9cf3878b56127124660c116eb8b6c25c4920bdbf2a7bb8695f78cb33b5522aa5897239900b0010e4b76f00423fdfa7bdf22f94b32641a6b341968d3abb6e5500c2ad33efa73bb4c6cb357cb80ad0bf58e4be528a9a4b65cbc38b0b55a854c6fad84f549456000157dd404d31d3668f9c8f1e9270fac85312401bf113778343c1dcd93452a0895ee806ffc56195885c5",
+            "classification": {
+                "Optic disc cupping": 12.78
+            },
+            "severity_score": "1.8335538",
+            "class": "Moderate",
+            "date": "6-8-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/6-8-2015/0000456036r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171450Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=57c515747c79787626beba2c4cd81f13f3973b7866d26236169b39a1bf45f861304384cfc726d1a02a681c19d5d849712bdca255c684c3b8eabb09ad0d0070bd1afa97a42c9c4f39bdae4c74f12455149a75b1264dea1119cbbc7b299a874817b86f744821b26348b866984a655ad69149836fc5984b4575ed9ad0b94cc5a4596645de773953a3e2f5a6145e37fe246c6c8cedf8dbddf63b06b1f495ae88d9f49e62a3da998182032d4b9c73192e17e9043312d945a18bafef3d097ddf9eda13523fa35b98e97f41ac8a9ad1ab49da9f3d04e6c885ee1381acce9710eb102d8f84541046e243b49a69159b21183948ec07fa5f90230c8d8c6733fbaf06ff9782",
+            "classification": {
+                "Media haze": 46.62
+            },
+            "severity_score": "2.6234827",
+            "class": "Severe",
+            "date": "6-8-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/6-8-2015/0000456040r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T171525Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5e7ba2a2cd05b9bc0548f6d0695598a74383bb646aff516277701bb12f62a266bdb8df79c4b0e74dd57150f657b8276ee70b3288dc3dff9da32474dee2dd4c8131f97475c1be9155af4506b83df4e7ae7b04d3143789a15499e94125229e3d68fc9c5f4a695308f1592c24947d7190b428775c2134f69b2fc4fa996ce50faf00a93545f290678d020ef471fd9e131672934780d9207daa27fb9c8662aaff01b2f49ed6a11b09bb0a3e07049895eb7da9f1e560bcec8788293b4bcb69d831f41d85b7d99803dde28ff456d144e6fca20dc737d6eb808c532a852d2e6a5be4f062dfd4aeea8a7609029315196e4fd3c5befafa2484b10e58903bff30b489958d87",
+            "classification": {},
+            "severity_score": "2.6264832",
+            "class": "Severe",
+            "date": "6-8-2015"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/7-12-2016/0000527680r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172817Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=808810aed8e13969b6dac3f1290263cd3dcd4b0a2fd53aed446f2b9ba0fbddfafcb18af8d7a740b56627888e038600dcf0ad0f8e0c42b45c91b2f9ce4296c92a312aebf0758b25112118c6c918031c1f342fc4ae695f046b1d137ce34d71f173010dd9202ee8a6d82e6afc55c79434c2d6ccef009eca106abcfe92f790d0c66e9c6365ca500717cf716e68b1c21778806b475d6b86f1301e33618d93a749b809f1cd7fbb97e28ab9ec68884a2177a33dbf04fc3db5e5a6688482057bd43c6736bf675fc8c750b7a55254f52bd64b5a550f93ba053ea0396784e2b20b849bf6b19fb386477e6a414e871516c9f6efeffc472e84178338848b295c50201051df3f",
+            "classification": {
+                "Media haze": 18.73
+            },
+            "severity_score": "2.6711042",
+            "class": "Severe",
+            "date": "7-12-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/7-12-2016/0000527683r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T172848Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b1605247f445b500bc00c6ab8fe4f9f621aead46e7af41c7ebed24858ccd58d36763a1a1270c10527f0bb7d5356cc08d37a3b612ba2ad2ef36d05ad7b589f7a91f6b51783d5a88d955c05522a721dc84126f6b1434cd3d453d1ee1a169d9085ffd98274925aff4a72154018a4ff1fc6aaa2e9b80b7c857bc8fae21b65b1800cfc67a2e76447899c100fda05f0606d8aa09c808640312b13f1d4540dd29492e7dae3a2fbf0dc18ec95e2fb01ed15d4472890d766b2d06e5804996b90e920ac95a930837ba3747493314a73a675b90ca10c80c389e8c7129c13922fd645fd686a5c24d58896947d210375233350696a67f75142b7960ec741ec12237e4ee2afabf",
+            "classification": {
+                "Age-related macular degeneration": 15.0
+            },
+            "severity_score": "2.6519082",
+            "class": "Severe",
+            "date": "7-12-2016"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/11-21-2017/0000624997r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173728Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9626cfe13411c9cfffcd4db7d547531e095011612947f586d696a0f283af3514e1d2c4f1f30ab727b2ecd9ef5e251028fe08cceb7063ad8b5a35a8e4930f397489b07223d0826e054caff4a99f8034b349e581dca3563e912361f387b77cc5a2992d9c9f8af8bd879060a08b3a768e0d6e181be698d44cad985aa2492940babc9aeb36d6b92febdaaf5799ccee98cd47ad790a10e68314d5df3cc58cb58a9e5ede800a129ae0b6762070ce58f969208b0aaa98b6e3a8425c414f7940a35327033bcce1adc98564b66a848344e207132f55adfef2dd5a9607a40c9fef0c1fd8e6eb872311b29d53637b32a566ccfa5f690e6df4cdca05391216f0d141bf3024ce",
+            "classification": {
+                "Media haze": 88.86,
+                "Age-related macular degeneration": 93.01
+            },
+            "severity_score": "2.3167224",
+            "class": "Moderate",
+            "date": "11-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/11-21-2017/0000624998r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173754Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b5a89182316e6f2a4451dc73100d76721d623fa1e4ff0911354e6f566b4415e7693e1c330a9918a06a1551b81000e1043c5ae3b3acbb911a3cdd340c7e4902a1d27e2f2e18d8ac071551fb12b38a39d96fa136387b7cbcfd1f6663c91e209d1bd7a1d7cc8cab7c4a749d400e17bcffe931219b911caca22503e2abbda856812dbe100c040579198463a554dfd644d758bb73f7306c2b672a0e86154a42278836bb336bce2cf1394031575ca8e2be442f06c5b6c1ca4d35948cc7241a572a950af618b2567948a537b0c0ea7ada1dd141cbc6fb691859d8c679b03a45a2c28ea55c7ef18cb7db04c1ac5891f545fbc4ae88aa431122ce74db99d736905cd9bbc6",
+            "classification": {
+                "Media haze": 20.19,
+                "Age-related macular degeneration": 98.68
+            },
+            "severity_score": "2.7322712",
+            "class": "Severe",
+            "date": "11-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/11-21-2017/0000624999r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173823Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=802103ed23e93e0338e537c929b2cff1d363129a8b588dbdd3c2f42ba0a8b96512e93eb09c3e4b5c222075879c37a8ce0cbb6274968861ca3a6b077292ea7c0d602e576ce5fe93ee0d7f55359f1df7d633a59b687a7b2d082a6ed108c79bdeeb4a4674ba6653dba8330a423fab41ee62d0959fac70509a2592bcf5ed3597683a67682ada4b9562b2fcdb538c283e7a544825524321438c28aec9043ecfc207bba18fcdf44a4976f1ef2d46cc6e6252e36881da5e5bda6586e6586da525b08528a26b64800b0df67eee822ab530e1cd463a0037f6cc1c5b09cf6436a0c76ddad3689cd6b8eb2e5fa4a7886685da48c5d53330754087058a0a894bd91046f9a2cb",
+            "classification": {
+                "Retinal pigment epithelium changes": 99.6
+            },
+            "severity_score": "2.2286055",
+            "class": "Moderate",
+            "date": "11-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/11-21-2017/0000625002r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173849Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5bf9af8726b06c18d9170ef0cc124ca4c86b4cd3700d515b6052661c87bef75424bdfd7f5e5611344dace31ea59390da5bfddf81dadfb3fe28a58699f16429655a367c603cdfa740adf56e4ae8c385ea5cba1f924552971dce2530ad1ce936a1ff7e761c1531301ee33232977dd3b1d60d1d9023b52802f449e1f698a4161bd0801807a242eadd967bc6823f2c5582263bebab38bb37e558b1c126e25ff1c97639b614ddf69f6ba134d4813980e523294c455ef6dd0b1ca223a8404e3d5d59f4371124b33f6a0723b7a5bbd977accebc466c914b2e5c1a5d1f0b921651ab023b9eb37d184f003d1a96c5a0b791bd5f41dffa2d55099ae986e25c39d28c279cd5",
+            "classification": {
+                "Retinal pigment epithelium changes": 98.6
+            },
+            "severity_score": "2.235258",
+            "class": "Moderate",
+            "date": "11-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/11-21-2017/0000625003r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173914Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6afe4a8f838c3f8f2136a9d0244adab534130088f57cfbaa3691aac73b2c9d9c2a97e351fa3c01482733e945d381e82d2cc35cbfbb272e8458c777938a54bd3ad7135c146b2e9f06ab284257e774dee4ef5ce5e9299f906ef5267a496ab91dd8babe45354e160406b390721697742b50781f5ff051b9014256c04aa1254dc9906064665c7a1328c06168917dd7be59b3cc29a3c6f16906bef0ca86a46fae80167c3df63236ad9e13314ff277436cd2aee8d69cc6f24a45f46fdd031bc1bc24cab78d1b313f099720554d24e377aed3d5e8dab5acc0da6a50e0646b6b6f055f5a9d3d3e00bbcaae187caaeb4e8ff017b20196fe22daa488f3d69508d75901e3e6",
+            "classification": {
+                "Retinal pigment epithelium changes": 98.03
+            },
+            "severity_score": "2.1531334",
+            "class": "Moderate",
+            "date": "11-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/11-21-2017/0000625004r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=01650169068baa72d689640eb6fb01af9ba2087b373335c142a28c3bf6cd51b009ece86dc39ff32b70ec6c73bb0cbb96595c882aa83b064dd520598f2241ca8dd48ce5314217f8d2a187494a3a6e011c75777a11c22655f688406beb9e3400ceef7f539720ed9582e48e803c08151bc3dca7914f65d9f090b3db08dabd4ad344e18e9b0eb3ab80cbe156944cb0a6a2a6136d08bbf2be5bcaf4ab69c75c1138a92b5ebe4a236cf03b812db1743db45723576d222ef90c246c5f887c6739557a3b5d04e5ccb780fa2215d79f6dfba1b7a82d3fbb36e1ab288d14c86ddd57e9dcc5297f5dcba24b445e9a5052066f196fdf1b5842a1a45fdda8b54b2f4d2b22e074",
+            "classification": {
+                "Retinal pigment epithelium changes": 99.57
+            },
+            "severity_score": "2.1585364",
+            "class": "Moderate",
+            "date": "11-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/11-21-2017/0000625005r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174004Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=43e15524de58e7de5c0b7455c64e773ca31e7999a189599b49abe1f9d263e43b8d540542398a28f78148ab9dda9ef324551656cc9a5fac3261940135b73754757476fb8b0bafca0f344e221b244c8d8f72a42ca56cdd4ad1a352b328232f3763cbf5f34788735c6efc52cb00cc11b5508c6c5aad1b21bcbf36d6676924b341733a7e64e1691a42891e223560cf9b5a53285d7dce0976a090e8bd0fb43818e187d27f820df97c593250fe7076d918505b917bd155d966641a6396afe3635838969b416b52ee7658b5f04c25c8f0decd227b9086d2ff57c879131fbe43914059d82c6e76ec46049dc30f012fa2c90cc647f7bbc1bd7993403a95ded22b65ef101a",
+            "classification": {
+                "Retinal pigment epithelium changes": 98.92
+            },
+            "severity_score": "2.1764324",
+            "class": "Moderate",
+            "date": "11-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/6-19-2019/0000738398r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175154Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=51bb3ef4c77f875e54370542cc987a3ad2bed1cb1bcec87fe3be822396df736792c24c722402f777f61e4dac0294348b84002398e193da084ce4ce0fd97417d4e4350e39afd3ba6f8c01378747a4084f8c5b72a215f8c04698d4b449e6ea7b1a1dc008114f0af30cbc2b7f5832ad1ebd0498d7678eb2e968a3fec1e497915bb84d6c7813fb40c8af840ac6bc2ad821b181e7c8b861b27599b058185dac61c400ede0312a7e7fc9131ce0f2aa1f91a41ee12d8c56074125128762202e3a2c765f8cdf74eabcdbe8339e7a866a3ec53657fbccd51ac53836a2ac867024827b37c0b0a7e53a4e48de5ccbd8ec454ecd4772fd5b21353c7937d6709d712ffdf769aa",
+            "classification": {
+                "Media haze": 20.97,
+                "Retinal pigment epithelium changes": 98.28
+            },
+            "severity_score": "2.0487416",
+            "class": "Moderate",
+            "date": "6-19-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/6-19-2019/0000738399r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175219Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3a276ca94f18605ee55821d798096aa288c5def3213830af7920c3d7aa165d35fc1c59d6f287b5631b61c33a71d9454a956f350185dae9149099a6584cd5fd49260276fde042a089342836c1567ebcd16dfb07ff525bb80c7898d41a50a9fba183d6413d2ec92ad48e1a762b0b87f6cd46e0d8bb23fec27923451bcd3b25dee07a3b7e5c77596d9cb9ea92f39e15741596d3ab7adcf04fe0680e996cc5b7264823a8b03fcc18fe63c0fb8483df3bac61fc7ec93a3fbfdf0e87665dbf399757b37c5961e5d7ea8a23458e6e55f13ad5561045197e650007afe538e24fb05b829f2ada7aefbc7af62fe494781a359eaa6f11713aff1edc595e8cba19b94a8ce827",
+            "classification": {
+                "Retinal pigment epithelium changes": 85.17,
+                "Media haze": 99.84
+            },
+            "severity_score": "2.0691595",
+            "class": "Moderate",
+            "date": "6-19-2019"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/4-7-2021/0000842084r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180252Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6ec3016143c7039be3ae52650e887f0616e9b15479e6252a173436c92d1f56fa2b00c2fee623e847aee242f649f035cd82fd09be97dc7fc27e61d48a2296ff2d69983607430a90cab4ec79172ec2e7d01158707713bcb67e13bfa845487393632df0abfe171dcf5b7f5852464204a0d23489db1f4e34702dc3d73a6da6770e33c4314b231c598d9035dfac6dca1a18da2c8cf565b4f658854f5c37ed1b4115edd7fc451815ae2ee2ffc4bc04a537ca39d356e26650e9d5ac65fe6aeb12e9a7b0f04f83e04546773e9626ba6fb334109dfb3df8cdb25d794f3bab9885d6b9bca984527551a20ef3b3bd86efcde4c07128511f565905a238da7f11dad29ce7a725",
+            "classification": {
+                "Media haze": 93.38,
+                "Retinal pigment epithelium changes": 93.78
+            },
+            "severity_score": "1.9654151",
+            "class": "Moderate",
+            "date": "4-7-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./15485/4-7-2021/0000842085r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180325Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=84bc9baa63cd3ff2b6efc6e61e1f856b7637ff8266d21cd55f6d36b039029c5bdc0995330f6af1e8754a8f99f401e3f6dfb3d108760d16c26a368c57edf81f70eba25571d2777e88f460a4454d505ba14b30774cebbf605b92fbc03fd973c88d6d14fd3205da215db04b0ea8b2d4bcbf3e467f1b5080805cd5249d4c8e26fae16fe8a54eab052d0e70f5b4498a9f4147ac850856f1b36630ebdbae22d561a473c15f2a70096418c0cec2bf82b5753baa375533cc5abbe869b691d147a8b993cfb32605a606f160c8de5f6a51586c027355e391b8581d4f3a79ed728364e68a39408ae95d7a5ba86a53a64aaa9b23e7bb6daca51b672cec3b809b7e856378f68f",
+            "classification": {
+                "Media haze": 82.25,
+                "Retinal pigment epithelium changes": 90.99
+            },
+            "severity_score": "1.9858338",
+            "class": "Moderate",
+            "date": "4-7-2021"
+        }
+    ],
+    "17991": [
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-2-2017/0000620873r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173515Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1e8745fab42efa01157158f0115c96688dbdf4fe075289101875bb9947bfcfa6c08fada2ccc2f5eaebe81d3c59e774f42b622c0dd55d052a5d84cc3b93dd33606b1eee0e127153dcce0cc2e7e789129d34e4c3bbdbc81b88ee524a7f2dd651f4a63c018256c2e80345da4820f0b5c1a5f0e9fb4f631e0302a7680482a75ca8d7c7fb19c217cd56902c2fc014e06d099070bac3bfaf014b0dfb919a806c93f3ae903770e3dac784d07c308b4582f7a6d8af067317cbdd5a4570929e50c6b090253c7b1d208e807396126ea84812ac7f55bb304d4b2ac48f944de3f9513ce32f1c48e53165fc3124317ee36187c60165d45669d19ed8c715466442c73b0e5a4230",
+            "classification": {
+                "Drusen": 17.8,
+                "Retinal pigment epithelium changes": 96.82
+            },
+            "severity_score": "2.0377722",
+            "class": "Moderate",
+            "date": "11-2-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-2-2017/0000620874r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173556Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=941c8c9d152401e695ac53266cad7c7b47f3ea0d6a6087b47ebf79dd633e3685b720d88a7d087b3441d2a89ff16e5c3bb270f8db64ad8b90fedc9e2a2796dd653c75ed23e220b77130b4ec6887cc374bad34bae7eee5376310bed532d1cb8b80cfb4bc11bed0ef2375ec964bf4a7e88d517da13fdb798a69bd299f5f21a56ded6f3f8171498bcd4b56c6b1976b8bb09b7e22b9ecbe902c484a1d61ebab47d4be25360e68b8151507ba3fbeb4cabc2fe35de7e08a731afdb6f5a514349d9784f218c27db07db7a5dbdc79d2afa12867add45c75b4e71e2b5a42e1c9b16ce8f3a4f08fd7068d678d7979348f34e356d14bd96c25e8f8ecb0599a582c8d200e664f",
+            "classification": {
+                "Retinal pigment epithelium changes": 34.46,
+                "Media haze": 52.82
+            },
+            "severity_score": "1.9962949",
+            "class": "Moderate",
+            "date": "11-2-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-2-2017/0000620875r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173633Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5c9327d49d5a5b109a8852a9f51afc9a86f3574183d816ad3f72b4144b4a244eb2814802934a82a5c9f59f3dedf55e96cb6663dc9f3f481c28ff9d211655d082608beb5de80c2df8dd42339519f68fe1265a94730556ab1a4107763a68ab78ccfede62cae61f65bcc37281e69f1a0fedeb5c31331b2567ad85bcf0266e5c7891d2e47d09ce563fd4b70fe68d3ed107079476fe8420062c10b4d4afa607921ed1f53786ab5c47d0dff89ad519f3f60cc1d6adb354587255372fadb1a8fbbc6a4005f7e14d8a1ba8f0a4ec4628a33a2771eb81e286837421b1508f46ff5918362a9f5b0f76d284a42bf191c0c21845e26f70803b4b3c8b27c37eea59a63935a2b7",
+            "classification": {
+                "Media haze": 22.81,
+                "Age-related macular degeneration": 99.38
+            },
+            "severity_score": "2.7128491",
+            "class": "Severe",
+            "date": "11-2-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-2-2017/0000620876r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T173703Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=09a2a68119700791e44900966208a0d16019010127483d501f555f0594a786c907f4061f1be45b178d92143a6e7e97dfd1143b238ecd7c8bf6c917a0436b2b097ac238079dffaac2f1ac0394f7f844d74c0e63e873ed144eaef289321657efdf82dab50aa4cab37aead8916f66dbec4fd57684f0a19f5b72463d7a532769beec3fe1af7603c9ca7837128b973b530e01d0a366adac91d139ad3d3cedd9720e18f96a40cb6f88b9d4ff9c6a4806af040ff0fa855b12375cb15a51eab2f0eb92efd9a9476c050957e63646391f2c43289ebc9f86dc404c23f85af7477bdd9c36e9255d2691a9a0d87b873a75999b49df178e6937eef186e66c43b50639acf03e75",
+            "classification": {
+                "Central retinal vein occlusion": 12.35,
+                "Age-related macular degeneration": 60.62
+            },
+            "severity_score": "2.641004",
+            "class": "Severe",
+            "date": "11-2-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/12-21-2017/0000630856r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174029Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=17b7dacee0e2d594e975e7dbc56e92a0a1b1625d3edd221f8f5aaf85b112821e42253acc85473880699b416b6521aca6a5d8126c9154b108b68e8ece075a23adc568ce70e1b358a0ce9fa844d6b4e05d41c9937dba2079619a43215ce87f1ded4dc6c13d8036f69fdf97398531d6cd5a630361aff1ad6f481ebb36ba384b1ca946620fdc6d22fe27680cf5e5e8a550702479c08990b06f669a0c9c39be1187bd71ba35d3f357425c63f6fe532666db3cbe68fcf4f167197716c8a46f0c1a9258234a267c6c180842827db5fac91f21dbfb1ad0cae4b4d43506eeb01aeb8a29639180a38764c48b01ef7762c2a550a3e4d2400869c2809711f291c5455b66d675",
+            "classification": {
+                "Retinal pigment epithelium changes": 94.7
+            },
+            "severity_score": "2.0273225",
+            "class": "Moderate",
+            "date": "12-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/12-21-2017/0000630858r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174051Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3b88c45f989649359299e6bed8c2427e5f914fb0f549f34b90a585624ed2452b77bdf8573435aebb3f27f062db0ef331466ff1a73eebad28f882d7d093ff5c40aaa01877f2e27f930d0e96c36259ea4393932714de08474d95a0b5cde62d9f179f658aecf8db29f4ff02bbf379ff2262f49883863387a412cb46a0776879f0bae283853f0ea27d9d0d738d2c8c816484610fada3fbbbac68f836f98c7619dd34a09a2082142b74b9df867a35bd9486af60c29ba1a4a53f93a6395adccf99573e970d668c80ea58565d23d92abce128d96a5464d07c1566512fac1c1d13f20c8b0ecefdf173ae470248885e4f607a49bb3f7becced26dfe51b321e253de604608",
+            "classification": {
+                "Media haze": 34.11,
+                "Retinal pigment epithelium changes": 86.44
+            },
+            "severity_score": "2.0701048",
+            "class": "Moderate",
+            "date": "12-21-2017"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-26-2018/0000696357r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T174949Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=31ea061ab9e09ff1b501e90c19478e780ed84dc3eb754cded9d0bb29a24e64c734d29bd7450685811de384006f50149cd038b5003e99388d17c5c7225d588ba0bb5ccf4a1640be747a576c9af872a84624594cd3003a7e5324bd3795645cc1c19cdfbba24cbcc013448e0b3abd6869d0c407afd38000b2c953aebcb5e222673a32e40ad9352079ca9f2afc35b14992e0b07445f7c35830882ad6ce89477ea57f35063dabd68ed3a321d6a337356fc2828a80e3037f19aba4cd4bb4f38b9748325fac4244f00bfa74b15410b18d740cb09c25ec783a64faade708b22a5873b3882677a54337938b4626a5cdf6c9f93c9f0d28ea0d4f0ac1706d6ed84e89dd9ada",
+            "classification": {},
+            "severity_score": "2.1702695",
+            "class": "Moderate",
+            "date": "11-26-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-26-2018/0000696358r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T175013Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=836f171e903c0a3b5e985d57a70bbc02ef744cd8d766bfaf449888bb43eb4a9d2e41581d18b3a2b4e3b1be9e6d5d2bc473de9fe16af202d2e3fefc541e3c26b067936eaa078fdb417a2c8478eff2ec02d8f96e7469c458b5dd18914b8009b17e81a34ee7b0206fc2023a82b089d764c32a42626605269eb751b6349201372cb33d53c83894f27ce3fdac68349ddc45497b8ca67349d8d165c4944403d60c7bec37b4228cd667ed96ade6388a174e4c15167ea61359bda61a38650e031b863795fc9422c9ddd5e90c33684a311b242f56963097b8094df81e681fac1cac8d02a0eae5740abb07adacfcfafd6faf95f10b574cb5e65dfd290c0cdd11e056c9d568",
+            "classification": {
+                "Retinal pigment epithelium changes": 67.21,
+                "Media haze": 81.74
+            },
+            "severity_score": "2.0233555",
+            "class": "Moderate",
+            "date": "11-26-2018"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-24-2021/0000871145r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T180931Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6f8bfe4f20cee240684dec0aaa8146c1a89c4aa49f0e6c3b6128ca3b6ce2ed3a7fb5cafcc811afe9f58cfa105a2c1c84c792ff69450afea17248e536e933a40375861b18f93de691032de1f76b825b38f97f71094a08a9d42e1a5d25982a402bf1292df91549e6b7183396f99bbfd788fda0061606a9422e2dfe177b95b287252c11e8ce426efa97ab56f970e2f26ced67101fc75e6102f6d2e9eff2473e3537f599ab4785dfb4ae706910529465b86a9401b13f33610a6db2cd220edb3545428dbc049c37505edbe74f7c469e3411054fd21ff76adf015db991d5395cb29e7ab27644017b46b5d4dfe019719b7516c9966faa8aa91a13df9a64c6e593cab826",
+            "classification": {
+                "Media haze": 31.91,
+                "Retinal pigment epithelium changes": 74.35
+            },
+            "severity_score": "1.8957117",
+            "class": "Moderate",
+            "date": "11-24-2021"
+        },
+        {
+            "url": "https://storage.googleapis.com/retina-d503d.appspot.com/./17991/11-24-2021/0000871146r.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=firebase-adminsdk-6dofo%40retina-d503d.iam.gserviceaccount.com%2F20230803%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230803T181004Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=38bc56c1688e608bf56f358df761e1f5eae686a9a7c186299e382a8d52beb657ec8e3b5845d5200101929f730dd0823190c1a629a0ee4e12074c1d69c3861d81d70a3a76ed74ed3adef254cf7195fe0870eb9c739b63717ee7e7fd03bc95d4716ae688e30004d1e5976bc3faa34f63117919b4c8568b93bbb88ab56840dd783d902fa2aa1d3ebb25c14d0f7bb8ae4d9f000404554e8b12fd4272e4d4476c6a339225e4548ce1d824aab9f8c6b0ccca855573a32190f641846085646c30db9d12f4d92d5a7f37deef938366100ba4d7f265f285a001cc8fdc06c868c496feb5d49ca279a7670d535de7be17f723472fce38294dc32d51741e82b5b7e66da44bca",
+            "classification": {
+                "Retinal pigment epithelium changes": 91.69,
+                "Media haze": 93.86
+            },
+            "severity_score": "2.134873",
+            "class": "Moderate",
+            "date": "11-24-2021"
+        }
+    ]
+}

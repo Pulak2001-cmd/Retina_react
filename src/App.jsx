@@ -1,0 +1,26 @@
+import { useState } from 'react'
+import {Routes, Route} from 'react-router-dom';
+import Home from './components/Home';
+import Login from './components/Login';
+import Patient from './components/Patient';
+
+function App() {
+  const [count, setCount] = useState(true)
+
+  return (
+    <Routes>
+      {count ? 
+        <>
+        <Route path='/' element={<Home setCount={setCount} />} /> 
+        <Route path='/patient' element={<Patient setCount={setCount} />} />
+        </>
+        : 
+        <>
+          <Route path='/*' element={<Login setCount={setCount} />} />
+        </>
+      }
+    </Routes>
+  )
+}
+
+export default App
