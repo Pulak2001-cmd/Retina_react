@@ -39,7 +39,6 @@ export default function Home({setCount}) {
             })
             data = await response.data;
             console.log(data);
-            setData(data);
             await db.add({
                 filename: file.name,
                 data: data
@@ -50,7 +49,8 @@ export default function Home({setCount}) {
     }).catch(err=> {
         console.error(err);
     })
-    
+    console.log(data);
+    setData(data);
     let disease = data.disease;
     let arr = [];
     for(const dis in disease) {
@@ -81,7 +81,7 @@ export default function Home({setCount}) {
             />
           </div>
           <div class="col-6 d-flex flex-column align-items-center justify-content-center">
-            <h1 class="p-4" style={{backgroundColor: 'rgb(0, 0, 0, 0.)', fontSize: '70px', borderRadius: '15px', color: 'white'}}>Result</h1>
+            <h1 class="p-4" style={{backgroundColor: 'rgb(0, 0, 0, 0.5)', fontSize: '70px', borderRadius: '15px', color: 'white'}}>Result</h1>
             {parseInt(model) === 1 && <div class="model1">
               <h4 class="text-light">Diabetic Retinopathy Severity Analysis</h4>
               <p class="m-0 fw-bold fs-4">
@@ -96,7 +96,7 @@ export default function Home({setCount}) {
                 <p class="m-0">5</p>
               </div>
               <div class="progress1">
-                <div class="bar7" style={{width: `${750-150*data.category_score}px`}}></div>
+                <div class="bar7" style={{width: `${750-150*parseFloat(data.category_score)}px`}}></div>
               </div>
               <div class="d-flex flex-row justify-content-between">
                 <p class="m-2 fs-3">0 : None</p>

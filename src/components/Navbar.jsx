@@ -19,7 +19,7 @@ export default function Navbar({setCount}) {
         <div class="d-flex flex-row m-auto" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex flex-row align-items-center justify-content-center">
                 <li class="nav-item m-3">
-                    <Link class="nav-link active" aria-current="page" to="/">Home</Link>
+                    <Link class="nav-link active" aria-current="page" to="/">Single Image Analysis</Link>
                 </li>
                 <li class="nav-item m-3">
                     <Link class="nav-link" aria-current="page" to="/patient">Patient Analysis</Link>

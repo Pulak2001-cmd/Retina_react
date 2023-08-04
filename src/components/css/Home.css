@@ -161,3 +161,23 @@ td{
   .marker{
     width: 150px;
 }
+
+.contain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0,0,0,0.7);
+    width: calc(33%-20px);
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}

@@ -5,7 +5,7 @@ import Login from './components/Login';
 import Patient from './components/Patient';
 
 function App() {
-  const [count, setCount] = useState(false)
+  const [count, setCount] = useState(true)
 
   return (
     <Routes>
