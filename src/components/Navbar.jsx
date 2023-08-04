@@ -1,7 +1,12 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
-export default function Navbar() {
+export default function Navbar({setCount}) {
+  const navigation = useNavigate();
+  const logout = ()=> {
+    setCount(false);
+    navigation('/');
+  }
   return (
     <nav class="d-flex flex-row">
         <div class=" m-auto ps-2">
@@ -28,8 +33,8 @@ export default function Navbar() {
                 <li class="nav-item m-3">
                     <a class="nav-link" href="https://infomaticae.com/contact-1/">Contact Us</a>
                 </li>
-                <li class="nav-item m-3">
-                    <a class="nav-link" href="/logout">Logout</a>
+                <li class="nav-item m-3" onClick={logout}>
+                    <a class="nav-link" href="">Logout</a>
                 </li>
             </ul>
         </div>

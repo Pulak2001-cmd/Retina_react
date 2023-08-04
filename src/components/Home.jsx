@@ -5,7 +5,7 @@ import axios from 'axios';
 import firebase from "firebase/compat/app";
 import {firebaseConfig} from '../config';
 
-export default function Home() {
+export default function Home({setCount}) {
   const db = firebase.firestore().collection('data');
   const [file, setFile] = useState(null);
   const [model, setModel] = useState("");
@@ -66,7 +66,7 @@ export default function Home() {
   };
   return (
     <div className="body1">
-      <Navbar />
+      <Navbar setCount={setCount}/>
       {result ? (
         <div class="d-flex align-items-center justify-content-center m-4 flex-row">
           <div class="col-6 d-flex flex-column align-items-center justify-content-center">
