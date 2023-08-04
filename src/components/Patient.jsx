@@ -170,7 +170,7 @@ export default function Patient({setCount}) {
                         {/* {i.data.diseases} */}
                         {i.data.disease !== undefined && i.data.disease.length === 0 ? 
                         <h6 class="text-light">✅ No disease found</h6>:
-                        <table class="table table-striped m-3">
+                        i.data.disease !== undefined && <table class="table table-striped m-3">
                             <tr>
                             <th class="fs-4">Disease name</th>
                             <th class="fs-4">Disease Probability</th>
@@ -190,7 +190,7 @@ export default function Patient({setCount}) {
                         </table>}
                         {i.disease && i.disease.length === 0 ? 
                         <h6 class="text-light">✅ No disease found</h6>:
-                        <table class="table table-striped m-3">
+                        i.disease !== undefined && <table class="table table-striped m-3">
                             <tr>
                             <th class="fs-4">Disease name</th>
                             <th class="fs-4">Disease Probability</th>
@@ -201,10 +201,10 @@ export default function Patient({setCount}) {
                             <td class="fs-5">{i.score}</td>
                             </tr>
                             ))} */}
-                            {Object.keys(i.data.disease).map((j, index1)=> (
+                            {Object.keys(i.disease).map((j, index1)=> (
                                 <tr key={index1}>
                                     <td className="fs-5">{j}</td>
-                                    <td className="fs-5">{i.data.disease[j]}</td>
+                                    <td className="fs-5">{i.disease[j]}</td>
                                 </tr>
                             ))}
                         </table>}
