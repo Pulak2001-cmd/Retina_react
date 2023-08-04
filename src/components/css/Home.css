@@ -151,6 +151,16 @@ td{
     height: 30px;
     background: linear-gradient(to left, red 0%, yellow 88.6%, green 100%);
   }
+.progress2{
+    margin: 5px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 200px;
+    border-radius: 5px;
+    height: 30px;
+    background: linear-gradient(to left, red 0%, yellow 88.6%, green 100%);
+  }
   .bar7{
     border-radius: 0 5px 5px 0;
     right: 0;
@@ -160,6 +170,9 @@ td{
   }
   .marker{
     width: 150px;
+}
+  .marker1{
+    width: 40px;
 }
 
 .contain{
@@ -180,4 +193,36 @@ td{
     box-sizing: border-box;
     align-items: center;
     justify-content: center;
+}
+
+.element{
+    background-color: rgb(0, 0, 0, 0.7);
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    text-align: center;
+}
+.dateBackground{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0,0,0,0.7);
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    text-align: center;
+}
+.imgBack{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(0, 0, 0, 0.7);
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
 }
