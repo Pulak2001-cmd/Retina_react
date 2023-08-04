@@ -1,8 +1,18 @@
-import React from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import React, {useEffect, useState} from 'react';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
 
 export default function Navbar({setCount}) {
   const navigation = useNavigate();
+  const [heading, setHeading] = useState('home');
+  const location = useLocation();
+  useEffect(()=> {
+    console.log(location.pathname);
+    if(location.pathname === '/'){
+        setHeading('home');
+    } else {
+        setHeading('patient')
+    }
+  }, [])
   const logout = ()=> {
     setCount(false);
     navigation('/');
@@ -19,10 +29,10 @@ export default function Navbar({setCount}) {
         <div class="d-flex flex-row m-auto" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex flex-row align-items-center justify-content-center">
                 <li class="nav-item m-3">
-                    <Link class="nav-link active" aria-current="page" to="/">Single Image Analysis</Link>
+                    <Link class={`nav-link ${heading === 'home' && 'text-warning'}`} onClick={()=> setHeading('home')} aria-current="page" to="/">Single Image Analysis</Link>
                 </li>
                 <li class="nav-item m-3">
-                    <Link class="nav-link" aria-current="page" to="/patient">Patient Analysis</Link>
+                    <Link class={`nav-link ${heading === 'patient' && 'text-warning'}`} onClick={()=> setHeading('patient')} aria-current="page" to="/patient">Patient Analysis</Link>
                 </li>
                 <li class="nav-item m-3">
                     <a class="nav-link" href="https://infomaticae.com/about/">About Us</a>

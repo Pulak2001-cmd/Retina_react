@@ -185,7 +185,8 @@ td{
     display: flex;
     flex-direction: column;
     background-color: rgba(0,0,0,0.7);
-    width: calc(33%-20px);
+    /* width: calc(33%-20px); */
+    min-width: 590px;
     margin: 20px;
     padding: 10px;
     border: 1px solid #eee;

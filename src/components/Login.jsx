@@ -24,7 +24,7 @@ export default function Login({setCount}) {
                 
             </div>
         </div>
-        <form enctype="multipart/form-data">
+        <form enctype="multipart/form-data" className='d-flex flex-column'>
             <div class="form-floating mb-3">
                 <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} class="form-control input" id="floatingInput" placeholder="name@example.com" name="email" />
                 <label for="floatingInput">Email address</label>

@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 import './css/Home.css';
 import firebase from 'firebase/compat/app';
 
-export default function Patient() {
+export default function Patient({setCount}) {
   const db = firebase.firestore().collection('data');
   const [ids, setIds] = useState([]);
   const [currId, setCurrId] = useState('');
@@ -91,16 +91,26 @@ export default function Patient() {
     })
     console.log(dt);
     setDateData(dt);
+    let p = []
+    for(let i=0;i<dt.length;i++){
+        if(dt[i].data.disease){
+            p.push(dt[i].data.disease);
+        } else {
+            p.push(dt[i].disease);
+        }
+    }
+    setDis(p)
   }
   const [dates, setDates] = useState([]);
   const [body, setBody] = useState(true);
   const [selectDate, setSelectDate] = useState('');
   const [result2, setResult2] = useState(false);
   const [dateData, setDateData] = useState([]);
+  const [dis, setDis] = useState({});
   const [model1Data, setModel1Data] = useState({});
   return (
     <div className="body1">
-        <Navbar />
+        <Navbar setCount={setCount}/>
         {parseInt(model) === 1 && result2 && 
             <div className="p-3 d-flex flex-column align-items-center justify-conter-center">
                 <button className="btn btn-primary" onClick={()=> {
@@ -154,10 +164,31 @@ export default function Patient() {
             <div className="contain">
                 {dateData.map((i, index)=> (
                     <div key={index} className="item">
+                        <p>Filename : {i.filename}</p>
                         <img src={i.url} style={{height: 200, width: 200}} />
                         <h3>Retinal Disease Classification</h3>
                         {/* {i.data.diseases} */}
-                        {i.data.disease.length === 0 ? 
+                        {i.data.disease !== undefined && i.data.disease.length === 0 ? 
+                        <h6 class="text-light">✅ No disease found</h6>:
+                        <table class="table table-striped m-3">
+                            <tr>
+                            <th class="fs-4">Disease name</th>
+                            <th class="fs-4">Disease Probability</th>
+                            </tr>
+                            {/* {i.data.disease.map((i, index) =>(
+                            <tr key={index}>
+                            <td class="fs-5">{i.disease_name}</td>
+                            <td class="fs-5">{i.score}</td>
+                            </tr>
+                            ))} */}
+                            {Object.keys(i.data.disease).map((j, index1)=> (
+                                <tr key={index1}>
+                                    <td className="fs-5">{j}</td>
+                                    <td className="fs-5">{i.data.disease[j]}</td>
+                                </tr>
+                            ))}
+                        </table>}
+                        {i.disease && i.disease.length === 0 ? 
                         <h6 class="text-light">✅ No disease found</h6>:
                         <table class="table table-striped m-3">
                             <tr>
