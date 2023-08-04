@@ -83,6 +83,7 @@ export default function Single({setCount}) {
     setLoading(false);
     
   };
+  const [zoomed, setZoomed] = useState(false);
   return (
     <div className="body1">
       <Navbar setCount={setCount}/>
@@ -93,8 +94,10 @@ export default function Single({setCount}) {
             <p>Filename : {file} </p>
             <img
               src={image}
+              className={`bg-light p-1 mt-5 ${zoomed ? 'zoom-in':'zoom-out'}`}
               class="bg-light p-1 mt-5"
               height="400"
+              onClick={()=> setZoomed(!zoomed)}
               width="575"
               alt="image"
             />

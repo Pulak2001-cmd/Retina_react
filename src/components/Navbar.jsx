@@ -38,7 +38,7 @@ export default function Navbar({setCount}) {
                     <a class="nav-link" href="https://infomaticae.com/about/">About Us</a>
                 </li>
                 <li class="nav-item m-3">
-                    <a class="nav-link" href="https://infomaticae.com/services-cat/services/">Other Services</a>
+                    <Link class="nav-link" to="/single">Other Services</Link>
                 </li>
                 <li class="nav-item m-3">
                     <a class="nav-link" href="https://infomaticae.com/contact-1/">Contact Us</a>
