@@ -41,9 +41,27 @@ export default function Single({setCount}) {
             }
             setDts(arr);
         })
-    } else {
+    } else if(parseInt(ml) === 1) {
         await db.where('public', '==', 5).get().then(async (query) => {
             console.log(query.docs.length);
+            const list = query.docs;
+            let arr = [];
+            for(let i=0; i<list.length; i++) {
+                if(!dicts.includes(list[i].data().patient_id)) {
+                    dicts.push(list[i].data().patient_id);
+                }
+                arr.push(list[i].data().filename)
+            }
+            arr.sort(function(a, b) {
+              var c = a.replace('.png', '');
+              var d = b.replace('.png', '');
+              return parseInt(c)-parseInt(d);
+            })
+            setDts(arr);
+        })
+    } else if(parseInt(ml) === 3){
+        await db.where('public', '==', 3).get().then(async (query)=> {
+          console.log(query.docs.length);
             const list = query.docs;
             let arr = [];
             for(let i=0; i<list.length; i++) {
@@ -69,10 +87,22 @@ export default function Single({setCount}) {
     if (filename.includes('/')){
       f = filename.split('/')[1];
     }
-    await db.where('filename', '==', f).where('filename', '!=', null).get().then(async (query)=> {
+    if (type === 3){
+      await db.where('filename', '!=', null).where('filename', '==', f).where('public', '==', 3).get().then(async (query)=> {
         // let data = query.docs;
         data = query.docs[0].data();
-    })
+      })
+    } else if(type === 2){
+      await db.where('filename', '!=', null).where('filename', '==', f).where('public', '==', 5).get().then(async (query)=> {
+        // let data = query.docs;
+        data = query.docs[0].data();
+      })
+    } else {
+      await db.where('filename', '==', f).where('filename', '!=', null).get().then(async (query)=> {
+          // let data = query.docs;
+          data = query.docs[0].data();
+      })
+    }
     console.log('firebase', data);
     setData(data.data);
     setFile(data.filename);
@@ -205,8 +235,9 @@ export default function Single({setCount}) {
                     required
                   >
                     <option value={""}>Select Your preferred data</option>
+                    <option value={3}>Public Train Data</option>
                     <option value={1}>
-                      Public Data
+                      Public Test Data
                     </option>
                     <option value={2}>Patient Data</option>
                   </select>
