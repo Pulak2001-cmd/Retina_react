@@ -263,7 +263,7 @@ export default function Single({setCount}) {
                     name="model"
                     required
                   >
-                    <option value={""}>Select AI model</option>
+                    <option value={""}>Select AI Model</option>
                     <option value={1}>
                       Diabetic Retinopathy Severity Analysis
                     </option>
