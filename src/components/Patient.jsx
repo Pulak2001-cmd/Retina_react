@@ -114,6 +114,7 @@ export default function Patient({setCount}) {
   const [dateData, setDateData] = useState([]);
   const [dis, setDis] = useState({});
   const [model1Data, setModel1Data] = useState({});
+  const [imgZoom, setImageZoom] = useState('');
   return (
     <div className="body1">
         <Navbar setCount={setCount}/>
@@ -138,7 +139,15 @@ export default function Patient({setCount}) {
                     {model1Data[item].map((i, index)=> (
                         <div class='element' key={index}>
                             <p>Filename : {i.filename}</p>
-                            <img src={i.url} class="bg-light p-1 m-2" height="270" width="395" alt="image" />
+                            <img src={i.url} 
+                            onClick={()=> {
+                                if(imgZoom === i.url){
+                                    setImageZoom('');
+                                } else {
+                                    setImageZoom(i.url)
+                                }
+                            }}
+                            className={`bg-light p-1 m-2 ${imgZoom === i.url ? 'zoom-in': 'zoom-out'}`} height="270" width="395" alt="image" />
                             <h4 class="text-light">Retinal Image Analysis</h4>
                             <p> DR Grade: {i.category} ({i.category_score}) </p> 
                             <div class="d-flex flex-row">
@@ -170,7 +179,16 @@ export default function Patient({setCount}) {
                 {dateData.map((i, index)=> (
                     <div key={index} className="item">
                         <p>Filename : {i.filename}</p>
-                        <img src={i.url} style={{height: 200, width: 300}} />
+                        <img 
+                        onClick={()=> {
+                            if(imgZoom === i.url){
+                                setImageZoom('');
+                            } else {
+                                setImageZoom(i.url)
+                            }
+                        }}
+                        className={`bg-light p-1 m-2 ${imgZoom === i.url ? 'zoom-in': 'zoom-out'}`}
+                        src={i.url} style={{height: 220, width: 300}} />
                         <h3>Retinal Disease Classification</h3>
                         {/* {i.data.diseases} */}
                         {i.data.disease !== undefined && i.data.disease.length === 0 ? 

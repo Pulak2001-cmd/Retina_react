@@ -197,7 +197,7 @@ td{
     border-radius: 10px;
     box-sizing: border-box;
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 .element{
@@ -235,6 +235,7 @@ td{
 
 .zoom-in {
     transform: scale(2);
+    z-index: 100;
 }
 
 .zoom-out{
