@@ -37,7 +37,7 @@ export default function Single({setCount}) {
                 if(!dicts.includes(list[i].data().patient_id)) {
                     dicts.push(list[i].data().patient_id);
                 }
-                arr.push(list[i].data().filename)
+                arr.push(`${list[i].data().date}/${list[i].data().filename}`)
             }
             setDts(arr);
         })
@@ -65,7 +65,11 @@ export default function Single({setCount}) {
   const submit = async () => {
     setLoading(true);
     let data = null;
-    await db.where('filename', '==', filename).where('filename', '!=', null).get().then(async (query)=> {
+    let f = filename
+    if (filename.includes('/')){
+      f = filename.split('/')[1];
+    }
+    await db.where('filename', '==', f).where('filename', '!=', null).get().then(async (query)=> {
         // let data = query.docs;
         data = query.docs[0].data();
     })
@@ -95,7 +99,6 @@ export default function Single({setCount}) {
       {result ? (
         <div class="d-flex align-items-center justify-content-center m-4 flex-row">
           <div class="col-6 d-flex flex-column align-items-center justify-content-center">
-            <h5 class="text-light">Uploaded Image  </h5>
             <p>Filename : {file} </p>
             <img
               src={image}
@@ -135,7 +138,7 @@ export default function Single({setCount}) {
               <div>
                 <div onClick={()=> setResult(false)} class="m-4">
                   <button type="submit" class="btn btn-primary">
-                    Upload Again
+                    Select Another Image
                   </button>
                 </div>
                 </div>
@@ -159,7 +162,7 @@ export default function Single({setCount}) {
                   </table>}
                   <div onClick={()=> setResult(false)} class="m-4">
                   <button type="submit" class="btn btn-primary">
-                    Upload Again
+                    Select Another Image
                   </button>
                 </div>
                 </div>}
@@ -216,7 +219,7 @@ export default function Single({setCount}) {
                     name="model"
                     required
                   >
-                    <option value={""}>Select a file</option>
+                    <option value={""}>Select an image</option>
                     {dts.map((i, index)=> (
                         <option value={i} key={index}>{i}</option>
                     ))}
@@ -229,7 +232,7 @@ export default function Single({setCount}) {
                     name="model"
                     required
                   >
-                    <option value={""}>Select Your model</option>
+                    <option value={""}>Select AI model</option>
                     <option value={1}>
                       Diabetic Retinopathy Severity Analysis
                     </option>

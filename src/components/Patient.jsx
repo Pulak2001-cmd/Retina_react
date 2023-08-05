@@ -75,6 +75,7 @@ export default function Patient({setCount}) {
             }
             console.log('dicts:', dicts);
         })
+
         setModel1Data(dicts);
     }
   }
@@ -101,6 +102,11 @@ export default function Patient({setCount}) {
     }
     setDis(p)
   }
+  function sortData(a, b){
+    var c = new Date(a);
+    var d = new Date(b);
+    return c-d;
+  }
   const [dates, setDates] = useState([]);
   const [body, setBody] = useState(true);
   const [selectDate, setSelectDate] = useState('');
@@ -119,10 +125,10 @@ export default function Patient({setCount}) {
                     setCurrId('');
                     setModel(0);
                     setSelectDate('');
-                }}>Upload Again</button>
+                }}>Select Another Patient</button>
                 <h1 class="p-4 mt-4" style={{backgroundColor: 'rgb(0, 0, 0, 0.5)', fontSize: '70px', borderRadius: '15px', color: 'white'}}>Result</h1>
                 <h3 class="p-2 mt-1" style={{backgroundColor: 'rgb(0, 0, 0, 0.5)', fontSize: '40px', borderRadius: '15px', color: 'white'}}>Patient ID : {currId}</h3>
-                {Object.keys(model1Data).map((item, index) =>(
+                {Object.keys(model1Data).sort(sortData).map((item, index) =>(
                     <div key={index}>
                     <div class="dateBackground">
                     <h1 class="text-light">Date : {item} </h1>
@@ -132,7 +138,7 @@ export default function Patient({setCount}) {
                     {model1Data[item].map((i, index)=> (
                         <div class='element' key={index}>
                             <p>Filename : {i.filename}</p>
-                            <img src={i.url} class="bg-light p-1 m-2" height="200" width="205" alt="image" />
+                            <img src={i.url} class="bg-light p-1 m-2" height="270" width="395" alt="image" />
                             <h4 class="text-light">Retinal Image Analysis</h4>
                             <p> DR Grade: {i.category} ({i.category_score}) </p> 
                             <div class="d-flex flex-row">
@@ -164,7 +170,7 @@ export default function Patient({setCount}) {
                 {dateData.map((i, index)=> (
                     <div key={index} className="item">
                         <p>Filename : {i.filename}</p>
-                        <img src={i.url} style={{height: 200, width: 200}} />
+                        <img src={i.url} style={{height: 200, width: 300}} />
                         <h3>Retinal Disease Classification</h3>
                         {/* {i.data.diseases} */}
                         {i.data.disease !== undefined && i.data.disease.length === 0 ? 
@@ -216,7 +222,7 @@ export default function Patient({setCount}) {
                         setCurrId('');
                         setModel(0);
                         setSelectDate('');
-                }}>Upload Again</button>
+                }}>Select Another Patient</button>
             </div>
         }
         {body && <div class="d-flex flex-row">
@@ -241,12 +247,12 @@ export default function Patient({setCount}) {
                             ))}
                         </select>
                         <select class="form-select" value={model} onChange={(e) =>selectModel(e)} aria-label="Default select example" required>
-                            <option value={0}>Select Your model</option>
+                            <option value={0}>Select AI Model</option>
                             <option value={1}>Diabetic Retinopathy Severity Analysis</option>
                             <option value={2}>Retinal Disease Classification</option>
                         </select>
                     {parseInt(model) === 2 && <select class="form-select" value={selectDate} onChange={(e)=> setChange(e)} aria-label="Default select example" id='formFile' required>
-                            <option value={''}>Select Date</option>
+                            <option value={''}>Select Visit Date</option>
                             {dates.map((i, index) =>(
                                 <option key={index} value={i}>{i}</option>
                             ))}

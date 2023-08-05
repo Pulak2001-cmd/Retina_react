@@ -110,7 +110,7 @@ export default function Home({setCount}) {
               <div>
                 <div onClick={()=> setResult(false)} class="m-4">
                   <button type="submit" class="btn btn-primary">
-                    Upload Again
+                  Select Another Image
                   </button>
                 </div>
                 </div>
@@ -134,7 +134,7 @@ export default function Home({setCount}) {
                   </table>}
                   <div onClick={()=> setResult(false)} class="m-4">
                   <button type="submit" class="btn btn-primary">
-                    Upload Again
+                  Select Another Image
                   </button>
                 </div>
                 </div>}
@@ -187,7 +187,7 @@ export default function Home({setCount}) {
                     name="model"
                     required
                   >
-                    <option value={""}>Select Your model</option>
+                    <option value={""}>Select AI Model</option>
                     <option value={1}>
                       Diabetic Retinopathy Severity Analysis
                     </option>
