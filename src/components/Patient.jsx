@@ -131,7 +131,6 @@ export default function Patient({setCount}) {
                     
                     {model1Data[item].map((i, index)=> (
                         <div class='element' key={index}>
-                            <h5 class="text-light">Uploaded Image </h5>
                             <p>Filename : {i.filename}</p>
                             <img src={i.url} class="bg-light p-1 m-2" height="200" width="205" alt="image" />
                             <h4 class="text-light">Retinal Image Analysis</h4>
