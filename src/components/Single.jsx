@@ -112,7 +112,7 @@ export default function Single({setCount}) {
             {parseInt(model) === 1 && <div class="model1">
               <h4 class="text-light">Diabetic Retinopathy Severity Analysis</h4>
               <p class="m-0 fw-bold fs-4">
-                Severity : { data.category_class } ({ data.category_score })
+                DR Grade : { data.category_class } ({ data.category_score })
               </p>
               <div class="d-flex flex-row">
                 <p class="m-0 marker">0</p>
