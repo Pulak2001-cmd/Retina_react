@@ -52,6 +52,11 @@ export default function Single({setCount}) {
                 }
                 arr.push(list[i].data().filename)
             }
+            arr.sort(function(a, b) {
+              var c = a.replace('.png', '');
+              var d = b.replace('.png', '');
+              return parseInt(c)-parseInt(d);
+            })
             setDts(arr);
         })
     }
