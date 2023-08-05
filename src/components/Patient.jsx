@@ -191,7 +191,7 @@ export default function Patient({setCount}) {
                         src={i.url} style={{height: 220, width: 300}} />
                         <h3>Retinal Disease Classification</h3>
                         {/* {i.data.diseases} */}
-                        {i.data.disease !== undefined && i.data.disease.length === 0 ? 
+                        {i.data.disease !== undefined && Object.keys(i.data.disease).length === 0 ? 
                         <h6 class="text-light">✅ No disease found</h6>:
                         i.data.disease !== undefined && <table class="table table-striped m-3">
                             <tr>
@@ -211,7 +211,7 @@ export default function Patient({setCount}) {
                                 </tr>
                             ))}
                         </table>}
-                        {i.disease && i.disease.length === 0 ? 
+                        {i.disease && Object.keys(i.disease).length === 0 ? 
                         <h6 class="text-light">✅ No disease found</h6>:
                         i.disease !== undefined && <table class="table table-striped m-3">
                             <tr>
