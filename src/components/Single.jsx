@@ -37,7 +37,7 @@ export default function Single({setCount}) {
                 if(!dicts.includes(list[i].data().patient_id)) {
                     dicts.push(list[i].data().patient_id);
                 }
-                arr.push(`${list[i].data().date}/${list[i].data().filename}`)
+                arr.push(`${list[i].data().patient_id}/${list[i].data().date}/${list[i].data().filename}`)
             }
             setDts(arr);
         })
@@ -85,7 +85,7 @@ export default function Single({setCount}) {
     let data = null;
     let f = filename
     if (filename.includes('/')){
-      f = filename.split('/')[1];
+      f = filename.split('/')[2];
     }
     if (type === 3){
       await db.where('filename', '!=', null).where('filename', '==', f).where('public', '==', 3).get().then(async (query)=> {
