@@ -96,15 +96,6 @@ export default function Patient({setCount}) {
     })
     console.log(dt);
     setDateData(dt);
-    let p = []
-    for(let i=0;i<dt.length;i++){
-        if(dt[i].data.disease){
-            p.push(dt[i].data.disease);
-        } else {
-            p.push(dt[i].disease);
-        }
-    }
-    setDis(p)
   }
   function sortData(a, b){
     var c = new Date(a);
@@ -195,9 +186,9 @@ export default function Patient({setCount}) {
                         src={i.url} style={{height: 220, width: 300}} />
                         <h3>Retinal Disease Classification</h3>
                         {/* {i.data.diseases} */}
-                        {i.data.disease !== undefined && Object.keys(i.data.disease).length === 0 ? 
+                        {i.data !== undefined && i.data.disease !== undefined && Object.keys(i.data.disease).length === 0 ? 
                         <h6 class="text-light">✅ No disease found</h6>:
-                        i.data.disease !== undefined && <table class="table table-striped m-3">
+                        i.data !== undefined && i.data.disease !== undefined && <table class="table table-striped m-3">
                             <tr>
                             <th class="fs-4">Disease name</th>
                             <th class="fs-4">Disease Probability</th>
@@ -209,7 +200,7 @@ export default function Patient({setCount}) {
                             </tr>
                             ))} */}
                             {Object.keys(i.data.disease).map((j, index1)=> (
-                                <tr key={index1}>
+                                j !== 'Diabetic retinopathy' && <tr key={index1}>
                                     <td className="fs-5">{j}</td>
                                     <td className="fs-5">{i.data.disease[j]}</td>
                                 </tr>
