@@ -57,21 +57,24 @@ export default function Patient({setCount}) {
                     continue;
                 }
                 files.push(d.filename)
-                let temp = {
-                    date: d.date,
-                    category: d.data.category_class,
-                    category_score: d.data.category_score,
-                    filename: d.filename,
-                    url: d.url
-                }
-                if(dicts[d.date]){
-                    if(!dicts[d.date].includes(temp)){
-                        dicts[d.date].push(temp);
+                console.log(d.data);
+                if(d.data !== undefined){
+                    let temp = {
+                        date: d.date,
+                        category: d.data.category_class,
+                        category_score: d.data.category_score,
+                        filename: d.filename,
+                        url: d.url
                     }
-                } else {
-                    dicts[d.date] = [temp];
+                    if(dicts[d.date]){
+                        if(!dicts[d.date].includes(temp)){
+                            dicts[d.date].push(temp);
+                        }
+                    } else {
+                        dicts[d.date] = [temp];
+                    }
+                    arr.push(temp);
                 }
-                arr.push(temp);
             }
             console.log('dicts:', dicts);
         })
