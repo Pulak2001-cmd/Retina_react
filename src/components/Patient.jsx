@@ -43,6 +43,7 @@ export default function Patient({setCount}) {
             }
         })
         console.log(dicts)
+        arr.sort(sortData)
         setDates(arr);
     } else if(parseInt(ml) === 1) {
         console.log("hiiii")
