@@ -35,13 +35,7 @@ export default function Navbar({setCount}) {
                     <Link class={`nav-link ${heading === 'patient' && 'text-warning'}`} onClick={()=> setHeading('patient')} aria-current="page" to="/patient">Patient Analysis</Link>
                 </li>
                 <li class="nav-item m-3">
-                    <a class="nav-link" href="https://infomaticae.com/about/">About Us</a>
-                </li>
-                <li class="nav-item m-3">
                     <Link class="nav-link" to="/single">Other Services</Link>
-                </li>
-                <li class="nav-item m-3">
-                    <a class="nav-link" href="https://infomaticae.com/contact-1/">Contact Us</a>
                 </li>
                 <li class="nav-item m-3" onClick={logout}>
                     <a class="nav-link" href="">Logout</a>
